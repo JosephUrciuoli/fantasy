@@ -213,6 +213,10 @@ def create_data_golf_df(use_csv=False):
         hdfs_df = historical_dfs_data()
         ptp_df = pre_tournament_predictions_archive()
 
+    for df in [ho_df, hdfs_df, ptp_df]:
+        df[["dg_id", "event_id", "year"]] = df[["dg_id", "event_id", "year"]].apply(
+            pd.to_numeric
+        )
     df_0 = pd.merge(
         left=ho_df, right=hdfs_df, on=["dg_id", "event_id", "year"], how="outer"
     )
@@ -225,4 +229,4 @@ def create_data_golf_df(use_csv=False):
 # pre_tournament_predictions_archive()
 # historical_outrights()
 # historical_dfs_data()
-create_data_golf_df(False)
+create_data_golf_df(True)
