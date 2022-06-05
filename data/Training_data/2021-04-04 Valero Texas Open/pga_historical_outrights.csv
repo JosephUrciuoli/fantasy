@@ -1,0 +1,137 @@
+bet_outcome_numeric,bet_outcome_text,close_odds,close_time,dg_id,open_odds,open_time,outcome,player_name,book,event_completed,event_name,market,season,year,event_id
+1,paid in full,+1196,2021-03-31 22:45,14636,+1607,2021-03-29 12:15,1,"Spieth, Jordan",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+1206,2021-03-31 22:45,18417,+1300,2021-03-29 12:15,T54,"Scheffler, Scottie",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+1206,2021-03-31 22:45,11676,+1300,2021-03-29 12:15,CUT,"Finau, Tony",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+1695,2021-03-31 22:45,18238,+1824,2021-03-29 12:15,T23,"Ancer, Abraham",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+1736,2021-03-31 22:45,13562,+2457,2021-03-29 12:15,T30,"Matsuyama, Hideki",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+1836,2021-03-31 22:45,7820,+1977,2021-03-29 12:15,T17,"Palmer, Ryan",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+2118,2021-03-31 22:45,14013,+2279,2021-03-29 12:15,T9,"Tringale, Cameron",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+2157,2021-03-31 22:45,17576,+2317,2021-03-29 12:15,T14,"Conners, Corey",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+2248,2021-03-31 22:45,14609,+2418,2021-03-29 12:15,T23,"Kim, Si Woo",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+3302,2021-03-31 22:45,5768,+3963,2021-03-29 12:15,2,"Hoffman, Charley",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+3391,2021-03-31 22:45,15330,+3644,2021-03-29 12:15,T34,"Griffin, Lanto",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+3605,2021-03-31 22:45,17786,+3871,2021-03-29 12:15,T69,"Davis, Cameron",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+3908,2021-03-31 22:45,19483,+4197,2021-03-29 12:15,CUT,"Burns, Sam",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+4201,2021-03-31 22:45,12423,+5171,2021-03-29 12:15,T6,"Kirk, Chris",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+4404,2021-03-31 22:45,11019,+4731,2021-03-29 12:15,77,"Steele, Brendan",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+4736,2021-03-31 22:45,7489,+5083,2021-03-29 12:15,76,"Moore, Ryan",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+4887,2021-03-31 22:45,6892,+5246,2021-03-29 12:15,CUT,"Howell III, Charles",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+5499,2021-03-31 22:45,20770,+5901,2021-03-29 12:15,T9,"Munoz, Sebastian",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+5512,2021-03-31 22:45,13872,+5914,2021-03-29 12:15,T23,"Bradley, Keegan",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+6085,2021-03-31 22:45,15473,+6531,2021-03-29 12:15,CUT,"Long, Adam",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+6104,2021-03-31 22:45,11952,+10966,2021-03-29 12:15,T23,"Grace, Branden",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+6284,2021-03-31 22:45,6986,+6745,2021-03-29 12:15,CUT,"Johnson, Zach",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+6338,2021-03-31 22:45,22051,+7679,2021-03-29 12:15,T44,"Wise, Aaron",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+6454,2021-03-31 22:45,14606,+6927,2021-03-29 12:15,T69,"Huh, John",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+6569,2021-03-31 22:45,16602,+7050,2021-03-29 12:15,CUT,"Varner III, Harold",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+6588,2021-03-31 22:45,6169,+7070,2021-03-29 12:15,T12,"Kuchar, Matt",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+6814,2021-03-31 22:45,24550,+7311,2021-03-29 12:15,T44,"Ghim, Doug",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+7176,2021-03-31 22:45,14509,+7703,2021-03-29 12:15,74,"Dahmen, Joel",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+7608,2021-03-31 22:45,17511,+8165,2021-03-29 12:15,T67,"Straka, Sepp",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+7768,2021-03-31 22:45,14704,+9407,2021-03-29 12:15,CUT,"Putnam, Andrew",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+8261,2021-03-31 22:45,13965,+8865,2021-03-29 12:15,T23,"Hadwin, Adam",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+8362,2021-03-31 22:45,23542,+8973,2021-03-29 12:15,T34,"Champ, Cameron",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+8376,2021-03-31 22:45,12577,+8988,2021-03-29 12:15,T6,"Woodland, Gary",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+8438,2021-03-31 22:45,12965,+10343,2021-03-29 12:15,T17,"Fowler, Rickie",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+8481,2021-03-31 22:45,15575,+9099,2021-03-29 12:15,T12,"Hoge, Tom",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+8822,2021-03-31 22:45,13126,+9463,2021-03-29 12:15,T59,"Taylor, Nick",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+9442,2021-03-31 22:45,19870,+10128,2021-03-29 12:15,T34,"McCarthy, Denny",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+9629,2021-03-31 22:45,11657,+10329,2021-03-29 12:15,CUT,"Norlander, Henrik",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+9757,2021-03-31 22:45,5874,+10465,2021-03-29 12:15,DQ,"Percy, Cameron",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+9924,2021-03-31 22:45,13470,+10647,2021-03-29 12:15,T9,"Kizzire, Patton",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+10219,2021-03-31 22:45,12920,+10966,2021-03-29 12:15,CUT,"Willett, Danny",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+10219,2021-03-31 22:45,14459,+10966,2021-03-29 12:15,CUT,"An, Byeong Hun",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+10219,2021-03-31 22:45,20706,+10966,2021-03-29 12:15,3,"Wallace, Matt",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+10219,2021-03-31 22:45,1547,+10966,2021-03-29 12:15,CUT,"Mickelson, Phil",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+10261,2021-03-31 22:45,13831,+11007,2021-03-29 12:15,CUT,"Knox, Russell",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+10649,2021-03-31 22:45,14140,+14083,2021-03-29 12:15,CUT,"Higgs, Harry",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+11133,2021-03-31 22:45,11451,+11941,2021-03-29 12:15,CUT,"Garnett, Brice",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+11289,2021-03-31 22:45,13508,+12109,2021-03-29 12:15,CUT,"Vegas, Jhonattan",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+11385,2021-03-31 22:45,14081,+12214,2021-03-29 12:15,CUT,"Hoag, Bo",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+11675,2021-03-31 22:45,16715,+12524,2021-03-29 12:15,CUT,"Ryder, Sam",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+11675,2021-03-31 22:45,17550,+12524,2021-03-29 12:15,T14,"Van Rooyen, Erik",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+11779,2021-03-31 22:45,7960,+12635,2021-03-29 12:15,T17,"List, Luke",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+12132,2021-03-31 22:45,13497,+13015,2021-03-29 12:15,T23,"Lee, Kyounghoon",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+13129,2021-03-31 22:45,7399,+14083,2021-03-29 12:15,4,"Glover, Lucas",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+13129,2021-03-31 22:45,16433,+14083,2021-03-29 12:15,T34,"NeSmith, Matthew",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+13410,2021-03-31 22:45,24481,+18426,2021-03-29 12:15,T44,"Redman, Doc",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+13629,2021-03-31 22:45,12359,+14618,2021-03-29 12:15,T59,"Stallings, Scott",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+13862,2021-03-31 22:45,7398,+14867,2021-03-29 12:15,T69,"Schwartzel, Charl",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+14435,2021-03-31 22:45,11826,+15483,2021-03-29 12:15,WD,"Lee, Danny",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+14584,2021-03-31 22:45,13305,+15641,2021-03-29 12:15,CUT,"Chappell, Kevin",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+14584,2021-03-31 22:45,9586,+15641,2021-03-29 12:15,T30,"Laird, Martin",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+14965,2021-03-31 22:45,26660,+16053,2021-03-29 12:15,78,"Gordon, Will",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+15893,2021-03-31 22:45,16283,+17047,2021-03-29 12:15,CUT,"Rodgers, Patrick",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+16540,2021-03-31 22:45,6283,+17740,2021-03-29 12:15,T30,"Sabbatini, Rory",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+17361,2021-03-31 22:45,6762,+18621,2021-03-29 12:15,T67,"Perez, Pat",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+17361,2021-03-31 22:45,9531,+18621,2021-03-29 12:15,CUT,"Wiesberger, Bernd",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+17678,2021-03-31 22:45,2881,+18959,2021-03-29 12:15,CUT,"Furyk, Jim",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+17742,2021-03-31 22:45,17509,+19028,2021-03-29 12:15,T44,"Seiffert, Chase",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+17871,2021-03-31 22:45,26096,+19166,2021-03-29 12:15,CUT,"Bhatia, Akshay",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+17938,2021-03-31 22:45,7959,+27332,2021-03-29 12:15,CUT,"Holmes, J.B.",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+18002,2021-03-31 22:45,18695,+19308,2021-03-29 12:15,T17,"Hagy, Brandon",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+18217,2021-03-31 22:45,7548,+19539,2021-03-29 12:15,T54,"McDowell, Graeme",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+18217,2021-03-31 22:45,10943,+19539,2021-03-29 12:15,CUT,"Lashley, Nate",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+18272,2021-03-31 22:45,12069,+19596,2021-03-29 12:15,T14,"Stanley, Kyle",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+18835,2021-03-31 22:45,14926,+20200,2021-03-29 12:15,CUT,"Malnati, Peter",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+19205,2021-03-31 22:45,14050,+20596,2021-03-29 12:15,CUT,"Sloan, Roger",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+19825,2021-03-31 22:45,23482,+21263,2021-03-29 12:15,T59,"Sigg, Greyson",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+21853,2021-03-31 22:45,12909,+23435,2021-03-29 12:15,T34,"Campos, Rafael",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+21853,2021-03-31 22:45,15164,+23435,2021-03-29 12:15,T54,"Lewis, Tom",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+21853,2021-03-31 22:45,7457,+23435,2021-03-29 12:15,T44,"Cabrera Bello, Rafa",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+21853,2021-03-31 22:45,19477,+23435,2021-03-29 12:15,CUT,"Schenk, Adam",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+23531,2021-03-31 22:45,14007,+25235,2021-03-29 12:15,T34,"Martin, Ben",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+25110,2021-03-31 22:45,8820,+26932,2021-03-29 12:15,T6,"Snedeker, Brandt",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+25488,2021-03-31 22:45,11082,+27332,2021-03-29 12:15,CUT,"Burgoon, Bronson",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+25488,2021-03-31 22:45,26653,+27332,2021-03-29 12:15,CUT,"Eckroat, Austin",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+25488,2021-03-31 22:45,21236,+27332,2021-03-29 12:15,CUT,"Bryan, Wesley",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+25488,2021-03-31 22:45,17365,+27332,2021-03-29 12:15,T17,"Mitchell, Keith",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+25488,2021-03-31 22:45,14000,+27332,2021-03-29 12:15,CUT,"Landry, Andrew",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+25488,2021-03-31 22:45,13022,+27332,2021-03-29 12:15,CUT,"Stuard, Brian",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+26048,2021-03-31 22:45,18187,+27933,2021-03-29 12:15,T44,"Duncan, Tyler",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+29119,2021-03-31 22:45,18635,+31228,2021-03-29 12:15,CUT,"Shelton, Robby",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+29119,2021-03-31 22:45,14698,+31228,2021-03-29 12:15,T34,"Bramlett, Joseph",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+29119,2021-03-31 22:45,7301,+31228,2021-03-29 12:15,CUT,"Dufner, Jason",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+29119,2021-03-31 22:45,14967,+31228,2021-03-29 12:15,T23,"Hadley, Chesson",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+32758,2021-03-31 22:45,9171,+35126,2021-03-29 12:15,T17,"Villegas, Camilo",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+36237,2021-03-31 22:45,25908,+38858,2021-03-29 12:15,T34,"Whaley, Vincent",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+36391,2021-03-31 22:45,8469,+39021,2021-03-29 12:15,CUT,"Armour, Ryan",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+36391,2021-03-31 22:45,15651,+39021,2021-03-29 12:15,75,"Ventura, Kristoffer",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+36391,2021-03-31 22:45,5994,+39021,2021-03-29 12:15,CUT,"Stenson, Henrik",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+36391,2021-03-31 22:45,5716,+39021,2021-03-29 12:15,T69,"Harrington, Padraig",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+36391,2021-03-31 22:45,12321,+39021,2021-03-29 12:15,CUT,"Aphibarnrat, Kiradech",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+36391,2021-03-31 22:45,13404,+39021,2021-03-29 12:15,CUT,"Gligic, Michael",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+36391,2021-03-31 22:45,11330,+39021,2021-03-29 12:15,CUT,"Brown, Scott",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+36507,2021-03-31 22:45,12669,+39146,2021-03-29 12:15,5,"Lahiri, Anirban",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+37627,2021-03-31 22:45,18579,+40345,2021-03-29 12:15,CUT,"Cook, Austin",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+40061,2021-03-31 22:45,17536,+42956,2021-03-29 12:15,CUT,"Spaun, J.J.",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+43635,2021-03-31 22:45,21943,+46787,2021-03-29 12:15,CUT,"Lebioda, Hank",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+43659,2021-03-31 22:45,6930,+46814,2021-03-29 12:15,T44,"Taylor, Vaughn",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+43659,2021-03-31 22:45,5951,+46814,2021-03-29 12:15,CUT,"Gay, Brian",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+43659,2021-03-31 22:45,13367,+46814,2021-03-29 12:15,T34,"Merritt, Troy",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+43659,2021-03-31 22:45,21237,+46814,2021-03-29 12:15,CUT,"Hickok, Kramer",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+43659,2021-03-31 22:45,8769,+46814,2021-03-29 12:15,CUT,"Potter Jr, Ted",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+43659,2021-03-31 22:45,7293,+46814,2021-03-29 12:15,T59,"Walker, Jimmy",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+43659,2021-03-31 22:45,8479,+46814,2021-03-29 12:15,CUT,"Harrington, Scott",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+43659,2021-03-31 22:45,15470,+46814,2021-03-29 12:15,T69,"Hossler, Beau",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+43659,2021-03-31 22:45,7881,+46814,2021-03-29 12:15,T59,"Kang, Sung",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+43659,2021-03-31 22:45,8002,+46814,2021-03-29 12:15,CUT,"Oppenheim, Rob",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+43659,2021-03-31 22:45,7340,+46814,2021-03-29 12:15,CUT,"Hearn, David",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+50011,2021-03-31 22:45,1804,+53625,2021-03-29 12:15,T30,"Choi, K.J.",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+58198,2021-03-31 22:45,4163,+62402,2021-03-29 12:15,CUT,"Donald, Luke",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+58198,2021-03-31 22:45,13531,+62402,2021-03-29 12:15,CUT,"Kodaira, Satoshi",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+58198,2021-03-31 22:45,7236,+62402,2021-03-29 12:15,T59,"Trahan, D.J.",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+58198,2021-03-31 22:45,13026,+62402,2021-03-29 12:15,CUT,"Zhang, Xinjun",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+58198,2021-03-31 22:45,7626,+62402,2021-03-29 12:15,CUT,"O'Hair, Sean",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+58198,2021-03-31 22:45,7955,+62402,2021-03-29 12:15,CUT,"Watney, Nick",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+58198,2021-03-31 22:45,14776,+62402,2021-03-29 12:15,T59,"Cappelen, Sebastian",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+72740,2021-03-31 22:45,6457,+77988,2021-03-29 12:15,T34,"Van Pelt, Bo",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+72740,2021-03-31 22:45,17543,+77988,2021-03-29 12:15,CUT,"Kim, Michael",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+72740,2021-03-31 22:45,15852,+77988,2021-03-29 12:15,T44,"Kraft, Kelly",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+72740,2021-03-31 22:45,3464,+77988,2021-03-29 12:15,CUT,"Love III, Davis",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+72740,2021-03-31 22:45,11117,+77988,2021-03-29 12:15,T54,"Noh, Seung-Yul",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+145430,2021-03-31 22:45,6761,+155921,2021-03-29 12:15,CUT,"Points, D.A.",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+145430,2021-03-31 22:45,15634,+155921,2021-03-29 12:15,T44,"Trainer, Martin",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+145430,2021-03-31 22:45,7602,+155921,2021-03-29 12:15,T54,"Stadler, Kevin",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+145430,2021-03-31 22:45,14519,+155921,2021-03-29 12:15,CUT,"Jr, Carlos Sainz",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41
+0,loss,+145430,2021-03-31 22:45,7636,+155921,2021-03-29 12:15,CUT,"Mahan, Hunter",pinnacle,2021-04-04,Valero Texas Open,win,2021,2021,41

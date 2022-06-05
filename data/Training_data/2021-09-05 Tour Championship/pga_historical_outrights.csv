@@ -1,0 +1,31 @@
+bet_outcome_numeric,bet_outcome_text,close_odds,close_time,dg_id,open_odds,open_time,outcome,player_name,book,event_completed,event_name,market,season,year,event_id
+0,loss,+345,2021-09-02 09:18,19195,+366,2021-08-30 16:14,2,"Rahm, Jon",pinnacle,2021-09-05,TOUR Championship,win,2021,2021,60
+1,paid in full,+361,2021-09-02 09:18,15466,+404,2021-08-30 16:14,1,"Cantlay, Patrick",pinnacle,2021-09-05,TOUR Championship,win,2021,2021,60
+0,loss,+623,2021-09-02 09:18,19841,+613,2021-08-30 16:14,7,"DeChambeau, Bryson",pinnacle,2021-09-05,TOUR Championship,win,2021,2021,60
+0,loss,+760,2021-09-02 09:18,11676,+763,2021-08-30 16:14,T11,"Finau, Tony",pinnacle,2021-09-05,TOUR Championship,win,2021,2021,60
+0,loss,+1867,2021-09-02 09:18,14139,+2007,2021-08-30 16:14,4,"Thomas, Justin",pinnacle,2021-09-05,TOUR Championship,win,2021,2021,60
+0,loss,+2177,2021-09-02 09:18,15856,+2408,2021-08-30 16:14,T14,"Smith, Cameron",pinnacle,2021-09-05,TOUR Championship,win,2021,2021,60
+0,loss,+2188,2021-09-02 09:18,10091,+2157,2021-08-30 16:14,T14,"McIlroy, Rory",pinnacle,2021-09-05,TOUR Championship,win,2021,2021,60
+0,loss,+2290,2021-09-02 09:18,12422,+2516,2021-08-30 16:14,8,"Johnson, Dustin",pinnacle,2021-09-05,TOUR Championship,win,2021,2021,60
+0,loss,+2739,2021-09-02 09:18,18238,+2698,2021-08-30 16:14,T9,"Ancer, Abraham",pinnacle,2021-09-05,TOUR Championship,win,2021,2021,60
+0,loss,+3184,2021-09-02 09:18,14636,+3138,2021-08-30 16:14,T20,"Spieth, Jordan",pinnacle,2021-09-05,TOUR Championship,win,2021,2021,60
+0,loss,+3227,2021-09-02 09:18,14577,+3180,2021-08-30 16:14,T18,"English, Harris",pinnacle,2021-09-05,TOUR Championship,win,2021,2021,60
+0,loss,+3421,2021-09-02 09:18,19483,+3372,2021-08-30 16:14,T18,"Burns, Sam",pinnacle,2021-09-05,TOUR Championship,win,2021,2021,60
+0,loss,+3421,2021-09-02 09:18,22085,+3372,2021-08-30 16:14,T26,"Morikawa, Collin",pinnacle,2021-09-05,TOUR Championship,win,2021,2021,60
+0,loss,+3563,2021-09-02 09:18,19895,+3511,2021-08-30 16:14,T5,"Schauffele, Xander",pinnacle,2021-09-05,TOUR Championship,win,2021,2021,60
+0,loss,+3911,2021-09-02 09:18,7672,+3856,2021-08-30 16:14,T14,"Oosthuizen, Louis",pinnacle,2021-09-05,TOUR Championship,win,2021,2021,60
+0,loss,+3911,2021-09-02 09:18,18841,+3856,2021-08-30 16:14,T5,"Hovland, Viktor",pinnacle,2021-09-05,TOUR Championship,win,2021,2021,60
+0,loss,+4487,2021-09-02 09:18,17488,+4424,2021-08-30 16:14,T20,"Im, Sungjae",pinnacle,2021-09-05,TOUR Championship,win,2021,2021,60
+0,loss,+4890,2021-09-02 09:18,16243,+4821,2021-08-30 16:14,WD,"Koepka, Brooks",pinnacle,2021-09-05,TOUR Championship,win,2021,2021,60
+0,loss,+7970,2021-09-02 09:18,18417,+7859,2021-08-30 16:14,T22,"Scheffler, Scottie",pinnacle,2021-09-05,TOUR Championship,win,2021,2021,60
+0,loss,+9778,2021-09-02 09:18,13562,+9643,2021-08-30 16:14,T26,"Matsuyama, Hideki",pinnacle,2021-09-05,TOUR Championship,win,2021,2021,60
+0,loss,+12223,2021-09-02 09:18,17576,+12054,2021-08-30 16:14,T22,"Conners, Corey",pinnacle,2021-09-05,TOUR Championship,win,2021,2021,60
+0,loss,+12659,2021-09-02 09:18,12337,+12482,2021-08-30 16:14,T11,"Kokrak, Jason",pinnacle,2021-09-05,TOUR Championship,win,2021,2021,60
+0,loss,+13519,2021-09-02 09:18,17606,+13332,2021-08-30 16:14,T11,"Berger, Daniel",pinnacle,2021-09-05,TOUR Championship,win,2021,2021,60
+0,loss,+14927,2021-09-02 09:18,18079,+14722,2021-08-30 16:14,29,"Niemann, Joaquin",pinnacle,2021-09-05,TOUR Championship,win,2021,2021,60
+0,loss,+15814,2021-09-02 09:18,7452,+15596,2021-08-30 16:14,3,"Na, Kevin",pinnacle,2021-09-05,TOUR Championship,win,2021,2021,60
+0,loss,+21688,2021-09-02 09:18,5689,+21391,2021-08-30 16:14,T14,"Garcia, Sergio",pinnacle,2021-09-05,TOUR Championship,win,2021,2021,60
+0,loss,+25283,2021-09-02 09:18,14838,+24937,2021-08-30 16:14,25,"Reed, Patrick",pinnacle,2021-09-05,TOUR Championship,win,2021,2021,60
+0,loss,+25283,2021-09-02 09:18,17550,+24937,2021-08-30 16:14,T22,"Van Rooyen, Erik",pinnacle,2021-09-05,TOUR Championship,win,2021,2021,60
+0,loss,+31597,2021-09-02 09:18,11276,+31166,2021-08-30 16:14,T9,"Horschel, Billy",pinnacle,2021-09-05,TOUR Championship,win,2021,2021,60
+0,loss,+37909,2021-09-02 09:18,5665,+37394,2021-08-30 16:14,T26,"Cink, Stewart",pinnacle,2021-09-05,TOUR Championship,win,2021,2021,60

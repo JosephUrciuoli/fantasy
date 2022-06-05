@@ -1,0 +1,55 @@
+bet_outcome_numeric,bet_outcome_text,close_odds,close_time,dg_id,open_odds,open_time,outcome,player_name,book,event_completed,event_name,market,season,year,event_id
+0,loss,+675,2021-02-11 10:41,15466,+974,2021-02-08 15:05,T3,"Cantlay, Patrick",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+1,paid in full,+1358,2021-02-11 10:41,17606,+1940,2021-02-08 15:05,1,"Berger, Daniel",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+1723,2021-02-11 10:41,7108,+2155,2021-02-08 15:05,T5,"Casey, Paul",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+1739,2021-02-11 10:41,9771,+3014,2021-02-08 15:05,T7,"Day, Jason",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+1845,2021-02-11 10:41,19428,+2692,2021-02-08 15:05,T55,"Zalatoris, Will",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+2142,2021-02-11 10:41,14636,+2692,2021-02-08 15:05,T3,"Spieth, Jordan",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+2337,2021-02-11 10:41,14609,+3766,2021-02-08 15:05,CUT,"Kim, Si Woo",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+2561,2021-02-11 10:41,7655,+3014,2021-02-08 15:05,59,"Molinari, Francesco",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+2767,2021-02-11 10:41,8480,+4840,2021-02-08 15:05,13,"Streelman, Kevin",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+2787,2021-02-11 10:41,17786,+4303,2021-02-08 15:05,T14,"Davis, Cameron",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+3914,2021-02-11 10:41,19483,+4840,2021-02-08 15:05,T39,"Burns, Sam",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+3916,2021-02-11 10:41,16602,+8590,2021-02-08 15:05,CUT,"Varner III, Harold",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+4046,2021-02-11 10:41,14013,+5913,2021-02-08 15:05,T7,"Tringale, Cameron",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+4246,2021-02-11 10:41,12965,+4840,2021-02-08 15:05,CUT,"Fowler, Rickie",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+4420,2021-02-11 10:41,17538,+4840,2021-02-08 15:05,T7,"Homa, Max",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+4588,2021-02-11 10:41,11657,+5376,2021-02-08 15:05,T26,"Norlander, Henrik",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+4858,2021-02-11 10:41,8825,+5376,2021-02-08 15:05,T39,"Harman, Brian",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+5352,2021-02-11 10:41,1547,+5376,2021-02-08 15:05,CUT,"Mickelson, Phil",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+5603,2021-02-11 10:41,14926,+8598,2021-02-08 15:05,CUT,"Malnati, Peter",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+5815,2021-02-11 10:41,5768,+10746,2021-02-08 15:05,T7,"Hoffman, Charley",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+6155,2021-02-11 10:41,11019,+6450,2021-02-08 15:05,T34,"Steele, Brendan",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+6226,2021-02-11 10:41,8605,+7095,2021-02-08 15:05,T34,"Jones, Matt",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+6680,2021-02-11 10:41,10419,+6450,2021-02-08 15:05,CUT,"Noren, Alex",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+6720,2021-02-11 10:41,12423,+8598,2021-02-08 15:05,T16,"Kirk, Chris",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+7276,2021-02-11 10:41,7489,+13430,2021-02-08 15:05,T26,"Moore, Ryan",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+7344,2021-02-11 10:41,11374,+7095,2021-02-08 15:05,CUT,"Hahn, James",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+7406,2021-02-11 10:41,15473,+9672,2021-02-08 15:05,CUT,"Long, Adam",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+7488,2021-02-11 10:41,24550,+8598,2021-02-08 15:05,T21,"Ghim, Doug",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+7773,2021-02-11 10:41,14509,+9672,2021-02-08 15:05,T60,"Dahmen, Joel",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+8007,2021-02-11 10:41,16433,+7524,2021-02-08 15:05,T16,"NeSmith, Matthew",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+8292,2021-02-11 10:41,13470,+8598,2021-02-08 15:05,T39,"Kizzire, Patton",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+8709,2021-02-11 10:41,7899,+10746,2021-02-08 15:05,T50,"Piercy, Scott",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+8805,2021-02-11 10:41,13126,+8598,2021-02-08 15:05,T39,"Taylor, Nick",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+8805,2021-02-11 10:41,18634,+9672,2021-02-08 15:05,2,"McNealy, Maverick",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+8805,2021-02-11 10:41,7961,+8598,2021-02-08 15:05,T16,"Reavie, Chez",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+8805,2021-02-11 10:41,8820,+7524,2021-02-08 15:05,CUT,"Snedeker, Brandt",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+9337,2021-02-11 10:41,12946,+10746,2021-02-08 15:05,T34,"Thompson, Michael",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+9745,2021-02-11 10:41,2881,+13430,2021-02-08 15:05,T21,"Furyk, Jim",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+10551,2021-02-11 10:41,14081,+13430,2021-02-08 15:05,CUT,"Hoag, Bo",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+10668,2021-02-11 10:41,12359,+10746,2021-02-08 15:05,T30,"Stallings, Scott",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+10668,2021-02-11 10:41,16333,+15041,2021-02-08 15:05,T55,"Hubbard, Mark",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+10668,2021-02-11 10:41,12069,+10746,2021-02-08 15:05,T39,"Stanley, Kyle",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+10668,2021-02-11 10:41,6283,+9672,2021-02-08 15:05,CUT,"Sabbatini, Rory",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+10668,2021-02-11 10:41,13831,+8598,2021-02-08 15:05,T7,"Knox, Russell",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+10668,2021-02-11 10:41,11952,+10746,2021-02-08 15:05,T34,"Grace, Branden",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+11693,2021-02-11 10:41,14704,+10746,2021-02-08 15:05,T55,"Putnam, Andrew",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+12334,2021-02-11 10:41,16283,+11716,2021-02-09 08:51,CUT,"Rodgers, Patrick",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+13327,2021-02-11 10:41,5665,+10746,2021-02-08 15:05,CUT,"Cink, Stewart",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+13684,2021-02-11 10:41,7457,+10746,2021-02-08 15:05,CUT,"Cabrera Bello, Rafa",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+16652,2021-02-11 10:41,14140,+13430,2021-02-08 15:05,CUT,"Higgs, Harry",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+16652,2021-02-11 10:41,6762,+16115,2021-02-08 15:05,T26,"Perez, Pat",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+16652,2021-02-11 10:41,21237,+13430,2021-02-08 15:05,CUT,"Hickok, Kramer",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+16652,2021-02-11 10:41,15575,+15041,2021-02-08 15:05,12,"Hoge, Tom",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5
+0,loss,+19974,2021-02-11 10:41,11082,+16115,2021-02-08 15:05,T47,"Burgoon, Bronson",pinnacle,2021-02-14,AT&T Pebble Beach Pro-Am,win,2021,2021,5

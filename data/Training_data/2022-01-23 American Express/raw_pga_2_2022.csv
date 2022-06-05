@@ -1,0 +1,539 @@
+tour,year,season,event_name,event_id,player_name,dg_id,fin_text,round_num,course_name,course_num,round_score,sg_putt,sg_arg,sg_app,sg_ott,sg_t2g,sg_total,driving_dist,driving_acc,gir,scrambling,prox_rgh,prox_fw
+pga,2022,2022,The American Express,2,"Swafford, Hudson",14706,1,1,La Quinta Country Club,202,70,,,,,,-0.865,,,,,,
+pga,2022,2022,The American Express,2,"Swafford, Hudson",14706,1,2,Nicklaus Tournament Course,233,65,,,,,,3.923,,,,,,
+pga,2022,2022,The American Express,2,"Swafford, Hudson",14706,1,3,Pete Dye Stadium Course,704,66,2.578,0.203,3.059,-1.552,1.71,4.288,286.1,0.5,0.833,0.833,28.388,23.716
+pga,2022,2022,The American Express,2,"Swafford, Hudson",14706,1,4,Pete Dye Stadium Course,704,64,3.823,0.685,1.249,1.157,3.091,6.914,284.2,0.714,0.722,0.667,40.77,31.067
+pga,2022,2022,The American Express,2,"Hoge, Tom",15575,2,1,Nicklaus Tournament Course,233,65,,,,,,4.558,,,,,,
+pga,2022,2022,The American Express,2,"Hoge, Tom",15575,2,2,Pete Dye Stadium Course,704,66,-0.011,1.671,1.103,0.93,3.703,3.692,286.1,0.786,0.889,0.833,28.377,28.512
+pga,2022,2022,The American Express,2,"Hoge, Tom",15575,2,3,La Quinta Country Club,202,68,,,,,,2.788,,,,,,
+pga,2022,2022,The American Express,2,"Hoge, Tom",15575,2,4,Pete Dye Stadium Course,704,68,-0.649,3.003,0.224,0.336,3.563,2.914,287.0,0.714,0.889,0.889,37.137,35.479
+pga,2022,2022,The American Express,2,"Hodges, Lee",25157,T3,1,La Quinta Country Club,202,62,,,,,,7.135,,,,,,
+pga,2022,2022,The American Express,2,"Hodges, Lee",25157,T3,2,Nicklaus Tournament Course,233,72,,,,,,-3.077,,,,,,
+pga,2022,2022,The American Express,2,"Hodges, Lee",25157,T3,3,Pete Dye Stadium Course,704,64,2.045,0.849,1.424,1.97,4.243,6.288,290.0,0.929,0.889,0.667,,27.638
+pga,2022,2022,The American Express,2,"Hodges, Lee",25157,T3,4,Pete Dye Stadium Course,704,70,-3.193,1.005,2.074,1.028,4.107,0.914,284.6,0.643,0.778,0.714,50.071,27.206
+pga,2022,2022,The American Express,2,"Griffin, Lanto",15330,T3,1,Nicklaus Tournament Course,233,67,,,,,,2.558,,,,,,
+pga,2022,2022,The American Express,2,"Griffin, Lanto",15330,T3,2,Pete Dye Stadium Course,704,65,3.016,0.98,0.378,0.319,1.676,4.692,282.6,0.643,0.833,1.0,23.353,31.489
+pga,2022,2022,The American Express,2,"Griffin, Lanto",15330,T3,3,La Quinta Country Club,202,69,,,,,,1.788,,,,,,
+pga,2022,2022,The American Express,2,"Griffin, Lanto",15330,T3,4,Pete Dye Stadium Course,704,67,0.479,0.396,2.461,0.578,3.435,3.914,280.9,0.643,0.722,1.0,14.69,32.78
+pga,2022,2022,The American Express,2,"Harman, Brian",8825,T3,1,Nicklaus Tournament Course,233,67,,,,,,2.558,,,,,,
+pga,2022,2022,The American Express,2,"Harman, Brian",8825,T3,2,Pete Dye Stadium Course,704,70,-0.358,-1.596,1.458,0.189,0.05,-0.308,281.5,0.714,0.667,0.556,28.324,35.562
+pga,2022,2022,The American Express,2,"Harman, Brian",8825,T3,3,La Quinta Country Club,202,67,,,,,,3.788,,,,,,
+pga,2022,2022,The American Express,2,"Harman, Brian",8825,T3,4,Pete Dye Stadium Course,704,64,3.147,0.874,3.11,-0.217,3.767,6.914,290.4,0.357,0.889,1.0,29.548,22.023
+pga,2022,2022,The American Express,2,"Zalatoris, Will",19428,T6,1,La Quinta Country Club,202,71,,,,,,-1.865,,,,,,
+pga,2022,2022,The American Express,2,"Zalatoris, Will",19428,T6,2,Nicklaus Tournament Course,233,61,,,,,,7.923,,,,,,
+pga,2022,2022,The American Express,2,"Zalatoris, Will",19428,T6,3,Pete Dye Stadium Course,704,70,-1.814,-0.523,1.761,0.864,2.102,0.288,292.6,0.571,0.833,0.714,36.93,24.703
+pga,2022,2022,The American Express,2,"Zalatoris, Will",19428,T6,4,Pete Dye Stadium Course,704,67,0.31,1.001,1.907,0.696,3.604,3.914,294.1,0.429,0.778,0.857,28.087,24.875
+pga,2022,2022,The American Express,2,"Molinari, Francesco",7655,T6,1,La Quinta Country Club,202,67,,,,,,2.135,,,,,,
+pga,2022,2022,The American Express,2,"Molinari, Francesco",7655,T6,2,Nicklaus Tournament Course,233,67,,,,,,1.923,,,,,,
+pga,2022,2022,The American Express,2,"Molinari, Francesco",7655,T6,3,Pete Dye Stadium Course,704,67,1.904,-0.238,1.056,0.566,1.384,3.288,288.9,0.571,0.722,0.9,44.103,32.272
+pga,2022,2022,The American Express,2,"Molinari, Francesco",7655,T6,4,Pete Dye Stadium Course,704,68,-0.373,0.895,1.124,1.268,3.287,2.914,290.0,0.714,0.778,0.4,27.842,31.848
+pga,2022,2022,The American Express,2,"McCarthy, Denny",19870,T6,1,Nicklaus Tournament Course,233,67,,,,,,2.558,,,,,,
+pga,2022,2022,The American Express,2,"McCarthy, Denny",19870,T6,2,Pete Dye Stadium Course,704,67,2.156,2.647,0.019,-2.129,0.536,2.692,274.6,0.714,0.667,0.875,12.789,28.673
+pga,2022,2022,The American Express,2,"McCarthy, Denny",19870,T6,3,La Quinta Country Club,202,68,,,,,,2.788,,,,,,
+pga,2022,2022,The American Express,2,"McCarthy, Denny",19870,T6,4,Pete Dye Stadium Course,704,67,3.2,0.767,0.465,-0.518,0.714,3.914,279.4,0.571,0.556,0.917,37.065,29.757
+pga,2022,2022,The American Express,2,"Cantlay, Patrick",15466,9,1,La Quinta Country Club,202,62,,,,,,7.135,,,,,,
+pga,2022,2022,The American Express,2,"Cantlay, Patrick",15466,9,2,Nicklaus Tournament Course,233,68,,,,,,0.923,,,,,,
+pga,2022,2022,The American Express,2,"Cantlay, Patrick",15466,9,3,Pete Dye Stadium Course,704,72,-0.529,-1.397,-0.275,0.489,-1.183,-1.712,297.7,0.357,0.611,0.545,31.813,47.921
+pga,2022,2022,The American Express,2,"Cantlay, Patrick",15466,9,4,Pete Dye Stadium Course,704,68,0.727,1.305,-0.483,1.365,2.187,2.914,297.8,0.571,0.722,0.778,64.939,30.861
+pga,2022,2022,The American Express,2,"Barjon, Paul",16566,10,1,La Quinta Country Club,202,66,,,,,,3.135,,,,,,
+pga,2022,2022,The American Express,2,"Barjon, Paul",16566,10,2,Nicklaus Tournament Course,233,67,,,,,,1.923,,,,,,
+pga,2022,2022,The American Express,2,"Barjon, Paul",16566,10,3,Pete Dye Stadium Course,704,65,2.508,-0.644,1.61,1.814,2.78,5.288,302.3,0.714,0.944,0.6,29.574,31.058
+pga,2022,2022,The American Express,2,"Barjon, Paul",16566,10,4,Pete Dye Stadium Course,704,73,-2.128,-0.336,-0.388,0.766,0.042,-2.086,290.7,0.571,0.667,0.4,60.256,38.082
+pga,2022,2022,The American Express,2,"Kim, Si Woo",14609,T11,1,La Quinta Country Club,202,68,,,,,,1.135,,,,,,
+pga,2022,2022,The American Express,2,"Kim, Si Woo",14609,T11,2,Nicklaus Tournament Course,233,68,,,,,,0.923,,,,,,
+pga,2022,2022,The American Express,2,"Kim, Si Woo",14609,T11,3,Pete Dye Stadium Course,704,69,0.79,0.038,0.182,0.278,0.498,1.288,292.4,0.5,0.722,0.5,34.161,48.079
+pga,2022,2022,The American Express,2,"Kim, Si Woo",14609,T11,4,Pete Dye Stadium Course,704,67,3.196,0.075,0.2,0.443,0.718,3.914,290.9,0.643,0.833,1.0,26.742,32.649
+pga,2022,2022,The American Express,2,"Im, Sungjae",17488,T11,1,Nicklaus Tournament Course,233,69,,,,,,0.558,,,,,,
+pga,2022,2022,The American Express,2,"Im, Sungjae",17488,T11,2,Pete Dye Stadium Course,704,67,-0.48,-1.338,2.892,1.619,3.172,2.692,295.7,0.857,0.833,0.429,37.577,24.324
+pga,2022,2022,The American Express,2,"Im, Sungjae",17488,T11,3,La Quinta Country Club,202,70,,,,,,0.788,,,,,,
+pga,2022,2022,The American Express,2,"Im, Sungjae",17488,T11,4,Pete Dye Stadium Course,704,66,-0.577,3.764,0.532,1.195,5.491,4.914,299.3,0.571,0.778,0.857,40.364,26.606
+pga,2022,2022,The American Express,2,"Clark, Wyndham",23604,13,1,La Quinta Country Club,202,65,,,,,,4.135,,,,,,
+pga,2022,2022,The American Express,2,"Clark, Wyndham",23604,13,2,Nicklaus Tournament Course,233,69,,,,,,-0.077,,,,,,
+pga,2022,2022,The American Express,2,"Clark, Wyndham",23604,13,3,Pete Dye Stadium Course,704,69,1.023,-0.357,0.469,0.153,0.265,1.288,288.2,0.643,0.611,0.625,37.537,37.098
+pga,2022,2022,The American Express,2,"Clark, Wyndham",23604,13,4,Pete Dye Stadium Course,704,70,-0.024,-1.019,1.42,0.537,0.938,0.914,298.2,0.429,0.778,0.75,33.991,29.559
+pga,2022,2022,The American Express,2,"Sloan, Roger",14050,T14,1,Pete Dye Stadium Course,704,66,2.416,1.78,0.186,0.888,2.853,5.269,288.2,0.714,0.722,0.9,43.467,34.766
+pga,2022,2022,The American Express,2,"Sloan, Roger",14050,T14,2,La Quinta Country Club,202,67,,,,,,2.827,,,,,,
+pga,2022,2022,The American Express,2,"Sloan, Roger",14050,T14,3,Nicklaus Tournament Course,233,71,,,,,,1.288,,,,,,
+pga,2022,2022,The American Express,2,"Sloan, Roger",14050,T14,4,Pete Dye Stadium Course,704,70,1.978,-0.897,-0.791,0.624,-1.064,0.914,288.9,0.571,0.667,0.714,52.956,34.93
+pga,2022,2022,The American Express,2,"Johnson, Zach",6986,T14,1,La Quinta Country Club,202,67,,,,,,2.135,,,,,,
+pga,2022,2022,The American Express,2,"Johnson, Zach",6986,T14,2,Nicklaus Tournament Course,233,66,,,,,,2.923,,,,,,
+pga,2022,2022,The American Express,2,"Johnson, Zach",6986,T14,3,Pete Dye Stadium Course,704,72,-1.163,0.633,-0.526,-0.656,-0.549,-1.712,279.3,0.5,0.556,0.875,34.677,32.714
+pga,2022,2022,The American Express,2,"Johnson, Zach",6986,T14,4,Pete Dye Stadium Course,704,69,0.62,0.109,2.005,-0.82,1.294,1.914,280.6,0.286,0.722,0.667,44.946,28.022
+pga,2022,2022,The American Express,2,"Rahm, Jon",19195,T14,1,La Quinta Country Club,202,66,,,,,,3.135,,,,,,
+pga,2022,2022,The American Express,2,"Rahm, Jon",19195,T14,2,Nicklaus Tournament Course,233,70,,,,,,-1.077,,,,,,
+pga,2022,2022,The American Express,2,"Rahm, Jon",19195,T14,3,Pete Dye Stadium Course,704,67,0.9,-0.03,0.684,1.734,2.388,3.288,302.7,0.643,0.833,0.8,42.67,35.986
+pga,2022,2022,The American Express,2,"Rahm, Jon",19195,T14,4,Pete Dye Stadium Course,704,71,0.049,-1.44,0.775,0.53,-0.135,-0.086,297.1,0.5,0.833,0.5,48.858,39.683
+pga,2022,2022,The American Express,2,"Snedeker, Brandt",8820,T14,1,La Quinta Country Club,202,65,,,,,,4.135,,,,,,
+pga,2022,2022,The American Express,2,"Snedeker, Brandt",8820,T14,2,Nicklaus Tournament Course,233,69,,,,,,-0.077,,,,,,
+pga,2022,2022,The American Express,2,"Snedeker, Brandt",8820,T14,3,Pete Dye Stadium Course,704,71,-0.372,-1.823,0.903,0.58,-0.34,-0.712,278.7,0.786,0.722,0.5,38.29,37.846
+pga,2022,2022,The American Express,2,"Snedeker, Brandt",8820,T14,4,Pete Dye Stadium Course,704,69,1.542,0.958,-2.493,1.907,0.372,1.914,289.8,1.0,0.667,0.857,,35.743
+pga,2022,2022,The American Express,2,"Power, Seamus",10104,T14,1,Nicklaus Tournament Course,233,65,,,,,,4.558,,,,,,
+pga,2022,2022,The American Express,2,"Power, Seamus",10104,T14,2,Pete Dye Stadium Course,704,69,0.437,-0.145,-0.502,0.903,0.255,0.692,288.6,0.714,0.722,0.778,43.209,30.729
+pga,2022,2022,The American Express,2,"Power, Seamus",10104,T14,3,La Quinta Country Club,202,66,,,,,,4.788,,,,,,
+pga,2022,2022,The American Express,2,"Power, Seamus",10104,T14,4,Pete Dye Stadium Course,704,74,0.098,-0.054,-1.897,-1.233,-3.184,-3.086,284.9,0.714,0.556,0.6,55.778,35.297
+pga,2022,2022,The American Express,2,"Lipsky, David",15980,T14,1,Nicklaus Tournament Course,233,67,,,,,,2.558,,,,,,
+pga,2022,2022,The American Express,2,"Lipsky, David",15980,T14,2,Pete Dye Stadium Course,704,68,0.425,0.095,2.086,-0.913,1.267,1.692,274.3,0.714,0.778,0.5,41.063,22.258
+pga,2022,2022,The American Express,2,"Lipsky, David",15980,T14,3,La Quinta Country Club,202,69,,,,,,1.788,,,,,,
+pga,2022,2022,The American Express,2,"Lipsky, David",15980,T14,4,Pete Dye Stadium Course,704,70,1.243,0.767,0.587,-1.683,-0.329,0.914,283.7,0.5,0.611,0.75,28.17,32.662
+pga,2022,2022,The American Express,2,"Putnam, Andrew",14704,T14,1,Nicklaus Tournament Course,233,70,,,,,,-0.442,,,,,,
+pga,2022,2022,The American Express,2,"Putnam, Andrew",14704,T14,2,Pete Dye Stadium Course,704,66,1.065,0.45,2.309,-0.131,2.627,3.692,267.1,0.786,0.889,0.667,7.416,26.452
+pga,2022,2022,The American Express,2,"Putnam, Andrew",14704,T14,3,La Quinta Country Club,202,70,,,,,,0.788,,,,,,
+pga,2022,2022,The American Express,2,"Putnam, Andrew",14704,T14,4,Pete Dye Stadium Course,704,68,0.603,1.472,1.568,-0.729,2.311,2.914,270.5,0.5,0.722,0.75,32.841,45.95
+pga,2022,2022,The American Express,2,"Henley, Russell",14578,T14,1,Nicklaus Tournament Course,233,67,,,,,,2.558,,,,,,
+pga,2022,2022,The American Express,2,"Henley, Russell",14578,T14,2,Pete Dye Stadium Course,704,70,-1.613,-0.111,1.591,-0.174,1.305,-0.308,283.5,0.5,0.944,0.571,31.768,39.596
+pga,2022,2022,The American Express,2,"Henley, Russell",14578,T14,3,La Quinta Country Club,202,70,,,,,,0.788,,,,,,
+pga,2022,2022,The American Express,2,"Henley, Russell",14578,T14,4,Pete Dye Stadium Course,704,67,-0.047,0.27,1.924,1.767,3.961,3.914,281.5,1.0,0.833,0.625,,29.508
+pga,2022,2022,The American Express,2,"Kizzire, Patton",13470,T22,1,Pete Dye Stadium Course,704,67,0.829,2.467,0.627,0.347,3.44,4.269,283.8,0.571,0.667,0.875,39.117,25.04
+pga,2022,2022,The American Express,2,"Kizzire, Patton",13470,T22,2,La Quinta Country Club,202,67,,,,,,2.827,,,,,,
+pga,2022,2022,The American Express,2,"Kizzire, Patton",13470,T22,3,Nicklaus Tournament Course,233,71,,,,,,1.288,,,,,,
+pga,2022,2022,The American Express,2,"Kizzire, Patton",13470,T22,4,Pete Dye Stadium Course,704,70,-3.214,-1.472,5.009,0.591,4.128,0.914,290.6,0.5,0.778,0.5,52.037,12.828
+pga,2022,2022,The American Express,2,"Varner III, Harold",16602,T22,1,La Quinta Country Club,202,68,,,,,,1.135,,,,,,
+pga,2022,2022,The American Express,2,"Varner III, Harold",16602,T22,2,Nicklaus Tournament Course,233,66,,,,,,2.923,,,,,,
+pga,2022,2022,The American Express,2,"Varner III, Harold",16602,T22,3,Pete Dye Stadium Course,704,67,0.862,-0.042,1.453,1.015,2.426,3.288,285.7,0.714,0.889,0.4,14.469,37.32
+pga,2022,2022,The American Express,2,"Varner III, Harold",16602,T22,4,Pete Dye Stadium Course,704,74,-2.131,1.4,-1.399,-0.956,-0.955,-3.086,285.9,0.643,0.667,0.6,40.863,30.742
+pga,2022,2022,The American Express,2,"List, Luke",7960,T22,1,Nicklaus Tournament Course,233,70,,,,,,-0.442,,,,,,
+pga,2022,2022,The American Express,2,"List, Luke",7960,T22,2,Pete Dye Stadium Course,704,70,-1.684,0.752,-0.632,1.257,1.376,-0.308,302.8,0.571,0.667,0.8,32.204,42.304
+pga,2022,2022,The American Express,2,"List, Luke",7960,T22,3,La Quinta Country Club,202,66,,,,,,4.788,,,,,,
+pga,2022,2022,The American Express,2,"List, Luke",7960,T22,4,Pete Dye Stadium Course,704,69,0.627,0.042,1.054,0.191,1.287,1.914,293.4,0.5,0.778,0.667,30.227,26.803
+pga,2022,2022,The American Express,2,"Howell III, Charles",6892,T25,1,Pete Dye Stadium Course,704,69,-1.395,2.002,0.401,1.262,3.664,2.269,292.8,0.714,0.833,0.625,37.907,32.482
+pga,2022,2022,The American Express,2,"Howell III, Charles",6892,T25,2,La Quinta Country Club,202,68,,,,,,1.827,,,,,,
+pga,2022,2022,The American Express,2,"Howell III, Charles",6892,T25,3,Nicklaus Tournament Course,233,68,,,,,,4.288,,,,,,
+pga,2022,2022,The American Express,2,"Howell III, Charles",6892,T25,4,Pete Dye Stadium Course,704,71,-0.464,0.591,1.6,-1.813,0.378,-0.086,287.4,0.5,0.778,0.667,41.458,35.533
+pga,2022,2022,The American Express,2,"Scheffler, Scottie",18417,T25,1,La Quinta Country Club,202,69,,,,,,0.135,,,,,,
+pga,2022,2022,The American Express,2,"Scheffler, Scottie",18417,T25,2,Nicklaus Tournament Course,233,70,,,,,,-1.077,,,,,,
+pga,2022,2022,The American Express,2,"Scheffler, Scottie",18417,T25,3,Pete Dye Stadium Course,704,70,-0.288,1.779,0.399,-1.602,0.576,0.288,288.0,0.357,0.722,0.6,38.065,37.499
+pga,2022,2022,The American Express,2,"Scheffler, Scottie",18417,T25,4,Pete Dye Stadium Course,704,67,1.27,0.281,1.277,1.086,2.644,3.914,292.7,0.643,0.778,0.889,35.928,24.135
+pga,2022,2022,The American Express,2,"Hadwin, Adam",13965,T25,1,La Quinta Country Club,202,68,,,,,,1.135,,,,,,
+pga,2022,2022,The American Express,2,"Hadwin, Adam",13965,T25,2,Nicklaus Tournament Course,233,72,,,,,,-3.077,,,,,,
+pga,2022,2022,The American Express,2,"Hadwin, Adam",13965,T25,3,Pete Dye Stadium Course,704,68,1.373,-1.221,2.08,0.056,0.915,2.288,290.1,0.571,0.833,0.667,19.558,32.25
+pga,2022,2022,The American Express,2,"Hadwin, Adam",13965,T25,4,Pete Dye Stadium Course,704,68,1.407,0.845,-0.86,1.522,1.507,2.914,285.4,0.786,0.778,0.857,,31.854
+pga,2022,2022,The American Express,2,"Smalley, Alex",18474,T25,1,La Quinta Country Club,202,67,,,,,,2.135,,,,,,
+pga,2022,2022,The American Express,2,"Smalley, Alex",18474,T25,2,Nicklaus Tournament Course,233,70,,,,,,-1.077,,,,,,
+pga,2022,2022,The American Express,2,"Smalley, Alex",18474,T25,3,Pete Dye Stadium Course,704,69,-0.441,-0.02,0.894,0.855,1.729,1.288,281.8,0.714,0.611,0.7,31.899,31.699
+pga,2022,2022,The American Express,2,"Smalley, Alex",18474,T25,4,Pete Dye Stadium Course,704,70,1.198,-0.137,-1.401,1.254,-0.284,0.914,285.3,0.714,0.778,0.8,46.645,28.749
+pga,2022,2022,The American Express,2,"Spaun, J.J.",17536,T25,1,Nicklaus Tournament Course,233,75,,,,,,-5.442,,,,,,
+pga,2022,2022,The American Express,2,"Spaun, J.J.",17536,T25,2,Pete Dye Stadium Course,704,67,0.586,1.758,0.115,0.234,2.106,2.692,287.0,0.714,0.667,1.0,19.574,30.857
+pga,2022,2022,The American Express,2,"Spaun, J.J.",17536,T25,3,La Quinta Country Club,202,67,,,,,,3.788,,,,,,
+pga,2022,2022,The American Express,2,"Spaun, J.J.",17536,T25,4,Pete Dye Stadium Course,704,67,0.866,2.226,0.159,0.663,3.048,3.914,282.9,0.714,0.778,1.0,42.932,35.754
+pga,2022,2022,The American Express,2,"Stallings Jr., Stephen",25335,T25,1,Nicklaus Tournament Course,233,69,,,,,,0.558,,,,,,
+pga,2022,2022,The American Express,2,"Stallings Jr., Stephen",25335,T25,2,Pete Dye Stadium Course,704,67,3.708,-2.465,1.929,-0.479,-1.016,2.692,298.7,0.429,0.778,0.556,29.127,26.289
+pga,2022,2022,The American Express,2,"Stallings Jr., Stephen",25335,T25,3,La Quinta Country Club,202,73,,,,,,-2.212,,,,,,
+pga,2022,2022,The American Express,2,"Stallings Jr., Stephen",25335,T25,4,Pete Dye Stadium Course,704,67,4.186,-0.689,-0.256,0.673,-0.272,3.914,290.3,0.571,0.778,0.667,36.536,27.205
+pga,2022,2022,The American Express,2,"Poston, J.T.",21554,T25,1,Nicklaus Tournament Course,233,69,,,,,,0.558,,,,,,
+pga,2022,2022,The American Express,2,"Poston, J.T.",21554,T25,2,Pete Dye Stadium Course,704,69,0.432,0.699,-0.643,0.205,0.26,0.692,284.4,0.643,0.722,0.667,27.739,36.753
+pga,2022,2022,The American Express,2,"Poston, J.T.",21554,T25,3,La Quinta Country Club,202,69,,,,,,1.788,,,,,,
+pga,2022,2022,The American Express,2,"Poston, J.T.",21554,T25,4,Pete Dye Stadium Course,704,69,1.152,0.649,-0.135,0.248,0.762,1.914,291.2,0.5,0.833,0.75,42.918,32.146
+pga,2022,2022,The American Express,2,"Sigg, Greyson",23482,T25,1,Nicklaus Tournament Course,233,65,,,,,,4.558,,,,,,
+pga,2022,2022,The American Express,2,"Sigg, Greyson",23482,T25,2,Pete Dye Stadium Course,704,67,1.637,-0.06,0.813,0.303,1.055,2.692,282.6,0.714,0.778,0.667,50.13,33.195
+pga,2022,2022,The American Express,2,"Sigg, Greyson",23482,T25,3,La Quinta Country Club,202,73,,,,,,-2.212,,,,,,
+pga,2022,2022,The American Express,2,"Sigg, Greyson",23482,T25,4,Pete Dye Stadium Course,704,71,-0.248,0.591,-0.454,0.025,0.162,-0.086,273.7,0.643,0.556,0.727,45.673,31.288
+pga,2022,2022,The American Express,2,"Wolfe, Jared",18164,T33,1,Pete Dye Stadium Course,704,70,-1.479,-0.35,2.54,0.559,2.748,1.269,280.8,0.643,0.722,0.571,45.031,29.251
+pga,2022,2022,The American Express,2,"Wolfe, Jared",18164,T33,2,La Quinta Country Club,202,65,,,,,,4.827,,,,,,
+pga,2022,2022,The American Express,2,"Wolfe, Jared",18164,T33,3,Nicklaus Tournament Course,233,72,,,,,,0.288,,,,,,
+pga,2022,2022,The American Express,2,"Wolfe, Jared",18164,T33,4,Pete Dye Stadium Course,704,70,0.009,0.354,-0.035,0.586,0.905,0.914,283.4,0.571,0.889,0.6,49.567,22.184
+pga,2022,2022,The American Express,2,"Bramlett, Joseph",14698,T33,1,Pete Dye Stadium Course,704,65,-0.152,-0.466,5.201,1.687,6.421,6.269,290.0,0.786,0.778,0.375,31.378,21.447
+pga,2022,2022,The American Express,2,"Bramlett, Joseph",14698,T33,2,La Quinta Country Club,202,67,,,,,,2.827,,,,,,
+pga,2022,2022,The American Express,2,"Bramlett, Joseph",14698,T33,3,Nicklaus Tournament Course,233,72,,,,,,0.288,,,,,,
+pga,2022,2022,The American Express,2,"Bramlett, Joseph",14698,T33,4,Pete Dye Stadium Course,704,73,0.062,-1.659,-1.911,1.422,-2.148,-2.086,303.4,0.5,0.722,0.75,51.604,24.192
+pga,2022,2022,The American Express,2,"Glover, Lucas",7399,T33,1,La Quinta Country Club,202,66,,,,,,3.135,,,,,,
+pga,2022,2022,The American Express,2,"Glover, Lucas",7399,T33,2,Nicklaus Tournament Course,233,69,,,,,,-0.077,,,,,,
+pga,2022,2022,The American Express,2,"Glover, Lucas",7399,T33,3,Pete Dye Stadium Course,704,69,2.56,-1.464,0.379,-0.187,-1.272,1.288,273.5,0.643,0.667,0.6,54.832,31.006
+pga,2022,2022,The American Express,2,"Glover, Lucas",7399,T33,4,Pete Dye Stadium Course,704,73,-2.341,-1.449,1.497,0.207,0.255,-2.086,277.6,0.571,0.778,0.0,51.405,25.725
+pga,2022,2022,The American Express,2,"Theegala, Sahith",23014,T33,1,La Quinta Country Club,202,72,,,,,,-2.865,,,,,,
+pga,2022,2022,The American Express,2,"Theegala, Sahith",23014,T33,2,Nicklaus Tournament Course,233,62,,,,,,6.923,,,,,,
+pga,2022,2022,The American Express,2,"Theegala, Sahith",23014,T33,3,Pete Dye Stadium Course,704,68,1.834,-0.826,0.206,1.074,0.454,2.288,287.9,0.714,0.778,0.667,40.665,35.142
+pga,2022,2022,The American Express,2,"Theegala, Sahith",23014,T33,4,Pete Dye Stadium Course,704,75,-1.371,-1.288,-0.413,-1.014,-2.715,-4.086,282.1,0.357,0.722,0.545,41.71,29.582
+pga,2022,2022,The American Express,2,"Villegas, Camilo",9171,T33,1,Nicklaus Tournament Course,233,69,,,,,,0.558,,,,,,
+pga,2022,2022,The American Express,2,"Villegas, Camilo",9171,T33,2,Pete Dye Stadium Course,704,68,-1.595,2.791,0.431,0.066,3.287,1.692,282.2,0.571,0.778,0.667,27.025,23.816
+pga,2022,2022,The American Express,2,"Villegas, Camilo",9171,T33,3,La Quinta Country Club,202,70,,,,,,0.788,,,,,,
+pga,2022,2022,The American Express,2,"Villegas, Camilo",9171,T33,4,Pete Dye Stadium Course,704,70,-1.172,0.623,1.048,0.415,2.086,0.914,286.4,0.5,0.778,0.571,35.474,36.916
+pga,2022,2022,The American Express,2,"Rose, Justin",6093,T33,1,Nicklaus Tournament Course,233,68,,,,,,1.558,,,,,,
+pga,2022,2022,The American Express,2,"Rose, Justin",6093,T33,2,Pete Dye Stadium Course,704,73,1.799,-1.008,-1.173,-2.925,-5.107,-3.308,283.7,0.714,0.722,0.857,23.93,29.849
+pga,2022,2022,The American Express,2,"Rose, Justin",6093,T33,3,La Quinta Country Club,202,67,,,,,,3.788,,,,,,
+pga,2022,2022,The American Express,2,"Rose, Justin",6093,T33,4,Pete Dye Stadium Course,704,69,-0.814,-0.735,2.039,1.424,2.728,1.914,285.0,0.857,0.833,0.571,18.594,28.615
+pga,2022,2022,The American Express,2,"Taylor, Nick",13126,T33,1,Nicklaus Tournament Course,233,69,,,,,,0.558,,,,,,
+pga,2022,2022,The American Express,2,"Taylor, Nick",13126,T33,2,Pete Dye Stadium Course,704,69,-1.267,1.187,1.006,-0.233,1.959,0.692,280.8,0.571,0.778,0.429,27.001,31.504
+pga,2022,2022,The American Express,2,"Taylor, Nick",13126,T33,3,La Quinta Country Club,202,71,,,,,,-0.212,,,,,,
+pga,2022,2022,The American Express,2,"Taylor, Nick",13126,T33,4,Pete Dye Stadium Course,704,68,1.211,-0.044,1.235,0.512,1.703,2.914,286.9,0.714,0.778,1.0,26.369,36.882
+pga,2022,2022,The American Express,2,"Rodgers, Patrick",16283,T40,1,Pete Dye Stadium Course,704,70,1.147,0.675,1.246,-1.798,0.122,1.269,291.4,0.429,0.611,0.7,39.712,39.363
+pga,2022,2022,The American Express,2,"Rodgers, Patrick",16283,T40,2,La Quinta Country Club,202,68,,,,,,1.827,,,,,,
+pga,2022,2022,The American Express,2,"Rodgers, Patrick",16283,T40,3,Nicklaus Tournament Course,233,69,,,,,,3.288,,,,,,
+pga,2022,2022,The American Express,2,"Rodgers, Patrick",16283,T40,4,Pete Dye Stadium Course,704,71,-1.077,0.692,0.854,-0.555,0.991,-0.086,290.4,0.357,0.833,1.0,41.417,30.103
+pga,2022,2022,The American Express,2,"Dufner, Jason",7301,T40,1,Pete Dye Stadium Course,704,70,-0.389,0.197,2.189,-0.727,1.658,1.269,267.0,0.714,0.667,0.833,73.634,19.686
+pga,2022,2022,The American Express,2,"Dufner, Jason",7301,T40,2,La Quinta Country Club,202,67,,,,,,2.827,,,,,,
+pga,2022,2022,The American Express,2,"Dufner, Jason",7301,T40,3,Nicklaus Tournament Course,233,71,,,,,,1.288,,,,,,
+pga,2022,2022,The American Express,2,"Dufner, Jason",7301,T40,4,Pete Dye Stadium Course,704,70,3.051,-1.581,-0.526,-0.03,-2.137,0.914,282.1,0.786,0.611,0.8,29.911,32.376
+pga,2022,2022,The American Express,2,"Higgs, Harry",14140,T40,1,La Quinta Country Club,202,66,,,,,,3.135,,,,,,
+pga,2022,2022,The American Express,2,"Higgs, Harry",14140,T40,2,Nicklaus Tournament Course,233,68,,,,,,0.923,,,,,,
+pga,2022,2022,The American Express,2,"Higgs, Harry",14140,T40,3,Pete Dye Stadium Course,704,67,1.545,1.153,-0.448,1.038,1.743,3.288,283.2,0.786,0.722,0.9,48.262,38.938
+pga,2022,2022,The American Express,2,"Higgs, Harry",14140,T40,4,Pete Dye Stadium Course,704,77,-1.658,-0.334,-1.593,-2.501,-4.428,-6.086,279.6,0.214,0.5,0.75,46.116,35.631
+pga,2022,2022,The American Express,2,"Finau, Tony",11676,T40,1,La Quinta Country Club,202,72,,,,,,-2.865,,,,,,
+pga,2022,2022,The American Express,2,"Finau, Tony",11676,T40,2,Nicklaus Tournament Course,233,70,,,,,,-1.077,,,,,,
+pga,2022,2022,The American Express,2,"Finau, Tony",11676,T40,3,Pete Dye Stadium Course,704,67,1.308,-0.795,2.797,-0.022,1.98,3.288,292.5,0.357,0.778,0.75,37.932,29.975
+pga,2022,2022,The American Express,2,"Finau, Tony",11676,T40,4,Pete Dye Stadium Course,704,69,0.404,-0.203,0.005,1.708,1.51,1.914,296.8,0.714,0.833,0.571,39.326,25.991
+pga,2022,2022,The American Express,2,"McDowell, Graeme",7548,T40,1,La Quinta Country Club,202,66,,,,,,3.135,,,,,,
+pga,2022,2022,The American Express,2,"McDowell, Graeme",7548,T40,2,Nicklaus Tournament Course,233,69,,,,,,-0.077,,,,,,
+pga,2022,2022,The American Express,2,"McDowell, Graeme",7548,T40,3,Pete Dye Stadium Course,704,73,-1.304,0.066,-0.456,-1.018,-1.408,-2.712,275.8,0.357,0.611,0.8,43.861,38.816
+pga,2022,2022,The American Express,2,"McDowell, Graeme",7548,T40,4,Pete Dye Stadium Course,704,70,1.4,-1.69,0.802,0.402,-0.486,0.914,279.3,0.643,0.611,0.727,23.033,36.535
+pga,2022,2022,The American Express,2,"Bezuidenhout, Christiaan",18103,T40,1,La Quinta Country Club,202,66,,,,,,3.135,,,,,,
+pga,2022,2022,The American Express,2,"Bezuidenhout, Christiaan",18103,T40,2,Nicklaus Tournament Course,233,72,,,,,,-3.077,,,,,,
+pga,2022,2022,The American Express,2,"Bezuidenhout, Christiaan",18103,T40,3,Pete Dye Stadium Course,704,68,1.444,0.115,1.738,-1.009,0.844,2.288,269.6,0.5,0.667,0.667,44.712,32.935
+pga,2022,2022,The American Express,2,"Bezuidenhout, Christiaan",18103,T40,4,Pete Dye Stadium Course,704,72,0.338,-1.767,-0.504,0.847,-1.424,-1.086,277.8,0.786,0.722,0.375,32.141,44.306
+pga,2022,2022,The American Express,2,"Whaley, Vince",25908,T40,1,La Quinta Country Club,202,70,,,,,,-0.865,,,,,,
+pga,2022,2022,The American Express,2,"Whaley, Vince",25908,T40,2,Nicklaus Tournament Course,233,64,,,,,,4.923,,,,,,
+pga,2022,2022,The American Express,2,"Whaley, Vince",25908,T40,3,Pete Dye Stadium Course,704,74,0.439,0.796,-2.811,-2.136,-4.151,-3.712,281.2,0.5,0.444,0.636,53.493,41.139
+pga,2022,2022,The American Express,2,"Whaley, Vince",25908,T40,4,Pete Dye Stadium Course,704,70,-1.717,-0.066,1.647,1.05,2.631,0.914,295.0,0.643,0.778,0.75,51.432,31.076
+pga,2022,2022,The American Express,2,"Young, Cameron",26651,T40,1,La Quinta Country Club,202,64,,,,,,5.135,,,,,,
+pga,2022,2022,The American Express,2,"Young, Cameron",26651,T40,2,Nicklaus Tournament Course,233,68,,,,,,0.923,,,,,,
+pga,2022,2022,The American Express,2,"Young, Cameron",26651,T40,3,Pete Dye Stadium Course,704,69,1.06,-0.246,1.194,-0.72,0.228,1.288,314.0,0.571,0.667,0.8,26.821,26.996
+pga,2022,2022,The American Express,2,"Young, Cameron",26651,T40,4,Pete Dye Stadium Course,704,77,-1.0,-0.829,-2.761,-1.496,-5.086,-6.086,296.6,0.5,0.611,0.667,41.619,32.856
+pga,2022,2022,The American Express,2,"Ancer, Abraham",18238,T40,1,Nicklaus Tournament Course,233,67,,,,,,2.558,,,,,,
+pga,2022,2022,The American Express,2,"Ancer, Abraham",18238,T40,2,Pete Dye Stadium Course,704,71,-0.542,-1.139,-0.361,0.735,-0.766,-1.308,287.9,0.786,0.611,0.7,44.251,25.446
+pga,2022,2022,The American Express,2,"Ancer, Abraham",18238,T40,3,La Quinta Country Club,202,70,,,,,,0.788,,,,,,
+pga,2022,2022,The American Express,2,"Ancer, Abraham",18238,T40,4,Pete Dye Stadium Course,704,70,-1.433,0.682,0.882,0.783,2.347,0.914,285.1,0.643,0.778,0.833,41.26,30.809
+pga,2022,2022,The American Express,2,"Straka, Sepp",17511,T49,1,Pete Dye Stadium Course,704,67,3.738,-0.038,-0.242,0.812,0.531,4.269,279.7,0.786,0.722,0.778,25.246,39.354
+pga,2022,2022,The American Express,2,"Straka, Sepp",17511,T49,2,La Quinta Country Club,202,69,,,,,,0.827,,,,,,
+pga,2022,2022,The American Express,2,"Straka, Sepp",17511,T49,3,Nicklaus Tournament Course,233,72,,,,,,0.288,,,,,,
+pga,2022,2022,The American Express,2,"Straka, Sepp",17511,T49,4,Pete Dye Stadium Course,704,71,0.63,-0.44,1.052,-1.328,-0.716,-0.086,276.9,0.714,0.889,0.5,38.385,31.512
+pga,2022,2022,The American Express,2,"Ryder, Sam",16715,T49,1,Pete Dye Stadium Course,704,65,2.585,3.79,-0.423,0.318,3.684,6.269,280.7,0.571,0.667,0.9,50.374,30.343
+pga,2022,2022,The American Express,2,"Ryder, Sam",16715,T49,2,La Quinta Country Club,202,68,,,,,,1.827,,,,,,
+pga,2022,2022,The American Express,2,"Ryder, Sam",16715,T49,3,Nicklaus Tournament Course,233,73,,,,,,-0.712,,,,,,
+pga,2022,2022,The American Express,2,"Ryder, Sam",16715,T49,4,Pete Dye Stadium Course,704,73,-1.803,1.928,-2.591,0.38,-0.283,-2.086,283.3,0.571,0.722,0.889,27.834,32.388
+pga,2022,2022,The American Express,2,"Svensson, Adam",13997,T49,1,La Quinta Country Club,202,69,,,,,,0.135,,,,,,
+pga,2022,2022,The American Express,2,"Svensson, Adam",13997,T49,2,Nicklaus Tournament Course,233,67,,,,,,1.923,,,,,,
+pga,2022,2022,The American Express,2,"Svensson, Adam",13997,T49,3,Pete Dye Stadium Course,704,68,0.701,-0.888,2.526,-0.051,1.587,2.288,282.3,0.786,0.833,0.4,33.065,22.016
+pga,2022,2022,The American Express,2,"Svensson, Adam",13997,T49,4,Pete Dye Stadium Course,704,75,-1.473,-1.11,-0.137,-1.366,-2.613,-4.086,277.2,0.643,0.611,0.5,47.192,28.32
+pga,2022,2022,The American Express,2,"Burgoon, Bronson",11082,T49,1,Nicklaus Tournament Course,233,66,,,,,,3.558,,,,,,
+pga,2022,2022,The American Express,2,"Burgoon, Bronson",11082,T49,2,Pete Dye Stadium Course,704,70,0.039,0.393,0.175,-0.914,-0.347,-0.308,280.9,0.714,0.722,1.0,15.585,33.629
+pga,2022,2022,The American Express,2,"Burgoon, Bronson",11082,T49,3,La Quinta Country Club,202,73,,,,,,-2.212,,,,,,
+pga,2022,2022,The American Express,2,"Burgoon, Bronson",11082,T49,4,Pete Dye Stadium Course,704,70,1.452,-0.505,-0.121,0.088,-0.538,0.914,285.8,0.571,0.722,0.8,36.267,23.116
+pga,2022,2022,The American Express,2,"Day, Jason",9771,T49,1,Nicklaus Tournament Course,233,67,,,,,,2.558,,,,,,
+pga,2022,2022,The American Express,2,"Day, Jason",9771,T49,2,Pete Dye Stadium Course,704,75,-1.655,-1.372,-1.603,-0.677,-3.653,-5.308,284.9,0.571,0.778,0.429,36.089,29.702
+pga,2022,2022,The American Express,2,"Day, Jason",9771,T49,3,La Quinta Country Club,202,67,,,,,,3.788,,,,,,
+pga,2022,2022,The American Express,2,"Day, Jason",9771,T49,4,Pete Dye Stadium Course,704,70,-0.432,2.905,-0.301,-1.258,1.346,0.914,288.9,0.714,0.667,0.8,41.572,32.673
+pga,2022,2022,The American Express,2,"Lebioda, Hank",21943,T49,1,Nicklaus Tournament Course,233,68,,,,,,1.558,,,,,,
+pga,2022,2022,The American Express,2,"Lebioda, Hank",21943,T49,2,Pete Dye Stadium Course,704,69,0.64,1.635,-1.733,0.151,0.052,0.692,274.2,0.786,0.556,0.833,85.77,32.878
+pga,2022,2022,The American Express,2,"Lebioda, Hank",21943,T49,3,La Quinta Country Club,202,71,,,,,,-0.212,,,,,,
+pga,2022,2022,The American Express,2,"Lebioda, Hank",21943,T49,4,Pete Dye Stadium Course,704,71,0.385,1.665,-1.753,-0.383,-0.471,-0.086,277.6,0.571,0.5,0.7,34.468,36.347
+pga,2022,2022,The American Express,2,"Trainer, Martin",15634,T55,1,Pete Dye Stadium Course,704,66,2.957,1.573,1.031,-0.291,2.312,5.269,294.9,0.286,0.778,1.0,44.923,29.768
+pga,2022,2022,The American Express,2,"Trainer, Martin",15634,T55,2,La Quinta Country Club,202,71,,,,,,-1.173,,,,,,
+pga,2022,2022,The American Express,2,"Trainer, Martin",15634,T55,3,Nicklaus Tournament Course,233,68,,,,,,4.288,,,,,,
+pga,2022,2022,The American Express,2,"Trainer, Martin",15634,T55,4,Pete Dye Stadium Course,704,75,-0.688,-1.911,-1.769,0.282,-3.398,-4.086,292.7,0.429,0.556,0.538,40.975,35.368
+pga,2022,2022,The American Express,2,"Chappell, Kevin",13305,T55,1,La Quinta Country Club,202,67,,,,,,2.135,,,,,,
+pga,2022,2022,The American Express,2,"Chappell, Kevin",13305,T55,2,Nicklaus Tournament Course,233,69,,,,,,-0.077,,,,,,
+pga,2022,2022,The American Express,2,"Chappell, Kevin",13305,T55,3,Pete Dye Stadium Course,704,72,-1.428,1.246,-2.106,0.576,-0.284,-1.712,287.4,0.571,0.722,0.571,42.702,36.784
+pga,2022,2022,The American Express,2,"Chappell, Kevin",13305,T55,4,Pete Dye Stadium Course,704,72,-1.387,-0.17,-0.354,0.825,0.301,-1.086,285.1,0.643,0.778,0.5,24.722,40.419
+pga,2022,2022,The American Express,2,"Reed, Patrick",14838,T55,1,La Quinta Country Club,202,71,,,,,,-1.865,,,,,,
+pga,2022,2022,The American Express,2,"Reed, Patrick",14838,T55,2,Nicklaus Tournament Course,233,70,,,,,,-1.077,,,,,,
+pga,2022,2022,The American Express,2,"Reed, Patrick",14838,T55,3,Pete Dye Stadium Course,704,68,3.301,1.407,-2.826,0.406,-1.013,2.288,291.6,0.643,0.556,0.727,42.568,50.057
+pga,2022,2022,The American Express,2,"Reed, Patrick",14838,T55,4,Pete Dye Stadium Course,704,71,-0.19,-0.378,1.836,-1.354,0.104,-0.086,289.1,0.357,0.833,0.6,40.188,25.693
+pga,2022,2022,The American Express,2,"Gligic, Michael",13404,T55,1,Nicklaus Tournament Course,233,68,,,,,,1.558,,,,,,
+pga,2022,2022,The American Express,2,"Gligic, Michael",13404,T55,2,Pete Dye Stadium Course,704,68,-1.607,0.171,2.415,0.714,3.299,1.692,283.7,0.714,0.944,0.75,19.849,24.818
+pga,2022,2022,The American Express,2,"Gligic, Michael",13404,T55,3,La Quinta Country Club,202,72,,,,,,-1.212,,,,,,
+pga,2022,2022,The American Express,2,"Gligic, Michael",13404,T55,4,Pete Dye Stadium Course,704,72,-1.473,-0.987,1.374,0.0,0.387,-1.086,280.3,0.5,0.722,0.556,28.264,29.555
+pga,2022,2022,The American Express,2,"Mullinax, Trey",18761,T59,1,La Quinta Country Club,202,70,,,,,,-0.865,,,,,,
+pga,2022,2022,The American Express,2,"Mullinax, Trey",18761,T59,2,Nicklaus Tournament Course,233,68,,,,,,0.923,,,,,,
+pga,2022,2022,The American Express,2,"Mullinax, Trey",18761,T59,3,Pete Dye Stadium Course,704,71,-1.002,0.867,-1.539,0.962,0.29,-0.712,301.4,0.5,0.5,0.5,35.905,34.942
+pga,2022,2022,The American Express,2,"Mullinax, Trey",18761,T59,4,Pete Dye Stadium Course,704,72,-2.81,-0.291,1.066,0.949,1.724,-1.086,298.6,0.643,0.778,0.571,29.378,25.636
+pga,2022,2022,The American Express,2,"Rai, Aaron",18554,T59,1,La Quinta Country Club,202,67,,,,,,2.135,,,,,,
+pga,2022,2022,The American Express,2,"Rai, Aaron",18554,T59,2,Nicklaus Tournament Course,233,67,,,,,,1.923,,,,,,
+pga,2022,2022,The American Express,2,"Rai, Aaron",18554,T59,3,Pete Dye Stadium Course,704,72,0.821,-0.956,-2.177,0.6,-2.533,-1.712,289.3,0.571,0.5,0.667,53.259,42.854
+pga,2022,2022,The American Express,2,"Rai, Aaron",18554,T59,4,Pete Dye Stadium Course,704,75,-0.113,-1.042,-3.862,0.931,-3.973,-4.086,291.1,0.571,0.556,0.444,34.628,41.57
+pga,2022,2022,The American Express,2,"Riley, Davis",19872,T59,1,La Quinta Country Club,202,66,,,,,,3.135,,,,,,
+pga,2022,2022,The American Express,2,"Riley, Davis",19872,T59,2,Nicklaus Tournament Course,233,69,,,,,,-0.077,,,,,,
+pga,2022,2022,The American Express,2,"Riley, Davis",19872,T59,3,Pete Dye Stadium Course,704,68,-1.254,2.535,0.034,0.973,3.542,2.288,286.1,0.714,0.667,0.778,41.026,34.58
+pga,2022,2022,The American Express,2,"Riley, Davis",19872,T59,4,Pete Dye Stadium Course,704,78,-0.775,-0.954,-0.133,-5.224,-6.311,-7.086,288.0,0.357,0.5,0.769,36.888,21.688
+pga,2022,2022,The American Express,2,"Ghim, Doug",24550,T59,1,Nicklaus Tournament Course,233,67,,,,,,2.558,,,,,,
+pga,2022,2022,The American Express,2,"Ghim, Doug",24550,T59,2,Pete Dye Stadium Course,704,68,-2.055,2.463,1.645,-0.36,3.747,1.692,284.9,0.5,0.611,0.8,37.481,31.238
+pga,2022,2022,The American Express,2,"Ghim, Doug",24550,T59,3,La Quinta Country Club,202,73,,,,,,-2.212,,,,,,
+pga,2022,2022,The American Express,2,"Ghim, Doug",24550,T59,4,Pete Dye Stadium Course,704,73,-1.489,0.818,0.678,-2.093,-0.597,-2.086,279.1,0.714,0.667,0.75,37.198,28.934
+pga,2022,2022,The American Express,2,"Norlander, Henrik",11657,T63,1,Pete Dye Stadium Course,704,69,1.357,-0.245,2.65,-1.492,0.912,2.269,275.9,0.571,0.667,0.75,38.648,23.151
+pga,2022,2022,The American Express,2,"Norlander, Henrik",11657,T63,2,La Quinta Country Club,202,67,,,,,,2.827,,,,,,
+pga,2022,2022,The American Express,2,"Norlander, Henrik",11657,T63,3,Nicklaus Tournament Course,233,73,,,,,,-0.712,,,,,,
+pga,2022,2022,The American Express,2,"Norlander, Henrik",11657,T63,4,Pete Dye Stadium Course,704,73,1.009,0.096,-3.478,0.287,-3.095,-2.086,278.9,0.643,0.611,0.5,32.9,28.999
+pga,2022,2022,The American Express,2,"Lee, K.H.",13497,T63,1,Pete Dye Stadium Course,704,64,3.338,0.507,4.865,-1.44,3.931,7.269,281.2,0.571,0.833,1.0,24.383,21.914
+pga,2022,2022,The American Express,2,"Lee, K.H.",13497,T63,2,La Quinta Country Club,202,71,,,,,,-1.173,,,,,,
+pga,2022,2022,The American Express,2,"Lee, K.H.",13497,T63,3,Nicklaus Tournament Course,233,71,,,,,,1.288,,,,,,
+pga,2022,2022,The American Express,2,"Lee, K.H.",13497,T63,4,Pete Dye Stadium Course,704,76,-3.049,1.034,0.318,-3.389,-2.037,-5.086,289.0,0.286,0.667,0.75,46.175,26.665
+pga,2022,2022,The American Express,2,"Grillo, Emiliano",12808,T63,1,Nicklaus Tournament Course,233,71,,,,,,-1.442,,,,,,
+pga,2022,2022,The American Express,2,"Grillo, Emiliano",12808,T63,2,Pete Dye Stadium Course,704,65,0.904,1.58,1.77,0.439,3.788,4.692,289.4,0.643,0.833,0.857,41.623,23.815
+pga,2022,2022,The American Express,2,"Grillo, Emiliano",12808,T63,3,La Quinta Country Club,202,73,,,,,,-2.212,,,,,,
+pga,2022,2022,The American Express,2,"Grillo, Emiliano",12808,T63,4,Pete Dye Stadium Course,704,73,-0.514,-1.673,-0.975,1.076,-1.572,-2.086,290.0,0.643,0.556,0.3,46.872,30.798
+pga,2022,2022,The American Express,2,"Lahiri, Anirban",12669,66,1,La Quinta Country Club,202,69,,,,,,0.135,,,,,,
+pga,2022,2022,The American Express,2,"Lahiri, Anirban",12669,66,2,Nicklaus Tournament Course,233,67,,,,,,1.923,,,,,,
+pga,2022,2022,The American Express,2,"Lahiri, Anirban",12669,66,3,Pete Dye Stadium Course,704,72,-0.131,-0.809,-0.972,0.2,-1.581,-1.712,291.1,0.429,0.722,0.667,27.92,45.281
+pga,2022,2022,The American Express,2,"Lahiri, Anirban",12669,66,4,Pete Dye Stadium Course,704,75,-0.711,-0.126,-4.73,1.481,-3.375,-4.086,289.3,0.786,0.611,0.667,43.944,37.533
+pga,2022,2022,The American Express,2,"Hardy, Nick",19865,T67,1,Pete Dye Stadium Course,704,68,-0.531,1.307,1.308,1.186,3.8,3.269,289.9,0.714,0.778,0.778,43.086,32.801
+pga,2022,2022,The American Express,2,"Hardy, Nick",19865,T67,2,La Quinta Country Club,202,71,,,,,,-1.173,,,,,,
+pga,2022,2022,The American Express,2,"Hardy, Nick",19865,T67,3,Nicklaus Tournament Course,233,68,,,,,,4.288,,,,,,
+pga,2022,2022,The American Express,2,"Hardy, Nick",19865,T67,4,Pete Dye Stadium Course,704,77,-1.304,-4.887,-0.402,0.507,-4.782,-6.086,295.2,0.429,0.611,0.333,50.729,32.937
+pga,2022,2022,The American Express,2,"Noh, Seung-Yul",11117,T67,1,Pete Dye Stadium Course,704,68,0.364,0.65,2.613,-0.357,2.905,3.269,285.7,0.357,0.889,0.667,24.238,30.958
+pga,2022,2022,The American Express,2,"Noh, Seung-Yul",11117,T67,2,La Quinta Country Club,202,71,,,,,,-1.173,,,,,,
+pga,2022,2022,The American Express,2,"Noh, Seung-Yul",11117,T67,3,Nicklaus Tournament Course,233,70,,,,,,2.288,,,,,,
+pga,2022,2022,The American Express,2,"Noh, Seung-Yul",11117,T67,4,Pete Dye Stadium Course,704,75,1.625,-0.679,-0.49,-4.542,-5.711,-4.086,281.5,0.5,0.444,0.7,28.545,31.202
+pga,2022,2022,The American Express,2,"Moore, Taylor",21944,T67,1,La Quinta Country Club,202,66,,,,,,3.135,,,,,,
+pga,2022,2022,The American Express,2,"Moore, Taylor",21944,T67,2,Nicklaus Tournament Course,233,70,,,,,,-1.077,,,,,,
+pga,2022,2022,The American Express,2,"Moore, Taylor",21944,T67,3,Pete Dye Stadium Course,704,72,-2.149,1.965,-2.044,0.516,0.437,-1.712,273.0,0.714,0.611,0.875,57.189,30.072
+pga,2022,2022,The American Express,2,"Moore, Taylor",21944,T67,4,Pete Dye Stadium Course,704,76,0.733,-0.859,-3.638,-1.322,-5.819,-5.086,285.9,0.5,0.611,0.556,49.119,44.44
+pga,2022,2022,The American Express,2,"Garnett, Brice",11451,70,1,Nicklaus Tournament Course,233,68,,,,,,1.558,,,,,,
+pga,2022,2022,The American Express,2,"Garnett, Brice",11451,70,2,Pete Dye Stadium Course,704,71,0.104,-0.014,-1.588,0.191,-1.412,-1.308,277.8,0.714,0.667,0.778,38.063,33.513
+pga,2022,2022,The American Express,2,"Garnett, Brice",11451,70,3,La Quinta Country Club,202,69,,,,,,1.788,,,,,,
+pga,2022,2022,The American Express,2,"Garnett, Brice",11451,70,4,Pete Dye Stadium Course,704,77,-0.177,-1.078,-4.039,-0.792,-5.909,-6.086,279.5,0.357,0.389,0.688,49.332,44.681
+pga,2022,2022,The American Express,2,"Tarren, Callum",20519,CUT,1,Pete Dye Stadium Course,704,69,-0.339,0.458,1.461,0.69,2.608,2.269,291.3,0.5,0.833,0.5,33.428,34.73
+pga,2022,2022,The American Express,2,"Tarren, Callum",20519,CUT,2,La Quinta Country Club,202,69,,,,,,0.827,,,,,,
+pga,2022,2022,The American Express,2,"Tarren, Callum",20519,CUT,3,Nicklaus Tournament Course,233,72,,,,,,0.288,,,,,,
+pga,2022,2022,The American Express,2,"Streb, Robert",14852,CUT,1,Pete Dye Stadium Course,704,70,-0.766,0.375,2.611,-0.95,2.035,1.269,281.5,0.643,0.722,0.889,21.802,32.879
+pga,2022,2022,The American Express,2,"Streb, Robert",14852,CUT,2,La Quinta Country Club,202,70,,,,,,-0.173,,,,,,
+pga,2022,2022,The American Express,2,"Streb, Robert",14852,CUT,3,Nicklaus Tournament Course,233,70,,,,,,2.288,,,,,,
+pga,2022,2022,The American Express,2,"Novak, Andrew",23475,CUT,1,Pete Dye Stadium Course,704,69,1.797,0.33,0.008,0.135,0.472,2.269,282.1,0.571,0.556,0.727,54.673,28.784
+pga,2022,2022,The American Express,2,"Novak, Andrew",23475,CUT,2,La Quinta Country Club,202,72,,,,,,-2.173,,,,,,
+pga,2022,2022,The American Express,2,"Novak, Andrew",23475,CUT,3,Nicklaus Tournament Course,233,69,,,,,,3.288,,,,,,
+pga,2022,2022,The American Express,2,"Kim, Chan",15004,CUT,1,La Quinta Country Club,202,70,,,,,,-0.865,,,,,,
+pga,2022,2022,The American Express,2,"Kim, Chan",15004,CUT,2,Nicklaus Tournament Course,233,71,,,,,,-2.077,,,,,,
+pga,2022,2022,The American Express,2,"Kim, Chan",15004,CUT,3,Pete Dye Stadium Course,704,69,-0.386,0.33,0.995,0.349,1.674,1.288,288.2,0.429,0.833,0.25,46.596,34.6
+pga,2022,2022,The American Express,2,"Piercy, Scott",7899,CUT,1,La Quinta Country Club,202,70,,,,,,-0.865,,,,,,
+pga,2022,2022,The American Express,2,"Piercy, Scott",7899,CUT,2,Nicklaus Tournament Course,233,71,,,,,,-2.077,,,,,,
+pga,2022,2022,The American Express,2,"Piercy, Scott",7899,CUT,3,Pete Dye Stadium Course,704,69,-1.14,0.308,1.765,0.355,2.428,1.288,277.9,0.714,0.667,0.778,29.452,28.546
+pga,2022,2022,The American Express,2,"Perez, Pat",6762,CUT,1,La Quinta Country Club,202,69,,,,,,0.135,,,,,,
+pga,2022,2022,The American Express,2,"Perez, Pat",6762,CUT,2,Nicklaus Tournament Course,233,70,,,,,,-1.077,,,,,,
+pga,2022,2022,The American Express,2,"Perez, Pat",6762,CUT,3,Pete Dye Stadium Course,704,71,-1.627,1.599,0.606,-1.29,0.915,-0.712,271.9,0.571,0.611,0.7,34.014,33.095
+pga,2022,2022,The American Express,2,"Tringale, Cameron",14013,CUT,1,La Quinta Country Club,202,74,,,,,,-4.865,,,,,,
+pga,2022,2022,The American Express,2,"Tringale, Cameron",14013,CUT,2,Nicklaus Tournament Course,233,65,,,,,,3.923,,,,,,
+pga,2022,2022,The American Express,2,"Tringale, Cameron",14013,CUT,3,Pete Dye Stadium Course,704,71,-1.675,0.946,0.682,-0.665,0.963,-0.712,283.8,0.5,0.722,0.667,18.439,39.893
+pga,2022,2022,The American Express,2,"Redman, Doc",24481,CUT,1,Nicklaus Tournament Course,233,71,,,,,,-1.442,,,,,,
+pga,2022,2022,The American Express,2,"Redman, Doc",24481,CUT,2,Pete Dye Stadium Course,704,67,3.372,-0.526,-0.677,0.524,-0.68,2.692,291.8,0.5,0.889,0.667,35.066,31.382
+pga,2022,2022,The American Express,2,"Redman, Doc",24481,CUT,3,La Quinta Country Club,202,72,,,,,,-1.212,,,,,,
+pga,2022,2022,The American Express,2,"Pendrith, Taylor",17780,CUT,1,Nicklaus Tournament Course,233,71,,,,,,-1.442,,,,,,
+pga,2022,2022,The American Express,2,"Pendrith, Taylor",17780,CUT,2,Pete Dye Stadium Course,704,72,-2.349,0.923,-0.772,-0.109,0.041,-2.308,293.9,0.571,0.611,0.667,32.021,38.627
+pga,2022,2022,The American Express,2,"Pendrith, Taylor",17780,CUT,3,La Quinta Country Club,202,67,,,,,,3.788,,,,,,
+pga,2022,2022,The American Express,2,"Pan, C.T.",15475,CUT,1,Nicklaus Tournament Course,233,68,,,,,,1.558,,,,,,
+pga,2022,2022,The American Express,2,"Pan, C.T.",15475,CUT,2,Pete Dye Stadium Course,704,71,-1.016,0.755,-1.899,0.853,-0.292,-1.308,282.5,0.786,0.722,0.875,29.663,33.047
+pga,2022,2022,The American Express,2,"Pan, C.T.",15475,CUT,3,La Quinta Country Club,202,71,,,,,,-0.212,,,,,,
+pga,2022,2022,The American Express,2,"Wu, Brandon",25213,CUT,1,Pete Dye Stadium Course,704,70,-0.047,-0.345,2.563,-0.901,1.316,1.269,280.1,0.571,0.722,0.25,28.587,28.302
+pga,2022,2022,The American Express,2,"Wu, Brandon",25213,CUT,2,La Quinta Country Club,202,72,,,,,,-2.173,,,,,,
+pga,2022,2022,The American Express,2,"Wu, Brandon",25213,CUT,3,Nicklaus Tournament Course,233,69,,,,,,3.288,,,,,,
+pga,2022,2022,The American Express,2,"Duncan, Tyler",18187,CUT,1,Pete Dye Stadium Course,704,69,0.792,1.08,-0.356,0.754,1.477,2.269,279.1,0.786,0.667,0.7,64.081,37.767
+pga,2022,2022,The American Express,2,"Duncan, Tyler",18187,CUT,2,La Quinta Country Club,202,69,,,,,,0.827,,,,,,
+pga,2022,2022,The American Express,2,"Duncan, Tyler",18187,CUT,3,Nicklaus Tournament Course,233,73,,,,,,-0.712,,,,,,
+pga,2022,2022,The American Express,2,"NeSmith, Matthew",16433,CUT,1,Pete Dye Stadium Course,704,69,-0.028,-0.459,1.895,0.862,2.297,2.269,283.3,0.714,0.833,0.571,28.749,38.078
+pga,2022,2022,The American Express,2,"NeSmith, Matthew",16433,CUT,2,La Quinta Country Club,202,69,,,,,,0.827,,,,,,
+pga,2022,2022,The American Express,2,"NeSmith, Matthew",16433,CUT,3,Nicklaus Tournament Course,233,73,,,,,,-0.712,,,,,,
+pga,2022,2022,The American Express,2,"Gooch, Talor",18580,CUT,1,Pete Dye Stadium Course,704,75,-1.721,-3.376,1.395,-0.028,-2.01,-3.731,284.2,0.5,0.667,0.273,33.101,47.271
+pga,2022,2022,The American Express,2,"Gooch, Talor",18580,CUT,2,La Quinta Country Club,202,68,,,,,,1.827,,,,,,
+pga,2022,2022,The American Express,2,"Gooch, Talor",18580,CUT,3,Nicklaus Tournament Course,233,68,,,,,,4.288,,,,,,
+pga,2022,2022,The American Express,2,"Long, Adam",15473,CUT,1,La Quinta Country Club,202,68,,,,,,1.135,,,,,,
+pga,2022,2022,The American Express,2,"Long, Adam",15473,CUT,2,Nicklaus Tournament Course,233,71,,,,,,-2.077,,,,,,
+pga,2022,2022,The American Express,2,"Long, Adam",15473,CUT,3,Pete Dye Stadium Course,704,72,-0.459,-0.201,-0.848,-0.204,-1.253,-1.712,282.0,0.5,0.667,0.571,26.101,31.146
+pga,2022,2022,The American Express,2,"Knox, Russell",13831,CUT,1,La Quinta Country Club,202,70,,,,,,-0.865,,,,,,
+pga,2022,2022,The American Express,2,"Knox, Russell",13831,CUT,2,Nicklaus Tournament Course,233,68,,,,,,0.923,,,,,,
+pga,2022,2022,The American Express,2,"Knox, Russell",13831,CUT,3,Pete Dye Stadium Course,704,73,-1.683,0.224,-0.994,-0.259,-1.029,-2.712,283.0,0.571,0.611,0.667,36.622,39.242
+pga,2022,2022,The American Express,2,"Reavie, Chez",7961,CUT,1,La Quinta Country Club,202,72,,,,,,-2.865,,,,,,
+pga,2022,2022,The American Express,2,"Reavie, Chez",7961,CUT,2,Nicklaus Tournament Course,233,67,,,,,,1.923,,,,,,
+pga,2022,2022,The American Express,2,"Reavie, Chez",7961,CUT,3,Pete Dye Stadium Course,704,72,-0.424,-0.295,0.912,-1.905,-1.288,-1.712,276.1,0.571,0.778,0.6,37.947,35.587
+pga,2022,2022,The American Express,2,"Noren, Alex",10419,CUT,1,La Quinta Country Club,202,70,,,,,,-0.865,,,,,,
+pga,2022,2022,The American Express,2,"Noren, Alex",10419,CUT,2,Nicklaus Tournament Course,233,67,,,,,,1.923,,,,,,
+pga,2022,2022,The American Express,2,"Noren, Alex",10419,CUT,3,Pete Dye Stadium Course,704,74,-0.739,-1.118,0.069,-1.924,-2.973,-3.712,286.9,0.5,0.611,0.7,40.991,32.078
+pga,2022,2022,The American Express,2,"Lee, Danny",11826,CUT,1,Nicklaus Tournament Course,233,65,,,,,,4.558,,,,,,
+pga,2022,2022,The American Express,2,"Lee, Danny",11826,CUT,2,Pete Dye Stadium Course,704,72,1.931,0.225,-3.61,-0.853,-4.239,-2.308,279.1,0.429,0.667,0.75,35.948,54.264
+pga,2022,2022,The American Express,2,"Lee, Danny",11826,CUT,3,La Quinta Country Club,202,74,,,,,,-3.212,,,,,,
+pga,2022,2022,The American Express,2,"Stuard, Brian",13022,CUT,1,Nicklaus Tournament Course,233,69,,,,,,0.558,,,,,,
+pga,2022,2022,The American Express,2,"Stuard, Brian",13022,CUT,2,Pete Dye Stadium Course,704,72,0.001,-0.044,-2.123,-0.141,-2.309,-2.308,270.5,0.714,0.722,0.4,27.733,29.037
+pga,2022,2022,The American Express,2,"Stuard, Brian",13022,CUT,3,La Quinta Country Club,202,70,,,,,,0.788,,,,,,
+pga,2022,2022,The American Express,2,"Wu, Dylan",25002,CUT,1,Nicklaus Tournament Course,233,69,,,,,,0.558,,,,,,
+pga,2022,2022,The American Express,2,"Wu, Dylan",25002,CUT,2,Pete Dye Stadium Course,704,72,-1.792,0.131,-0.019,-0.627,-0.516,-2.308,281.8,0.429,0.667,0.6,46.96,38.104
+pga,2022,2022,The American Express,2,"Wu, Dylan",25002,CUT,3,La Quinta Country Club,202,70,,,,,,0.788,,,,,,
+pga,2022,2022,The American Express,2,"Vegas, Jhonattan",13508,CUT,1,Nicklaus Tournament Course,233,72,,,,,,-2.442,,,,,,
+pga,2022,2022,The American Express,2,"Vegas, Jhonattan",13508,CUT,2,Pete Dye Stadium Course,704,72,-1.826,-0.874,-0.596,0.989,-0.482,-2.308,291.0,0.643,0.833,0.25,37.436,30.398
+pga,2022,2022,The American Express,2,"Vegas, Jhonattan",13508,CUT,3,La Quinta Country Club,202,67,,,,,,3.788,,,,,,
+pga,2022,2022,The American Express,2,"Thompson, Curtis",19395,CUT,1,Nicklaus Tournament Course,233,69,,,,,,0.558,,,,,,
+pga,2022,2022,The American Express,2,"Thompson, Curtis",19395,CUT,2,Pete Dye Stadium Course,704,69,-0.382,0.983,-0.08,0.172,1.074,0.692,278.6,0.714,0.556,0.8,75.907,30.66
+pga,2022,2022,The American Express,2,"Thompson, Curtis",19395,CUT,3,La Quinta Country Club,202,73,,,,,,-2.212,,,,,,
+pga,2022,2022,The American Express,2,"Hickok, Kramer",21237,CUT,1,Pete Dye Stadium Course,704,72,-1.631,-0.58,0.311,1.17,0.9,-0.731,284.5,0.714,0.778,0.5,28.073,37.531
+pga,2022,2022,The American Express,2,"Hickok, Kramer",21237,CUT,2,La Quinta Country Club,202,66,,,,,,3.827,,,,,,
+pga,2022,2022,The American Express,2,"Hickok, Kramer",21237,CUT,3,Nicklaus Tournament Course,233,74,,,,,,-1.712,,,,,,
+pga,2022,2022,The American Express,2,"Stallings, Scott",12359,CUT,1,Pete Dye Stadium Course,704,74,-2.854,-1.363,0.408,1.079,0.123,-2.731,290.2,0.714,0.722,0.375,24.272,38.411
+pga,2022,2022,The American Express,2,"Stallings, Scott",12359,CUT,2,La Quinta Country Club,202,70,,,,,,-0.173,,,,,,
+pga,2022,2022,The American Express,2,"Stallings, Scott",12359,CUT,3,Nicklaus Tournament Course,233,68,,,,,,4.288,,,,,,
+pga,2022,2022,The American Express,2,"Todd, Brendon",12425,CUT,1,Pete Dye Stadium Course,704,71,-1.414,0.119,2.102,-0.537,1.683,0.269,261.5,0.786,0.833,0.8,48.426,24.622
+pga,2022,2022,The American Express,2,"Todd, Brendon",12425,CUT,2,La Quinta Country Club,202,68,,,,,,1.827,,,,,,
+pga,2022,2022,The American Express,2,"Todd, Brendon",12425,CUT,3,Nicklaus Tournament Course,233,73,,,,,,-0.712,,,,,,
+pga,2022,2022,The American Express,2,"Stroud, Chris",9604,CUT,1,Pete Dye Stadium Course,704,69,0.738,-1.074,2.901,-0.295,1.531,2.269,280.7,0.5,0.722,0.6,28.943,29.584
+pga,2022,2022,The American Express,2,"Stroud, Chris",9604,CUT,2,La Quinta Country Club,202,67,,,,,,2.827,,,,,,
+pga,2022,2022,The American Express,2,"Stroud, Chris",9604,CUT,3,Nicklaus Tournament Course,233,76,,,,,,-3.712,,,,,,
+pga,2022,2022,The American Express,2,"Hahn, James",11374,CUT,1,Pete Dye Stadium Course,704,70,-1.232,-0.904,2.355,1.051,2.501,1.269,290.6,0.714,0.833,0.286,25.781,38.024
+pga,2022,2022,The American Express,2,"Hahn, James",11374,CUT,2,La Quinta Country Club,202,70,,,,,,-0.173,,,,,,
+pga,2022,2022,The American Express,2,"Hahn, James",11374,CUT,3,Nicklaus Tournament Course,233,72,,,,,,0.288,,,,,,
+pga,2022,2022,The American Express,2,"Woodland, Gary",12577,CUT,1,Pete Dye Stadium Course,704,72,-0.557,-0.147,-0.491,0.465,-0.174,-0.731,285.5,0.429,0.667,0.7,41.228,32.591
+pga,2022,2022,The American Express,2,"Woodland, Gary",12577,CUT,2,La Quinta Country Club,202,69,,,,,,0.827,,,,,,
+pga,2022,2022,The American Express,2,"Woodland, Gary",12577,CUT,3,Nicklaus Tournament Course,233,71,,,,,,1.288,,,,,,
+pga,2022,2022,The American Express,2,"McCumber, Tyler",17584,CUT,1,Pete Dye Stadium Course,704,75,0.003,-0.889,-1.869,-0.975,-3.734,-3.731,285.4,0.643,0.667,0.571,34.709,32.045
+pga,2022,2022,The American Express,2,"McCumber, Tyler",17584,CUT,2,La Quinta Country Club,202,72,,,,,,-2.173,,,,,,
+pga,2022,2022,The American Express,2,"McCumber, Tyler",17584,CUT,3,Nicklaus Tournament Course,233,65,,,,,,7.288,,,,,,
+pga,2022,2022,The American Express,2,"Merritt, Troy",13367,CUT,1,Pete Dye Stadium Course,704,73,-0.274,-1.521,-0.976,1.041,-1.457,-1.731,280.0,0.786,0.667,0.6,37.724,31.953
+pga,2022,2022,The American Express,2,"Merritt, Troy",13367,CUT,2,La Quinta Country Club,202,70,,,,,,-0.173,,,,,,
+pga,2022,2022,The American Express,2,"Merritt, Troy",13367,CUT,3,Nicklaus Tournament Course,233,69,,,,,,3.288,,,,,,
+pga,2022,2022,The American Express,2,"Champ, Cameron",23542,CUT,1,La Quinta Country Club,202,73,,,,,,-3.865,,,,,,
+pga,2022,2022,The American Express,2,"Champ, Cameron",23542,CUT,2,Nicklaus Tournament Course,233,69,,,,,,-0.077,,,,,,
+pga,2022,2022,The American Express,2,"Champ, Cameron",23542,CUT,3,Pete Dye Stadium Course,704,70,-0.79,-0.349,-0.605,2.032,1.078,0.288,296.9,0.786,0.778,0.333,27.955,31.84
+pga,2022,2022,The American Express,2,"Haas, Bill",7900,CUT,1,La Quinta Country Club,202,73,,,,,,-3.865,,,,,,
+pga,2022,2022,The American Express,2,"Haas, Bill",7900,CUT,2,Nicklaus Tournament Course,233,68,,,,,,0.923,,,,,,
+pga,2022,2022,The American Express,2,"Haas, Bill",7900,CUT,3,Pete Dye Stadium Course,704,71,-0.66,0.474,0.07,-0.596,-0.052,-0.712,280.7,0.429,0.667,0.5,69.467,27.161
+pga,2022,2022,The American Express,2,"Kirk, Chris",12423,CUT,1,Nicklaus Tournament Course,233,71,,,,,,-1.442,,,,,,
+pga,2022,2022,The American Express,2,"Kirk, Chris",12423,CUT,2,Pete Dye Stadium Course,704,69,-1.308,1.095,-0.19,1.096,2.0,0.692,289.0,0.786,0.722,0.75,26.73,30.861
+pga,2022,2022,The American Express,2,"Kirk, Chris",12423,CUT,3,La Quinta Country Club,202,72,,,,,,-1.212,,,,,,
+pga,2022,2022,The American Express,2,"Frittelli, Dylan",11955,CUT,1,Nicklaus Tournament Course,233,73,,,,,,-3.442,,,,,,
+pga,2022,2022,The American Express,2,"Frittelli, Dylan",11955,CUT,2,Pete Dye Stadium Course,704,70,0.503,-2.399,2.078,-0.489,-0.811,-0.308,293.1,0.643,0.889,0.286,36.892,24.191
+pga,2022,2022,The American Express,2,"Frittelli, Dylan",11955,CUT,3,La Quinta Country Club,202,69,,,,,,1.788,,,,,,
+pga,2022,2022,The American Express,2,"Donald, Luke",4163,CUT,1,Nicklaus Tournament Course,233,70,,,,,,-0.442,,,,,,
+pga,2022,2022,The American Express,2,"Donald, Luke",4163,CUT,2,Pete Dye Stadium Course,704,73,-0.896,-0.092,-1.099,-1.22,-2.412,-3.308,282.3,0.714,0.889,0.75,29.928,20.114
+pga,2022,2022,The American Express,2,"Donald, Luke",4163,CUT,3,La Quinta Country Club,202,69,,,,,,1.788,,,,,,
+pga,2022,2022,The American Express,2,"Schenk, Adam",19477,CUT,1,Nicklaus Tournament Course,233,72,,,,,,-2.442,,,,,,
+pga,2022,2022,The American Express,2,"Schenk, Adam",19477,CUT,2,Pete Dye Stadium Course,704,67,2.87,-1.844,0.673,0.994,-0.178,2.692,287.2,0.786,0.722,0.6,57.362,26.436
+pga,2022,2022,The American Express,2,"Schenk, Adam",19477,CUT,3,La Quinta Country Club,202,73,,,,,,-2.212,,,,,,
+pga,2022,2022,The American Express,2,"Tway, Kevin",13127,CUT,1,Nicklaus Tournament Course,233,70,,,,,,-0.442,,,,,,
+pga,2022,2022,The American Express,2,"Tway, Kevin",13127,CUT,2,Pete Dye Stadium Course,704,70,0.19,-1.885,1.2,0.188,-0.498,-0.308,291.5,0.5,0.667,0.429,33.567,30.927
+pga,2022,2022,The American Express,2,"Tway, Kevin",13127,CUT,3,La Quinta Country Club,202,72,,,,,,-1.212,,,,,,
+pga,2022,2022,The American Express,2,"Drewitt, Brett",15162,CUT,1,Nicklaus Tournament Course,233,67,,,,,,2.558,,,,,,
+pga,2022,2022,The American Express,2,"Drewitt, Brett",15162,CUT,2,Pete Dye Stadium Course,704,73,-1.841,-0.362,-0.964,-0.14,-1.467,-3.308,277.0,0.643,0.611,0.667,60.14,25.165
+pga,2022,2022,The American Express,2,"Drewitt, Brett",15162,CUT,3,La Quinta Country Club,202,72,,,,,,-1.212,,,,,,
+pga,2022,2022,The American Express,2,"Huh, John",14606,CUT,1,Nicklaus Tournament Course,233,72,,,,,,-2.442,,,,,,
+pga,2022,2022,The American Express,2,"Huh, John",14606,CUT,2,Pete Dye Stadium Course,704,70,0.789,-1.308,1.167,-0.955,-1.097,-0.308,277.5,0.5,0.778,0.333,26.926,31.36
+pga,2022,2022,The American Express,2,"Huh, John",14606,CUT,3,La Quinta Country Club,202,70,,,,,,0.788,,,,,,
+pga,2022,2022,The American Express,2,"Uihlein, Peter",11357,CUT,1,Pete Dye Stadium Course,704,71,-0.009,-0.67,1.072,-0.123,0.278,0.269,289.0,0.429,0.667,0.571,29.993,26.474
+pga,2022,2022,The American Express,2,"Uihlein, Peter",11357,CUT,2,La Quinta Country Club,202,70,,,,,,-0.173,,,,,,
+pga,2022,2022,The American Express,2,"Uihlein, Peter",11357,CUT,3,Nicklaus Tournament Course,233,72,,,,,,0.288,,,,,,
+pga,2022,2022,The American Express,2,"Gay, Brian",5951,CUT,1,Pete Dye Stadium Course,704,74,-1.339,0.03,-1.698,0.277,-1.392,-2.731,277.7,0.714,0.5,0.5,64.102,36.691
+pga,2022,2022,The American Express,2,"Gay, Brian",5951,CUT,2,La Quinta Country Club,202,67,,,,,,2.827,,,,,,
+pga,2022,2022,The American Express,2,"Gay, Brian",5951,CUT,3,Nicklaus Tournament Course,233,72,,,,,,0.288,,,,,,
+pga,2022,2022,The American Express,2,"Kohles, Ben",16395,CUT,1,La Quinta Country Club,202,70,,,,,,-0.865,,,,,,
+pga,2022,2022,The American Express,2,"Kohles, Ben",16395,CUT,2,Nicklaus Tournament Course,233,72,,,,,,-3.077,,,,,,
+pga,2022,2022,The American Express,2,"Kohles, Ben",16395,CUT,3,Pete Dye Stadium Course,704,71,0.7,-0.946,2.443,-2.909,-1.412,-0.712,280.2,0.286,0.722,0.5,41.328,27.742
+pga,2022,2022,The American Express,2,"Creel, Joshua",17570,CUT,1,Nicklaus Tournament Course,233,74,,,,,,-4.442,,,,,,
+pga,2022,2022,The American Express,2,"Creel, Joshua",17570,CUT,2,Pete Dye Stadium Course,704,69,-0.22,0.866,0.228,-0.181,0.912,0.692,273.3,0.643,0.722,1.0,6.82,30.221
+pga,2022,2022,The American Express,2,"Creel, Joshua",17570,CUT,3,La Quinta Country Club,202,70,,,,,,0.788,,,,,,
+pga,2022,2022,The American Express,2,"Conners, Corey",17576,CUT,1,Nicklaus Tournament Course,233,75,,,,,,-5.442,,,,,,
+pga,2022,2022,The American Express,2,"Conners, Corey",17576,CUT,2,Pete Dye Stadium Course,704,66,1.055,0.345,1.975,0.318,2.637,3.692,291.8,0.571,0.889,0.667,41.483,20.781
+pga,2022,2022,The American Express,2,"Conners, Corey",17576,CUT,3,La Quinta Country Club,202,72,,,,,,-1.212,,,,,,
+pga,2022,2022,The American Express,2,"Kraft, Kelly",15852,CUT,1,Pete Dye Stadium Course,704,71,0.759,2.961,-3.635,0.185,-0.49,0.269,275.6,0.857,0.5,1.0,35.653,35.47
+pga,2022,2022,The American Express,2,"Kraft, Kelly",15852,CUT,2,La Quinta Country Club,202,69,,,,,,0.827,,,,,,
+pga,2022,2022,The American Express,2,"Kraft, Kelly",15852,CUT,3,Nicklaus Tournament Course,233,74,,,,,,-1.712,,,,,,
+pga,2022,2022,The American Express,2,"Hadley, Chesson",14967,CUT,1,Pete Dye Stadium Course,704,70,0.225,0.006,-0.882,1.921,1.044,1.269,291.6,0.857,0.778,0.818,28.994,39.744
+pga,2022,2022,The American Express,2,"Hadley, Chesson",14967,CUT,2,La Quinta Country Club,202,72,,,,,,-2.173,,,,,,
+pga,2022,2022,The American Express,2,"Hadley, Chesson",14967,CUT,3,Nicklaus Tournament Course,233,72,,,,,,0.288,,,,,,
+pga,2022,2022,The American Express,2,"Byrd, Jonathan",6931,CUT,1,La Quinta Country Club,202,69,,,,,,0.135,,,,,,
+pga,2022,2022,The American Express,2,"Byrd, Jonathan",6931,CUT,2,Nicklaus Tournament Course,233,73,,,,,,-4.077,,,,,,
+pga,2022,2022,The American Express,2,"Byrd, Jonathan",6931,CUT,3,Pete Dye Stadium Course,704,72,1.249,-0.472,-1.913,-0.576,-2.961,-1.712,283.1,0.429,0.667,0.5,34.879,35.164
+pga,2022,2022,The American Express,2,"Pak, John",27820,CUT,1,La Quinta Country Club,202,70,,,,,,-0.865,,,,,,
+pga,2022,2022,The American Express,2,"Pak, John",27820,CUT,2,Nicklaus Tournament Course,233,72,,,,,,-3.077,,,,,,
+pga,2022,2022,The American Express,2,"Pak, John",27820,CUT,3,Pete Dye Stadium Course,704,72,-1.449,0.094,-0.604,0.247,-0.263,-1.712,280.0,0.643,0.611,0.545,50.86,33.222
+pga,2022,2022,The American Express,2,"Gutschewski, Scott",7305,CUT,1,Nicklaus Tournament Course,233,71,,,,,,-1.442,,,,,,
+pga,2022,2022,The American Express,2,"Gutschewski, Scott",7305,CUT,2,Pete Dye Stadium Course,704,72,-3.008,-0.142,2.202,-1.359,0.7,-2.308,279.5,0.429,0.778,0.4,36.367,23.186
+pga,2022,2022,The American Express,2,"Gutschewski, Scott",7305,CUT,3,La Quinta Country Club,202,71,,,,,,-0.212,,,,,,
+pga,2022,2022,The American Express,2,"Malnati, Peter",14926,CUT,1,Nicklaus Tournament Course,233,71,,,,,,-1.442,,,,,,
+pga,2022,2022,The American Express,2,"Malnati, Peter",14926,CUT,2,Pete Dye Stadium Course,704,68,2.614,-0.03,-0.563,-0.328,-0.922,1.692,284.3,0.571,0.722,0.778,31.23,26.202
+pga,2022,2022,The American Express,2,"Malnati, Peter",14926,CUT,3,La Quinta Country Club,202,75,,,,,,-4.212,,,,,,
+pga,2022,2022,The American Express,2,"McGreevy, Max",23505,CUT,1,Pete Dye Stadium Course,704,74,-1.537,-0.381,-1.323,0.511,-1.194,-2.731,278.1,0.643,0.667,0.3,41.344,32.156
+pga,2022,2022,The American Express,2,"McGreevy, Max",23505,CUT,2,La Quinta Country Club,202,67,,,,,,2.827,,,,,,
+pga,2022,2022,The American Express,2,"McGreevy, Max",23505,CUT,3,Nicklaus Tournament Course,233,74,,,,,,-1.712,,,,,,
+pga,2022,2022,The American Express,2,"Hagy, Brandon",18695,CUT,1,Pete Dye Stadium Course,704,70,-1.57,-0.381,1.824,1.397,2.839,1.269,299.1,0.643,0.611,0.778,21.969,30.069
+pga,2022,2022,The American Express,2,"Hagy, Brandon",18695,CUT,2,La Quinta Country Club,202,73,,,,,,-3.173,,,,,,
+pga,2022,2022,The American Express,2,"Hagy, Brandon",18695,CUT,3,Nicklaus Tournament Course,233,72,,,,,,0.288,,,,,,
+pga,2022,2022,The American Express,2,"Watney, Nick",7955,CUT,1,La Quinta Country Club,202,72,,,,,,-2.865,,,,,,
+pga,2022,2022,The American Express,2,"Watney, Nick",7955,CUT,2,Nicklaus Tournament Course,233,71,,,,,,-2.077,,,,,,
+pga,2022,2022,The American Express,2,"Watney, Nick",7955,CUT,3,Pete Dye Stadium Course,704,72,-0.757,-2.649,0.958,0.736,-0.955,-1.712,286.0,0.571,0.611,0.455,45.478,28.967
+pga,2022,2022,The American Express,2,"Ortiz, Carlos",14735,CUT,1,La Quinta Country Club,202,74,,,,,,-4.865,,,,,,
+pga,2022,2022,The American Express,2,"Ortiz, Carlos",14735,CUT,2,Nicklaus Tournament Course,233,68,,,,,,0.923,,,,,,
+pga,2022,2022,The American Express,2,"Ortiz, Carlos",14735,CUT,3,Pete Dye Stadium Course,704,73,-0.254,0.092,-2.894,0.344,-2.458,-2.712,287.6,0.571,0.611,0.636,40.574,47.654
+pga,2022,2022,The American Express,2,"Buckley, Hayden",25363,CUT,1,Nicklaus Tournament Course,233,70,,,,,,-0.442,,,,,,
+pga,2022,2022,The American Express,2,"Buckley, Hayden",25363,CUT,2,Pete Dye Stadium Course,704,74,-1.79,0.665,-2.73,-0.452,-2.518,-4.308,282.8,0.714,0.556,0.6,32.371,39.732
+pga,2022,2022,The American Express,2,"Buckley, Hayden",25363,CUT,3,La Quinta Country Club,202,71,,,,,,-0.212,,,,,,
+pga,2022,2022,The American Express,2,"Cook, Austin",18579,CUT,1,Pete Dye Stadium Course,704,78,-1.095,-0.21,-2.712,-2.713,-5.636,-6.731,269.4,0.643,0.556,0.571,36.625,36.816
+pga,2022,2022,The American Express,2,"Cook, Austin",18579,CUT,2,La Quinta Country Club,202,70,,,,,,-0.173,,,,,,
+pga,2022,2022,The American Express,2,"Cook, Austin",18579,CUT,3,Nicklaus Tournament Course,233,68,,,,,,4.288,,,,,,
+pga,2022,2022,The American Express,2,"Streelman, Kevin",8480,CUT,1,La Quinta Country Club,202,73,,,,,,-3.865,,,,,,
+pga,2022,2022,The American Express,2,"Streelman, Kevin",8480,CUT,2,Nicklaus Tournament Course,233,74,,,,,,-5.077,,,,,,
+pga,2022,2022,The American Express,2,"Streelman, Kevin",8480,CUT,3,Pete Dye Stadium Course,704,69,-2.011,1.89,0.299,1.11,3.299,1.288,290.2,0.786,0.667,0.667,27.356,35.111
+pga,2022,2022,The American Express,2,"Moore, Ryan",7489,CUT,1,Nicklaus Tournament Course,233,70,,,,,,-0.442,,,,,,
+pga,2022,2022,The American Express,2,"Moore, Ryan",7489,CUT,2,Pete Dye Stadium Course,704,70,-1.232,0.976,0.316,-0.367,0.924,-0.308,277.2,0.571,0.722,0.857,33.208,41.123
+pga,2022,2022,The American Express,2,"Moore, Ryan",7489,CUT,3,La Quinta Country Club,202,76,,,,,,-5.212,,,,,,
+pga,2022,2022,The American Express,2,"Bryan, Wesley",21236,CUT,1,Pete Dye Stadium Course,704,68,2.665,-0.27,-0.157,1.032,0.604,3.269,276.3,0.857,0.667,0.6,75.151,40.028
+pga,2022,2022,The American Express,2,"Bryan, Wesley",21236,CUT,2,La Quinta Country Club,202,73,,,,,,-3.173,,,,,,
+pga,2022,2022,The American Express,2,"Bryan, Wesley",21236,CUT,3,Nicklaus Tournament Course,233,76,,,,,,-3.712,,,,,,
+pga,2022,2022,The American Express,2,"Skinns, David",10873,CUT,1,Pete Dye Stadium Course,704,71,0.9,-0.047,0.972,-1.555,-0.631,0.269,288.3,0.5,0.722,0.714,27.894,33.428
+pga,2022,2022,The American Express,2,"Skinns, David",10873,CUT,2,La Quinta Country Club,202,71,,,,,,-1.173,,,,,,
+pga,2022,2022,The American Express,2,"Skinns, David",10873,CUT,3,Nicklaus Tournament Course,233,75,,,,,,-2.712,,,,,,
+pga,2022,2022,The American Express,2,"Wolff, Matthew",25919,CUT,1,Pete Dye Stadium Course,704,78,-1.748,1.286,-4.554,-1.714,-4.983,-6.731,302.7,0.5,0.444,0.6,36.456,37.562
+pga,2022,2022,The American Express,2,"Wolff, Matthew",25919,CUT,2,La Quinta Country Club,202,67,,,,,,2.827,,,,,,
+pga,2022,2022,The American Express,2,"Wolff, Matthew",25919,CUT,3,Nicklaus Tournament Course,233,72,,,,,,0.288,,,,,,
+pga,2022,2022,The American Express,2,"Werenski, Richy",19364,CUT,1,Nicklaus Tournament Course,233,74,,,,,,-4.442,,,,,,
+pga,2022,2022,The American Express,2,"Werenski, Richy",19364,CUT,2,Pete Dye Stadium Course,704,69,2.479,-1.54,-1.5,1.254,-1.787,0.692,284.0,0.857,0.667,0.714,15.417,33.585
+pga,2022,2022,The American Express,2,"Werenski, Richy",19364,CUT,3,La Quinta Country Club,202,74,,,,,,-3.212,,,,,,
+pga,2022,2022,The American Express,2,"Steele, Brendan",11019,CUT,1,Nicklaus Tournament Course,233,69,,,,,,0.558,,,,,,
+pga,2022,2022,The American Express,2,"Steele, Brendan",11019,CUT,2,Pete Dye Stadium Course,704,73,-1.039,-1.144,-1.889,0.765,-2.269,-3.308,289.7,0.643,0.556,0.615,66.537,30.863
+pga,2022,2022,The American Express,2,"Steele, Brendan",11019,CUT,3,La Quinta Country Club,202,75,,,,,,-4.212,,,,,,
+pga,2022,2022,The American Express,2,"Vogel, T.J.",17280,CUT,1,Nicklaus Tournament Course,233,74,,,,,,-4.442,,,,,,
+pga,2022,2022,The American Express,2,"Vogel, T.J.",17280,CUT,2,Pete Dye Stadium Course,704,71,-1.678,0.326,-0.559,0.604,0.37,-1.308,298.2,0.714,0.833,0.75,39.572,24.773
+pga,2022,2022,The American Express,2,"Vogel, T.J.",17280,CUT,3,La Quinta Country Club,202,72,,,,,,-1.212,,,,,,
+pga,2022,2022,The American Express,2,"Walker, Jimmy",7293,CUT,1,Pete Dye Stadium Course,704,73,0.094,-0.552,-1.068,-0.204,-1.825,-1.731,278.0,0.5,0.556,0.667,22.022,27.845
+pga,2022,2022,The American Express,2,"Walker, Jimmy",7293,CUT,2,La Quinta Country Club,202,71,,,,,,-1.173,,,,,,
+pga,2022,2022,The American Express,2,"Walker, Jimmy",7293,CUT,3,Nicklaus Tournament Course,233,74,,,,,,-1.712,,,,,,
+pga,2022,2022,The American Express,2,"Herman, Jim",12846,CUT,1,Pete Dye Stadium Course,704,74,-1.784,0.002,-0.574,-0.374,-0.947,-2.731,272.7,0.571,0.5,0.667,50.036,26.381
+pga,2022,2022,The American Express,2,"Herman, Jim",12846,CUT,2,La Quinta Country Club,202,71,,,,,,-1.173,,,,,,
+pga,2022,2022,The American Express,2,"Herman, Jim",12846,CUT,3,Nicklaus Tournament Course,233,73,,,,,,-0.712,,,,,,
+pga,2022,2022,The American Express,2,"Sabbatini, Rory",6283,CUT,1,La Quinta Country Club,202,73,,,,,,-3.865,,,,,,
+pga,2022,2022,The American Express,2,"Sabbatini, Rory",6283,CUT,2,Nicklaus Tournament Course,233,72,,,,,,-3.077,,,,,,
+pga,2022,2022,The American Express,2,"Sabbatini, Rory",6283,CUT,3,Pete Dye Stadium Course,704,73,1.702,0.207,-4.282,-0.339,-4.414,-2.712,282.4,0.429,0.556,0.778,46.428,39.603
+pga,2022,2022,The American Express,2,"Wilson, Mark",4107,CUT,1,La Quinta Country Club,202,71,,,,,,-1.865,,,,,,
+pga,2022,2022,The American Express,2,"Wilson, Mark",4107,CUT,2,Nicklaus Tournament Course,233,70,,,,,,-1.077,,,,,,
+pga,2022,2022,The American Express,2,"Wilson, Mark",4107,CUT,3,Pete Dye Stadium Course,704,77,-1.941,-1.412,-1.856,-1.503,-4.771,-6.712,272.3,0.786,0.5,0.5,39.845,35.869
+pga,2022,2022,The American Express,2,"Landry, Andrew",14000,CUT,1,Pete Dye Stadium Course,704,73,1.936,-0.312,-3.179,-0.175,-3.667,-1.731,275.7,0.786,0.611,0.625,29.248,37.663
+pga,2022,2022,The American Express,2,"Landry, Andrew",14000,CUT,2,La Quinta Country Club,202,71,,,,,,-1.173,,,,,,
+pga,2022,2022,The American Express,2,"Landry, Andrew",14000,CUT,3,Nicklaus Tournament Course,233,75,,,,,,-2.712,,,,,,
+pga,2022,2022,The American Express,2,"Fowler, Rickie",12965,CUT,1,La Quinta Country Club,202,73,,,,,,-3.865,,,,,,
+pga,2022,2022,The American Express,2,"Fowler, Rickie",12965,CUT,2,Nicklaus Tournament Course,233,71,,,,,,-2.077,,,,,,
+pga,2022,2022,The American Express,2,"Fowler, Rickie",12965,CUT,3,Pete Dye Stadium Course,704,75,-4.244,0.047,-1.019,0.504,-0.468,-4.712,292.9,0.5,0.556,0.556,32.433,27.782
+pga,2022,2022,The American Express,2,"Ramey, Chad",19840,CUT,1,Nicklaus Tournament Course,233,74,,,,,,-4.442,,,,,,
+pga,2022,2022,The American Express,2,"Ramey, Chad",19840,CUT,2,Pete Dye Stadium Course,704,72,-1.264,-0.343,0.47,-1.17,-1.044,-2.308,274.1,0.857,0.722,0.714,43.711,27.944
+pga,2022,2022,The American Express,2,"Ramey, Chad",19840,CUT,3,La Quinta Country Club,202,73,,,,,,-2.212,,,,,,
+pga,2022,2022,The American Express,2,"Kang, Sung",7881,CUT,1,Nicklaus Tournament Course,233,71,,,,,,-1.442,,,,,,
+pga,2022,2022,The American Express,2,"Kang, Sung",7881,CUT,2,Pete Dye Stadium Course,704,72,1.452,-4.541,0.618,0.164,-3.76,-2.308,276.3,0.643,0.722,0.273,63.361,24.993
+pga,2022,2022,The American Express,2,"Kang, Sung",7881,CUT,3,La Quinta Country Club,202,76,,,,,,-5.212,,,,,,
+pga,2022,2022,The American Express,2,"Smotherman, Austin",22985,CUT,1,Pete Dye Stadium Course,704,76,-1.323,0.185,-3.763,0.171,-3.408,-4.731,282.4,0.429,0.556,0.7,38.661,34.235
+pga,2022,2022,The American Express,2,"Smotherman, Austin",22985,CUT,2,La Quinta Country Club,202,71,,,,,,-1.173,,,,,,
+pga,2022,2022,The American Express,2,"Smotherman, Austin",22985,CUT,3,Nicklaus Tournament Course,233,73,,,,,,-0.712,,,,,,
+pga,2022,2022,The American Express,2,"Thompson, Michael",12946,CUT,1,Pete Dye Stadium Course,704,77,-0.32,-2.098,-3.037,-0.275,-5.411,-5.731,275.2,0.643,0.556,0.583,34.423,29.86
+pga,2022,2022,The American Express,2,"Thompson, Michael",12946,CUT,2,La Quinta Country Club,202,66,,,,,,3.827,,,,,,
+pga,2022,2022,The American Express,2,"Thompson, Michael",12946,CUT,3,Nicklaus Tournament Course,233,77,,,,,,-4.712,,,,,,
+pga,2022,2022,The American Express,2,"Lower, Justin",17723,CUT,1,Pete Dye Stadium Course,704,74,-1.72,1.0,-1.968,-0.042,-1.011,-2.731,276.1,0.643,0.611,0.7,50.578,35.55
+pga,2022,2022,The American Express,2,"Lower, Justin",17723,CUT,2,La Quinta Country Club,202,71,,,,,,-1.173,,,,,,
+pga,2022,2022,The American Express,2,"Lower, Justin",17723,CUT,3,Nicklaus Tournament Course,233,75,,,,,,-2.712,,,,,,
+pga,2022,2022,The American Express,2,"Munoz, Sebastian",20770,CUT,1,La Quinta Country Club,202,75,,,,,,-5.865,,,,,,
+pga,2022,2022,The American Express,2,"Munoz, Sebastian",20770,CUT,2,Nicklaus Tournament Course,233,72,,,,,,-3.077,,,,,,
+pga,2022,2022,The American Express,2,"Munoz, Sebastian",20770,CUT,3,Pete Dye Stadium Course,704,73,-0.776,-0.711,-1.553,0.328,-1.936,-2.712,286.1,0.571,0.611,0.455,55.53,26.197
+pga,2022,2022,The American Express,2,"Lashley, Nate",10943,CUT,1,Pete Dye Stadium Course,704,77,0.502,-0.6,-5.151,-0.481,-6.233,-5.731,284.1,0.571,0.5,0.588,43.699,47.133
+pga,2022,2022,The American Express,2,"Lashley, Nate",10943,CUT,2,La Quinta Country Club,202,73,,,,,,-3.173,,,,,,
+pga,2022,2022,The American Express,2,"Lashley, Nate",10943,CUT,3,Nicklaus Tournament Course,233,72,,,,,,0.288,,,,,,
+pga,2022,2022,The American Express,2,"Reeves, Seth",19643,CUT,1,Pete Dye Stadium Course,704,74,1.376,-2.891,-0.538,-0.677,-4.107,-2.731,286.0,0.5,0.556,0.455,46.457,36.247
+pga,2022,2022,The American Express,2,"Reeves, Seth",19643,CUT,2,La Quinta Country Club,202,71,,,,,,-1.173,,,,,,
+pga,2022,2022,The American Express,2,"Reeves, Seth",19643,CUT,3,Nicklaus Tournament Course,233,77,,,,,,-4.712,,,,,,
+pga,2022,2022,The American Express,2,"Kitayama, Kurt",21891,CUT,1,Pete Dye Stadium Course,704,74,-0.29,-0.008,-0.595,-1.837,-2.441,-2.731,293.4,0.429,0.611,0.556,57.697,30.715
+pga,2022,2022,The American Express,2,"Kitayama, Kurt",21891,CUT,2,La Quinta Country Club,202,72,,,,,,-2.173,,,,,,
+pga,2022,2022,The American Express,2,"Kitayama, Kurt",21891,CUT,3,Nicklaus Tournament Course,233,77,,,,,,-4.712,,,,,,
+pga,2022,2022,The American Express,2,"Mendoza, Kyle",28039,CUT,1,Pete Dye Stadium Course,704,73,-0.718,-0.98,-0.31,0.278,-1.013,-1.731,281.6,0.571,0.667,0.625,49.024,32.821
+pga,2022,2022,The American Express,2,"Mendoza, Kyle",28039,CUT,2,La Quinta Country Club,202,73,,,,,,-3.173,,,,,,
+pga,2022,2022,The American Express,2,"Mendoza, Kyle",28039,CUT,3,Nicklaus Tournament Course,233,77,,,,,,-4.712,,,,,,
+pga,2022,2022,The American Express,2,"Mickelson, Phil",1547,CUT,1,La Quinta Country Club,202,78,,,,,,-8.865,,,,,,
+pga,2022,2022,The American Express,2,"Mickelson, Phil",1547,CUT,2,Nicklaus Tournament Course,233,73,,,,,,-4.077,,,,,,
+pga,2022,2022,The American Express,2,"Mickelson, Phil",1547,CUT,3,Pete Dye Stadium Course,704,72,0.226,0.569,-0.913,-1.594,-1.938,-1.712,291.0,0.5,0.667,0.778,49.135,40.261
+pga,2022,2022,The American Express,2,"van der Walt, Dawie",9883,CUT,1,Nicklaus Tournament Course,233,75,,,,,,-5.442,,,,,,
+pga,2022,2022,The American Express,2,"van der Walt, Dawie",9883,CUT,2,Pete Dye Stadium Course,704,74,0.3,-0.216,-5.551,1.16,-4.608,-4.308,286.9,0.857,0.667,0.692,,41.664
+pga,2022,2022,The American Express,2,"van der Walt, Dawie",9883,CUT,3,La Quinta Country Club,202,74,,,,,,-3.212,,,,,,
+pga,2022,2022,The American Express,2,"Love III, Davis",3464,CUT,1,Pete Dye Stadium Course,704,75,-0.374,1.239,-4.13,-0.465,-3.357,-3.731,269.0,0.643,0.278,0.75,25.347,41.213
+pga,2022,2022,The American Express,2,"Love III, Davis",3464,CUT,2,La Quinta Country Club,202,71,,,,,,-1.173,,,,,,
+pga,2022,2022,The American Express,2,"Love III, Davis",3464,CUT,3,Nicklaus Tournament Course,233,78,,,,,,-5.712,,,,,,
+pga,2022,2022,The American Express,2,"du Preez, James Hart",21203,CUT,1,Pete Dye Stadium Course,704,76,-1.549,0.645,-5.068,1.242,-3.182,-4.731,307.1,0.571,0.611,0.778,44.822,42.601
+pga,2022,2022,The American Express,2,"du Preez, James Hart",21203,CUT,2,La Quinta Country Club,202,74,,,,,,-4.173,,,,,,
+pga,2022,2022,The American Express,2,"du Preez, James Hart",21203,CUT,3,Nicklaus Tournament Course,233,74,,,,,,-1.712,,,,,,
+pga,2022,2022,The American Express,2,"Blixt, Jonas",8182,CUT,1,Pete Dye Stadium Course,704,74,-0.338,-3.49,1.989,-0.891,-2.393,-2.731,271.9,0.571,0.667,0.625,30.991,29.391
+pga,2022,2022,The American Express,2,"Blixt, Jonas",8182,CUT,2,La Quinta Country Club,202,79,,,,,,-9.173,,,,,,
+pga,2022,2022,The American Express,2,"Blixt, Jonas",8182,CUT,3,Nicklaus Tournament Course,233,79,,,,,,-6.712,,,,,,

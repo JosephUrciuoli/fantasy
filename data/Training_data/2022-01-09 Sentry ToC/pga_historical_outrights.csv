@@ -1,0 +1,39 @@
+bet_outcome_numeric,bet_outcome_text,close_odds,close_time,dg_id,open_odds,open_time,outcome,player_name,book,event_completed,event_name,market,season,year,event_id
+0,loss,+800,2022-01-06 13:30,14139,+850,2022-01-03 17:06,T5,"Thomas, Justin",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+0,loss,+809,2022-01-06 13:30,19195,+800,2022-01-03 17:06,2,"Rahm, Jon",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+0,loss,+1100,2022-01-06 13:30,22085,+1050,2022-01-03 17:06,T5,"Morikawa, Collin",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+0,loss,+1120,2022-01-06 13:30,19841,+1200,2022-01-03 17:06,T25,"DeChambeau, Bryson",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+0,loss,+1198,2022-01-06 13:30,15466,+1400,2022-01-03 17:06,4,"Cantlay, Patrick",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+0,loss,+1252,2022-01-06 13:30,18841,+1250,2022-01-03 17:06,T30,"Hovland, Viktor",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+0,loss,+1278,2022-01-06 13:30,19895,+1250,2022-01-03 17:06,12,"Schauffele, Xander",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+0,loss,+1647,2022-01-06 13:30,19483,+1600,2022-01-03 17:06,T19,"Burns, Sam",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+1,paid in full,+1800,2022-01-06 13:30,15856,+2200,2022-01-03 17:06,1,"Smith, Cameron",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+0,loss,+1800,2022-01-06 13:30,17606,+2200,2022-01-03 17:06,T5,"Berger, Daniel",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+0,loss,+2114,2022-01-06 13:30,14636,+2200,2022-01-03 17:06,T21,"Spieth, Jordan",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+0,loss,+2249,2022-01-06 13:30,13562,+2200,2022-01-03 17:06,T13,"Matsuyama, Hideki",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+0,loss,+2500,2022-01-06 13:30,17488,+2500,2022-01-03 17:06,T8,"Im, Sungjae",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+0,loss,+2501,2022-01-06 13:30,14838,+2500,2022-01-03 17:06,T15,"Reed, Patrick",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+0,loss,+2538,2022-01-06 13:30,11676,+2800,2022-01-03 17:06,T19,"Finau, Tony",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+0,loss,+2851,2022-01-06 13:30,16243,+2800,2022-01-03 17:06,T28,"Koepka, Brooks",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+0,loss,+3000,2022-01-06 13:30,18238,+2800,2022-01-03 17:06,T35,"Ancer, Abraham",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+0,loss,+3000,2022-01-06 13:30,12337,+3500,2022-01-03 17:06,38,"Kokrak, Jason",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+0,loss,+3370,2022-01-06 13:30,14577,+3300,2022-01-03 17:06,T30,"English, Harris",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+0,loss,+3578,2022-01-06 13:30,7649,+3500,2022-01-03 17:06,T10,"Leishman, Marc",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+0,loss,+4086,2022-01-06 13:30,18580,+4000,2022-01-03 17:06,T15,"Gooch, Talor",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+0,loss,+6091,2022-01-06 13:30,7452,+6500,2022-01-03 17:06,T13,"Na, Kevin",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+0,loss,+6128,2022-01-06 13:30,11276,+6000,2022-01-03 17:06,T23,"Horschel, Billy",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+0,loss,+7012,2022-01-06 13:30,10104,+6500,2022-01-03 17:06,T15,"Power, Seamus",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+0,loss,+8000,2022-01-06 13:30,17538,+7000,2022-01-03 17:06,T15,"Homa, Max",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+0,loss,+8122,2022-01-06 13:30,14609,+7000,2022-01-03 17:06,T23,"Kim, Si Woo",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+0,loss,+9189,2022-01-06 13:30,17064,+9000,2022-01-03 17:06,37,"Herbert, Lucas",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+0,loss,+11017,2022-01-06 13:30,17550,+10000,2022-01-03 17:06,T25,"Van Rooyen, Erik",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+0,loss,+12500,2022-01-06 13:30,1547,+12500,2022-01-03 17:06,T30,"Mickelson, Phil",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+0,loss,+12500,2022-01-06 13:30,17786,+11000,2022-01-03 17:06,T10,"Davis, Cameron",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+0,loss,+12500,2022-01-06 13:30,13497,+12500,2022-01-03 17:06,T33,"Lee, Kyounghoon",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+0,loss,+12500,2022-01-06 13:30,11952,+10000,2022-01-03 17:06,T33,"Grace, Branden",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+0,loss,+12520,2022-01-06 13:30,14509,+11000,2022-01-03 17:06,T28,"Dahmen, Joel",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+0,loss,+12520,2022-01-06 13:30,24342,+10000,2022-01-03 17:06,T25,"Higgo, Garrick",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+0,loss,+15000,2022-01-06 13:30,11328,+12500,2022-01-03 17:06,T8,"Kisner, Kevin",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+0,loss,+15000,2022-01-06 13:30,8605,+15000,2022-01-03 17:06,3,"Jones, Matt",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+0,loss,+20000,2022-01-06 13:30,5665,+20000,2022-01-03 17:06,T21,"Cink, Stewart",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16
+0,loss,+20000,2022-01-06 13:30,7399,+17500,2022-01-03 17:06,T35,"Glover, Lucas",pinnacle,2022-01-09,Sentry Tournament of Champions,win,2022,2022,16

@@ -1,0 +1,39 @@
+date,event_name,player_name,make_cut,first_round_lead,top_30,top_20,top_10,top_5,top_3,win,observed_finish
+"Jan 9, 2022","Sentry Tournament of Champions","Thomas, Justin",1,0.0617,0.95465,0.815925,0.5618,0.3491,0.240025,0.09545,T5
+"Jan 9, 2022","Sentry Tournament of Champions","Rahm, Jon",1,0.06435,0.9516,0.813625,0.555775,0.345875,0.23615,0.0952,2
+"Jan 9, 2022","Sentry Tournament of Champions","DeChambeau, Bryson",1,0.06025,0.94555,0.7951,0.53345,0.328575,0.2209,0.087525,T25
+"Jan 9, 2022","Sentry Tournament of Champions","Cantlay, Patrick",1,0.04925,0.9329,0.76455,0.487225,0.28795,0.191375,0.073525,4
+"Jan 9, 2022","Sentry Tournament of Champions","Hovland, Viktor",1,0.04975,0.93,0.757375,0.4763,0.27715,0.17775,0.06485,T30
+"Jan 9, 2022","Sentry Tournament of Champions","Berger, Daniel",1,0.04,0.9257,0.73425,0.4343,0.23895,0.14695,0.0501,T5
+"Jan 9, 2022","Sentry Tournament of Champions","Smith, Cameron",1,0.0416,0.9095,0.70955,0.4144,0.223725,0.139175,0.048425,1
+"Jan 9, 2022","Sentry Tournament of Champions","Burns, Sam",1,0.04425,0.90365,0.69825,0.401625,0.2169,0.135175,0.047325,T19
+"Jan 9, 2022","Sentry Tournament of Champions","Schauffele, Xander",1,0.037975,0.9147,0.7175,0.41545,0.22345,0.136325,0.046025,12
+"Jan 9, 2022","Sentry Tournament of Champions","Morikawa, Collin",1,0.041225,0.9083,0.70295,0.404375,0.2178,0.13415,0.04455,T5
+"Jan 9, 2022","Sentry Tournament of Champions","Finau, Tony",1,0.036975,0.9011,0.68905,0.38365,0.19575,0.117875,0.036225,T19
+"Jan 9, 2022","Sentry Tournament of Champions","Matsuyama, Hideki",1,0.0338,0.8741,0.637275,0.3383,0.172625,0.101425,0.033125,T13
+"Jan 9, 2022","Sentry Tournament of Champions","Im, Sungjae",1,0.0329,0.882575,0.643875,0.33785,0.168225,0.096325,0.0303,T8
+"Jan 9, 2022","Sentry Tournament of Champions","Spieth, Jordan",1,0.030425,0.8655,0.620125,0.31825,0.1566,0.089575,0.027625,T21
+"Jan 9, 2022","Sentry Tournament of Champions","Gooch, Talor",1,0.02805,0.84935,0.5916,0.293425,0.137675,0.07925,0.0231,T15
+"Jan 9, 2022","Sentry Tournament of Champions","Koepka, Brooks",1,0.023025,0.8320000000000001,0.557175,0.26005,0.11800000000000001,0.06655,0.0196,T28
+"Jan 9, 2022","Sentry Tournament of Champions","English, Harris",1,0.02425,0.83095,0.556675,0.257625,0.117025,0.0653,0.01905,T30
+"Jan 9, 2022","Sentry Tournament of Champions","Kokrak, Jason",1,0.023925,0.8097,0.5258,0.2412,0.107025,0.0577,0.017375,38
+"Jan 9, 2022","Sentry Tournament of Champions","Ancer, Abraham",1,0.0232,0.82385,0.538525,0.240675,0.1064,0.0573,0.0154,T35
+"Jan 9, 2022","Sentry Tournament of Champions","Power, Seamus",1,0.0208,0.8003,0.51035,0.22205,0.095725,0.052325,0.014775,T15
+"Jan 9, 2022","Sentry Tournament of Champions","Reed, Patrick",1,0.0181,0.80245,0.50075,0.213175,0.090175,0.0469,0.01185,T15
+"Jan 9, 2022","Sentry Tournament of Champions","Leishman, Marc",1,0.018625,0.784575,0.488575,0.2098,0.087725,0.046125,0.011825,T10
+"Jan 9, 2022","Sentry Tournament of Champions","Na, Kevin",1,0.016975,0.753025,0.443525,0.18075,0.0712,0.037875,0.01015,T13
+"Jan 9, 2022","Sentry Tournament of Champions","Horschel, Billy",1,0.0155,0.768125,0.45935,0.184075,0.073475,0.03775,0.009675,T23
+"Jan 9, 2022","Sentry Tournament of Champions","Herbert, Lucas",1,0.016525,0.724775,0.4164,0.161475,0.0646,0.033975,0.00855,37
+"Jan 9, 2022","Sentry Tournament of Champions","Kim, Si Woo",1,0.015025,0.7255,0.411075,0.157975,0.0619,0.03175,0.0075,T23
+"Jan 9, 2022","Sentry Tournament of Champions","Homa, Max",1,0.016025,0.73895,0.427875,0.168,0.063725,0.031625,0.007425,T15
+"Jan 9, 2022","Sentry Tournament of Champions","Dahmen, Joel",1,0.013625,0.709125,0.39195,0.1432,0.052675,0.02675,0.006275,T28
+"Jan 9, 2022","Sentry Tournament of Champions","Lee, Kyounghoon",1,0.01335,0.714875,0.400775,0.146225,0.05565,0.027225,0.00625,T33
+"Jan 9, 2022","Sentry Tournament of Champions","Van Rooyen, Erik",1,0.013975,0.702425,0.386025,0.1404,0.05245,0.0251,0.00615,T25
+"Jan 9, 2022","Sentry Tournament of Champions","Jones, Matt",1,0.011275,0.70185,0.376125,0.13265,0.0474,0.022925,0.005475,3
+"Jan 9, 2022","Sentry Tournament of Champions","Grace, Branden",1,0.010225,0.6506,0.321,0.1049,0.037025,0.01775,0.004225,T33
+"Jan 9, 2022","Sentry Tournament of Champions","Davis, Cameron",1,0.012125,0.665475,0.340175,0.117625,0.040725,0.019175,0.004125,T10
+"Jan 9, 2022","Sentry Tournament of Champions","Cink, Stewart",1,0.0112,0.63165,0.308225,0.09965,0.034575,0.0156,0.0033,T21
+"Jan 9, 2022","Sentry Tournament of Champions","Glover, Lucas",1,0.009375,0.611575,0.290275,0.0865,0.029175,0.013825,0.003075,T35
+"Jan 9, 2022","Sentry Tournament of Champions","Mickelson, Phil",1,0.007275,0.526625,0.224925,0.061475,0.0194,0.00855,0.001725,T30
+"Jan 9, 2022","Sentry Tournament of Champions","Kisner, Kevin",1,0.006275,0.5205,0.2153,0.055875,0.016975,0.00805,0.0016,T8
+"Jan 9, 2022","Sentry Tournament of Champions","Higgo, Garrick",1,0.006825,0.521925,0.21815,0.058475,0.016625,0.00745,0.001275,T25

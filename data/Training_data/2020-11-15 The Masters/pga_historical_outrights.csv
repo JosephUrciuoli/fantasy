@@ -1,0 +1,93 @@
+bet_outcome_numeric,bet_outcome_text,close_odds,close_time,dg_id,open_odds,open_time,outcome,player_name,book,event_completed,event_name,market,season,year,event_id
+0,loss,+744,2020-11-11 11:28,19841,+913,2020-11-09 09:53,T34,"DeChambeau, Bryson",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+1,paid in full,+831,2020-11-11 11:28,12422,+1021,2020-11-09 09:53,1,"Johnson, Dustin",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+999,2020-11-11 11:28,19195,+1048,2020-11-09 09:53,T7,"Rahm, Jon",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+1174,2020-11-11 11:28,14139,+1357,2020-11-09 09:53,4,"Thomas, Justin",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+1222,2020-11-11 11:28,10091,+1357,2020-11-09 09:53,T5,"McIlroy, Rory",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+1532,2020-11-11 11:28,19895,+1581,2020-11-09 09:53,T17,"Schauffele, Xander",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+1652,2020-11-11 11:28,16243,+1757,2020-11-09 09:53,T7,"Koepka, Brooks",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+2314,2020-11-11 11:28,11676,+2529,2020-11-09 09:53,T38,"Finau, Tony",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+2506,2020-11-11 11:28,13562,+3258,2020-11-09 09:53,T13,"Matsuyama, Hideki",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+2756,2020-11-11 11:28,14838,+3242,2020-11-09 09:53,T10,"Reed, Patrick",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+2820,2020-11-11 11:28,15466,+2852,2020-11-09 09:53,T17,"Cantlay, Patrick",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+3081,2020-11-11 11:28,22085,+3408,2020-11-09 09:53,T44,"Morikawa, Collin",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+3448,2020-11-11 11:28,7334,+3797,2020-11-09 09:53,57,"Watson, Bubba",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+3484,2020-11-11 11:28,14796,+3289,2020-11-09 09:53,CUT,"Hatton, Tyrrell",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+3601,2020-11-11 11:28,11049,+3148,2020-11-09 09:53,T10,"Simpson, Webb",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+3702,2020-11-11 11:28,9771,+4852,2020-11-09 09:53,CUT,"Day, Jason",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+3957,2020-11-11 11:28,5321,+3533,2020-11-09 09:53,T38,"Woods, Tiger",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+4645,2020-11-11 11:28,25919,+3708,2020-11-09 09:53,CUT,"Wolff, Matthew",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+4810,2020-11-11 11:28,17646,+4551,2020-11-09 09:53,T46,"Fitzpatrick, Matthew",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+5321,2020-11-11 11:28,6430,+4494,2020-11-09 09:53,T34,"Scott, Adam",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+5353,2020-11-11 11:28,6093,+4551,2020-11-09 09:53,T23,"Rose, Justin",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+5522,2020-11-11 11:28,12294,+4758,2020-11-09 09:53,T19,"Fleetwood, Tommy",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+5887,2020-11-11 11:28,7672,+4551,2020-11-09 09:53,T23,"Oosthuizen, Louis",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+6195,2020-11-11 11:28,12965,+7410,2020-11-09 09:53,T29,"Fowler, Rickie",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+6477,2020-11-11 11:28,18417,+5613,2020-11-09 09:53,T19,"Scheffler, Scottie",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+7148,2020-11-11 11:28,14636,+5054,2020-11-09 09:53,T46,"Spieth, Jordan",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+8264,2020-11-11 11:28,7108,+6737,2020-11-09 09:53,T38,"Casey, Paul",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+9086,2020-11-11 11:28,23542,+11218,2020-11-09 09:53,T19,"Champ, Cameron",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+9086,2020-11-11 11:28,13900,+6443,2020-11-09 09:53,T25,"Lowry, Shane",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+9351,2020-11-11 11:28,15856,+8975,2020-11-09 09:53,T2,"Smith, Cameron",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+9435,2020-11-11 11:28,12337,+8975,2020-11-09 09:53,CUT,"Kokrak, Jason",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+10277,2020-11-11 11:28,17488,+7625,2020-11-09 09:53,T2,"Im, Sungjae",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+11003,2020-11-11 11:28,18238,+8975,2020-11-09 09:53,T13,"Ancer, Abraham",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+11003,2020-11-11 11:28,1547,+7410,2020-11-09 09:53,T55,"Mickelson, Phil",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+12377,2020-11-11 11:28,7655,+10097,2020-11-09 09:53,CUT,"Molinari, Francesco",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+12377,2020-11-11 11:28,4052,+10627,2020-11-09 09:53,T38,"Westwood, Lee",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+12827,2020-11-11 11:28,14609,+16820,2020-11-09 09:53,T34,"Kim, Si Woo",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+13743,2020-11-11 11:28,1435,+11218,2020-11-09 09:53,T25,"Poulter, Ian",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+14399,2020-11-11 11:28,6169,+14017,2020-11-09 09:53,CUT,"Kuchar, Matt",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+14428,2020-11-11 11:28,15330,+16820,2020-11-09 09:53,CUT,"Griffin, Lanto",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+15595,2020-11-11 11:28,11328,+14017,2020-11-09 09:53,CUT,"Kisner, Kevin",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+15600,2020-11-11 11:28,12577,+11218,2020-11-09 09:53,CUT,"Woodland, Gary",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+16961,2020-11-11 11:28,20706,+16820,2020-11-09 09:53,T46,"Wallace, Matt",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+17170,2020-11-11 11:28,11276,+14017,2020-11-09 09:53,T38,"Horschel, Billy",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+17170,2020-11-11 11:28,6986,+16820,2020-11-09 09:53,T51,"Johnson, Zach",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+17170,2020-11-11 11:28,17550,+16820,2020-11-09 09:53,WD,"Van Rooyen, Erik",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+18710,2020-11-11 11:28,9531,+16820,2020-11-09 09:53,58,"Wiesberger, Bernd",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+18711,2020-11-11 11:28,20770,+16820,2020-11-09 09:53,T19,"Munoz, Sebastian",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+18733,2020-11-11 11:28,8820,+14017,2020-11-09 09:53,59,"Snedeker, Brandt",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+18733,2020-11-11 11:28,17576,+16820,2020-11-09 09:53,T10,"Conners, Corey",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+19238,2020-11-11 11:28,14459,+22422,2020-11-09 09:53,CUT,"An, Byeong Hun",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+20600,2020-11-11 11:28,12425,+14017,2020-11-09 09:53,CUT,"Todd, Brendon",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+20600,2020-11-11 11:28,7649,+16820,2020-11-09 09:53,T13,"Leishman, Marc",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+20600,2020-11-11 11:28,7452,+16820,2020-11-09 09:53,T13,"Na, Kevin",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+22182,2020-11-11 11:28,12920,+15293,2020-11-09 09:53,T25,"Willett, Danny",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+22182,2020-11-11 11:28,5994,+16820,2020-11-09 09:53,CUT,"Stenson, Henrik",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+24578,2020-11-11 11:28,17538,+38431,2020-11-09 09:53,CUT,"Homa, Max",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+27457,2020-11-11 11:28,7398,+22422,2020-11-09 09:53,T25,"Schwartzel, Charl",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+27457,2020-11-11 11:28,18103,+22422,2020-11-09 09:53,T38,"Bezuidenhout, Christiaan",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+27726,2020-11-11 11:28,13965,+24911,2020-11-09 09:53,CUT,"Hadwin, Adam",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+30506,2020-11-11 11:28,20730,+28025,2020-11-09 09:53,T46,"Perez, Victor",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+30506,2020-11-11 11:28,11955,+28025,2020-11-09 09:53,T5,"Frittelli, Dylan",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+34308,2020-11-11 11:28,7399,+28025,2020-11-09 09:53,CUT,"Glover, Lucas",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+34308,2020-11-11 11:28,7457,+28025,2020-11-09 09:53,T51,"Cabrera Bello, Rafa",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+34308,2020-11-11 11:28,6892,+28025,2020-11-09 09:53,T46,"Howell III, Charles",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+34308,2020-11-11 11:28,21554,+28025,2020-11-09 09:53,CUT,"Poston, J.T.",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+37431,2020-11-11 11:28,7961,+28025,2020-11-09 09:53,T29,"Reavie, Chez",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+41166,2020-11-11 11:28,10886,+33624,2020-11-09 09:53,CUT,"Harding, Justin",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+41166,2020-11-11 11:28,7548,+29358,2020-11-09 09:53,CUT,"McDowell, Graeme",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+54877,2020-11-11 11:28,18187,+44830,2020-11-09 09:53,CUT,"Duncan, Tyler",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+60969,2020-11-11 11:28,13126,+44830,2020-11-09 09:53,T29,"Taylor, Nick",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+60969,2020-11-11 11:28,14000,+44830,2020-11-09 09:53,CUT,"Landry, Andrew",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+68586,2020-11-11 11:28,44,+56033,2020-11-09 09:53,CUT,"Couples, Fred",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+68586,2020-11-11 11:28,15475,+56033,2020-11-09 09:53,T7,"Pan, C.T.",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+68586,2020-11-11 11:28,14368,+56033,2020-11-09 09:53,T51,"Janewattananond, Jazz",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+68586,2020-11-11 11:28,13485,+56033,2020-11-09 09:53,T44,"Imahira, Shugo",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+68586,2020-11-11 11:28,10943,+56033,2020-11-09 09:53,CUT,"Lashley, Nate",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+68586,2020-11-11 11:28,7881,+56033,2020-11-09 09:53,T29,"Kang, Sung",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+68586,2020-11-11 11:28,7293,+56033,2020-11-09 09:53,60,"Walker, Jimmy",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+68586,2020-11-11 11:28,14704,+56033,2020-11-09 09:53,CUT,"Putnam, Andrew",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+68586,2020-11-11 11:28,290,+56033,2020-11-09 09:53,T29,"Langer, Bernhard",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+137132,2020-11-11 11:28,22957,+112058,2020-11-09 09:53,CUT,"Michel, Lukas",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+137132,2020-11-11 11:28,27352,+112058,2020-11-09 09:53,CUT,"Gallegos, Abel",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+137132,2020-11-11 11:28,26211,+84047,2020-11-09 09:53,T55,"Augenstein, John",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+137132,2020-11-11 11:28,23418,+134472,2020-11-09 09:53,CUT,"Sugrue, James",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+137132,2020-11-11 11:28,5513,+112058,2020-11-09 09:53,T51,"Weir, Mike",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+137132,2020-11-11 11:28,653,+112058,2020-11-09 09:53,WD,"Singh, Vijay",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+137132,2020-11-11 11:28,18983,+112058,2020-11-09 09:53,CUT,"Lin, Yuxin",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+137132,2020-11-11 11:28,27597,+112058,2020-11-09 09:53,T34,"Ogletree, Andy",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+274229,2020-11-11 11:28,3485,+224101,2020-11-09 09:53,CUT,"Olazabal, Jose Maria",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+304696,2020-11-11 11:28,294,+249002,2020-11-09 09:53,CUT,"Lyle, Sandy",pinnacle,2020-11-15,The Masters,win,2021,2020,14
+0,loss,+342775,2020-11-11 11:28,139,+280125,2020-11-09 09:53,CUT,"Mize, Larry",pinnacle,2020-11-15,The Masters,win,2021,2020,14

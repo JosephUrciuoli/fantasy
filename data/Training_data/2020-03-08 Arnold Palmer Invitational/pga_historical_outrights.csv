@@ -1,0 +1,59 @@
+bet_outcome_numeric,bet_outcome_text,close_odds,close_time,dg_id,open_odds,open_time,outcome,player_name,book,event_completed,event_name,market,season,year,event_id
+0,loss,+549,2020-03-04 10:59,10091,+547,2020-03-03 08:33,T5,"McIlroy, Rory",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+1465,2020-03-04 10:59,12294,+1517,2020-03-03 08:33,CUT,"Fleetwood, Tommy",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+1739,2020-03-04 10:59,19841,+1733,2020-03-03 08:33,4,"DeChambeau, Bryson",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+1755,2020-03-04 10:59,13562,+1835,2020-03-03 08:33,T56,"Matsuyama, Hideki",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+2172,2020-03-04 10:59,19895,+2164,2020-03-03 08:33,T24,"Schauffele, Xander",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+2275,2020-03-04 10:59,6430,+2267,2020-03-03 08:33,CUT,"Scott, Adam",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+2712,2020-03-04 10:59,14838,+2703,2020-03-03 08:33,T15,"Reed, Patrick",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+2712,2020-03-04 10:59,17488,+2703,2020-03-03 08:33,3,"Im, Sungjae",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+3037,2020-03-04 10:59,16243,+3027,2020-03-03 08:33,T47,"Koepka, Brooks",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+3407,2020-03-04 10:59,9771,+3396,2020-03-03 08:33,WD,"Day, Jason",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+3577,2020-03-04 10:59,11676,+3565,2020-03-03 08:33,CUT,"Finau, Tony",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+3577,2020-03-04 10:59,12965,+3565,2020-03-03 08:33,T18,"Fowler, Rickie",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+3950,2020-03-04 10:59,6093,+3937,2020-03-03 08:33,CUT,"Rose, Justin",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+4335,2020-03-04 10:59,14459,+4321,2020-03-03 08:33,T56,"An, Byeong Hun",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+4335,2020-03-04 10:59,17646,+4321,2020-03-03 08:33,T9,"Fitzpatrick, Matthew",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+4335,2020-03-04 10:59,7649,+4321,2020-03-03 08:33,2,"Leishman, Marc",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+4335,2020-03-04 10:59,5994,+4321,2020-03-03 08:33,CUT,"Stenson, Henrik",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+4875,2020-03-04 10:59,22085,+4859,2020-03-03 08:33,T9,"Morikawa, Collin",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+1,paid in full,+4875,2020-03-04 10:59,14796,+4859,2020-03-03 08:33,1,"Hatton, Tyrrell",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+5132,2020-03-04 10:59,7334,+5115,2020-03-03 08:33,CUT,"Watson, Bubba",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+5416,2020-03-04 10:59,18841,+5398,2020-03-03 08:33,T42,"Hovland, Viktor",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+5416,2020-03-04 10:59,11276,+5398,2020-03-03 08:33,T36,"Horschel, Billy",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+6498,2020-03-04 10:59,18238,+6477,2020-03-03 08:33,T56,"Ancer, Abraham",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+6498,2020-03-04 10:59,4052,+6477,2020-03-03 08:33,CUT,"Westwood, Lee",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+7146,2020-03-04 10:59,17538,+7123,2020-03-03 08:33,T24,"Homa, Max",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+7357,2020-03-04 10:59,7457,+7333,2020-03-03 08:33,CUT,"Cabrera Bello, Rafa",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+7579,2020-03-04 10:59,1547,+7554,2020-03-03 08:33,CUT,"Mickelson, Phil",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+7579,2020-03-04 10:59,11328,+7554,2020-03-03 08:33,CUT,"Kisner, Kevin",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+8662,2020-03-04 10:59,18079,+8633,2020-03-03 08:33,CUT,"Niemann, Joaquin",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+8662,2020-03-04 10:59,18417,+8633,2020-03-03 08:33,T15,"Scheffler, Scottie",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+8662,2020-03-04 10:59,14577,+8633,2020-03-03 08:33,T9,"English, Harris",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+8662,2020-03-04 10:59,23604,+8633,2020-03-03 08:33,68,"Clark, Wyndham",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+8662,2020-03-04 10:59,11019,+8633,2020-03-03 08:33,CUT,"Steele, Brendan",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+9170,2020-03-04 10:59,7398,+9141,2020-03-03 08:33,CUT,"Schwartzel, Charl",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+9170,2020-03-04 10:59,7452,+9141,2020-03-03 08:33,T36,"Na, Kevin",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+9742,2020-03-04 10:59,1435,+9711,2020-03-03 08:33,T32,"Poulter, Ian",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+9742,2020-03-04 10:59,7489,+9711,2020-03-03 08:33,T52,"Moore, Ryan",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+10824,2020-03-04 10:59,6892,+10789,2020-03-03 08:33,CUT,"Howell III, Charles",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+10824,2020-03-04 10:59,18634,+10789,2020-03-03 08:33,CUT,"McNealy, Maverick",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+10824,2020-03-04 10:59,7899,+10789,2020-03-03 08:33,CUT,"Piercy, Scott",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+10824,2020-03-04 10:59,14502,+10789,2020-03-03 08:33,T32,"Cauley, Bud",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+10824,2020-03-04 10:59,13872,+10789,2020-03-03 08:33,T42,"Bradley, Keegan",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+10824,2020-03-04 10:59,12337,+10789,2020-03-03 08:33,T18,"Kokrak, Jason",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+10824,2020-03-04 10:59,14735,+10789,2020-03-03 08:33,CUT,"Ortiz, Carlos",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+10824,2020-03-04 10:59,14509,+10789,2020-03-03 08:33,T5,"Dahmen, Joel",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+12665,2020-03-04 10:59,10419,+12624,2020-03-03 08:33,CUT,"Noren, Alex",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+13528,2020-03-04 10:59,8480,+13484,2020-03-03 08:33,CUT,"Streelman, Kevin",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+13528,2020-03-04 10:59,15330,+13484,2020-03-03 08:33,T36,"Griffin, Lanto",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+13528,2020-03-04 10:59,18103,+13484,2020-03-03 08:33,T18,"Bezuidenhout, Christiaan",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+13528,2020-03-04 10:59,7548,+13484,2020-03-03 08:33,T32,"McDowell, Graeme",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+13528,2020-03-04 10:59,12425,+13484,2020-03-03 08:33,T18,"Todd, Brendon",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+13528,2020-03-04 10:59,12808,+13484,2020-03-03 08:33,DQ,"Grillo, Emiliano",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+13528,2020-03-04 10:59,13831,+13484,2020-03-03 08:33,CUT,"Knox, Russell",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+13528,2020-03-04 10:59,6930,+13484,2020-03-03 08:33,67,"Taylor, Vaughn",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+13528,2020-03-04 10:59,23542,+13484,2020-03-03 08:33,CUT,"Champ, Cameron",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+13528,2020-03-04 10:59,17576,+13484,2020-03-03 08:33,CUT,"Conners, Corey",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+15672,2020-03-04 10:59,16283,+15621,2020-03-03 08:33,T24,"Rodgers, Patrick",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9
+0,loss,+16231,2020-03-04 10:59,15575,+16179,2020-03-03 08:33,T15,"Hoge, Tom",pinnacle,2020-03-08,Arnold Palmer Invitational presented by Mastercard,win,2020,2020,9

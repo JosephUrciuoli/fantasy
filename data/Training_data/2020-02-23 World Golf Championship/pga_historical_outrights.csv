@@ -1,0 +1,60 @@
+bet_outcome_numeric,bet_outcome_text,close_odds,close_time,dg_id,open_odds,open_time,outcome,player_name,book,event_completed,event_name,market,season,year,event_id
+0,loss,+598,2020-02-19 12:24,10091,+597,2020-02-17 23:00,5,"McIlroy, Rory",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+697,2020-02-19 12:24,12422,+696,2020-02-17 23:00,T48,"Johnson, Dustin",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+997,2020-02-19 12:24,14139,+995,2020-02-17 23:00,T6,"Thomas, Justin",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+997,2020-02-19 12:24,19195,+995,2020-02-17 23:00,T3,"Rahm, Jon",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+1594,2020-02-19 12:24,11049,+1592,2020-02-17 23:00,T61,"Simpson, Webb",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+1689,2020-02-19 12:24,6430,+1686,2020-02-17 23:00,T26,"Scott, Adam",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+1993,2020-02-19 12:24,19895,+1990,2020-02-17 23:00,T14,"Schauffele, Xander",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+1993,2020-02-19 12:24,12294,+1990,2020-02-17 23:00,T18,"Fleetwood, Tommy",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+1993,2020-02-19 12:24,13562,+1990,2020-02-17 23:00,T6,"Matsuyama, Hideki",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+2492,2020-02-19 12:24,19841,+2488,2020-02-17 23:00,2,"DeChambeau, Bryson",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+3488,2020-02-19 12:24,22085,+3483,2020-02-17 23:00,T42,"Morikawa, Collin",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+3488,2020-02-19 12:24,7108,+3483,2020-02-17 23:00,11,"Casey, Paul",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+3987,2020-02-19 12:24,7649,+3981,2020-02-17 23:00,T42,"Leishman, Marc",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+3987,2020-02-19 12:24,5689,+3981,2020-02-17 23:00,T37,"Garcia, Sergio",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+3987,2020-02-19 12:24,7672,+3981,2020-02-17 23:00,T51,"Oosthuizen, Louis",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+1,paid in full,+3987,2020-02-19 12:24,14838,+3981,2020-02-17 23:00,1,"Reed, Patrick",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+3987,2020-02-19 12:24,12577,+3981,2020-02-17 23:00,T12,"Woodland, Gary",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+3987,2020-02-19 12:24,6169,+3981,2020-02-17 23:00,T22,"Kuchar, Matt",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+4983,2020-02-19 12:24,17488,+4976,2020-02-17 23:00,T29,"Im, Sungjae",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+4983,2020-02-19 12:24,7334,+4976,2020-02-17 23:00,T18,"Watson, Bubba",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+4983,2020-02-19 12:24,14636,+4976,2020-02-17 23:00,T58,"Spieth, Jordan",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+4983,2020-02-19 12:24,17646,+4976,2020-02-17 23:00,T37,"Fitzpatrick, Matthew",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+4983,2020-02-19 12:24,18238,+4976,2020-02-17 23:00,T12,"Ancer, Abraham",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+4983,2020-02-19 12:24,13900,+4976,2020-02-17 23:00,T29,"Lowry, Shane",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+6578,2020-02-19 12:24,8820,+6568,2020-02-17 23:00,T22,"Snedeker, Brandt",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+7974,2020-02-19 12:24,11276,+7962,2020-02-17 23:00,T9,"Horschel, Billy",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+7974,2020-02-19 12:24,11328,+7962,2020-02-17 23:00,T18,"Kisner, Kevin",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+7974,2020-02-19 12:24,11952,+7962,2020-02-17 23:00,T42,"Grace, Branden",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+7974,2020-02-19 12:24,14796,+7962,2020-02-17 23:00,T6,"Hatton, Tyrrell",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+7974,2020-02-19 12:24,20730,+7962,2020-02-17 23:00,T53,"Perez, Victor",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+7974,2020-02-19 12:24,7457,+7962,2020-02-17 23:00,T16,"Cabrera Bello, Rafa",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+9443,2020-02-19 12:24,15856,+9429,2020-02-17 23:00,T22,"Smith, Cameron",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+9967,2020-02-19 12:24,18417,+9952,2020-02-17 23:00,T26,"Scheffler, Scottie",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+9967,2020-02-19 12:24,9531,+9952,2020-02-17 23:00,T37,"Wiesberger, Bernd",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+9967,2020-02-19 12:24,7961,+9952,2020-02-17 23:00,T29,"Reavie, Chez",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+9967,2020-02-19 12:24,18103,+9952,2020-02-17 23:00,T29,"Bezuidenhout, Christiaan",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+9967,2020-02-19 12:24,7548,+9952,2020-02-17 23:00,T69,"McDowell, Graeme",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+9967,2020-02-19 12:24,7452,+9952,2020-02-17 23:00,T9,"Na, Kevin",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+9967,2020-02-19 12:24,21891,+9952,2020-02-17 23:00,T53,"Kitayama, Kurt",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+9967,2020-02-19 12:24,17576,+9952,2020-02-17 23:00,50,"Conners, Corey",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+9967,2020-02-19 12:24,23323,+9952,2020-02-17 23:00,T42,"Macintyre, Robert",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+11075,2020-02-19 12:24,12920,+11059,2020-02-17 23:00,T42,"Willett, Danny",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+11325,2020-02-19 12:24,9675,+14928,2020-02-17 23:00,66,"Lorenzo-Vera, Michael",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+11664,2020-02-19 12:24,15016,+11647,2020-02-17 23:00,T42,"Schwab, Matthias",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+12458,2020-02-19 12:24,12337,+12440,2020-02-17 23:00,T51,"Kokrak, Jason",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+12458,2020-02-19 12:24,17550,+12440,2020-02-17 23:00,T3,"Van Rooyen, Erik",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+12458,2020-02-19 12:24,6892,+12440,2020-02-17 23:00,T53,"Howell III, Charles",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+12458,2020-02-19 12:24,7655,+12440,2020-02-17 23:00,T53,"Molinari, Francesco",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+12458,2020-02-19 12:24,7881,+12440,2020-02-17 23:00,71,"Kang, Sung",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+12458,2020-02-19 12:24,4052,+12440,2020-02-17 23:00,T22,"Westwood, Lee",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+12458,2020-02-19 12:24,12425,+12440,2020-02-17 23:00,T37,"Todd, Brendon",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+12458,2020-02-19 12:24,15330,+12440,2020-02-17 23:00,T29,"Griffin, Lanto",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+13592,2020-02-19 12:24,14735,+13572,2020-02-17 23:00,T16,"Ortiz, Carlos",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+14950,2020-02-19 12:24,14368,+14928,2020-02-17 23:00,T53,"Janewattananond, Jazz",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+14950,2020-02-19 12:24,20706,+14928,2020-02-17 23:00,T58,"Wallace, Matt",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+14950,2020-02-19 12:24,20770,+14928,2020-02-17 23:00,T14,"Munoz, Sebastian",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+14950,2020-02-19 12:24,7399,+14928,2020-02-17 23:00,T61,"Glover, Lucas",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+14950,2020-02-19 12:24,17064,+14928,2020-02-17 23:00,T58,"Herbert, Lucas",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473
+0,loss,+19934,2020-02-19 12:24,18514,+19905,2020-02-17 23:00,T69,"Kinhult, Marcus",pinnacle,2020-02-23,World Golf Championships-Mexico Championship,win,2020,2020,473

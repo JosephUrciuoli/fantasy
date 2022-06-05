@@ -1,0 +1,61 @@
+bet_outcome_numeric,bet_outcome_text,close_odds,close_time,dg_id,open_odds,open_time,outcome,player_name,book,event_completed,event_name,market,season,year,event_id
+0,loss,+1061,2020-08-12 07:03,11049,+1101,2020-08-11 08:51,T3,"Simpson, Webb",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+1308,2020-08-12 07:03,16243,+1210,2020-08-11 08:51,CUT,"Koepka, Brooks",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+1864,2020-08-12 07:03,12294,+1974,2020-08-11 08:51,T59,"Fleetwood, Tommy",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+1895,2020-08-12 07:03,14838,+1755,2020-08-11 08:51,T9,"Reed, Patrick",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+1938,2020-08-12 07:03,7108,+2077,2020-08-11 08:51,T31,"Casey, Paul",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+2131,2020-08-12 07:03,6093,+2192,2020-08-11 08:51,CUT,"Rose, Justin",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+2624,2020-08-12 07:03,11276,+3611,2020-08-11 08:51,2,"Horschel, Billy",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+2952,2020-08-12 07:03,14577,+2738,2020-08-11 08:51,T23,"English, Harris",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+3059,2020-08-12 07:03,17488,+3611,2020-08-11 08:51,T9,"Im, Sungjae",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+3222,2020-08-12 07:03,11328,+4084,2020-08-11 08:51,T3,"Kisner, Kevin",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+3458,2020-08-12 07:03,12425,+3717,2020-08-11 08:51,CUT,"Todd, Brendon",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+3524,2020-08-12 07:03,7489,+4632,2020-08-11 08:51,CUT,"Moore, Ryan",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+4126,2020-08-12 07:03,14609,+3829,2020-08-11 08:51,T3,"Kim, Si Woo",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+4135,2020-08-12 07:03,5689,+4861,2020-08-11 08:51,T66,"Garcia, Sergio",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+4402,2020-08-12 07:03,14636,+4084,2020-08-11 08:51,T72,"Spieth, Jordan",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+4638,2020-08-12 07:03,17576,+5466,2020-08-11 08:51,CUT,"Conners, Corey",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+4712,2020-08-12 07:03,13900,+4375,2020-08-11 08:51,T23,"Lowry, Shane",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+4808,2020-08-12 07:03,7961,+5466,2020-08-11 08:51,CUT,"Reavie, Chez",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+4877,2020-08-12 07:03,18079,+6012,2020-08-11 08:51,T42,"Niemann, Joaquin",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+5080,2020-08-12 07:03,14578,+5466,2020-08-11 08:51,T9,"Henley, Russell",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+5081,2020-08-12 07:03,8820,+5466,2020-08-11 08:51,T42,"Snedeker, Brandt",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+6338,2020-08-12 07:03,2881,+9255,2020-08-11 08:51,CUT,"Furyk, Jim",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+6425,2020-08-12 07:03,21554,+5964,2020-08-11 08:51,CUT,"Poston, J.T.",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+6794,2020-08-12 07:03,24481,+7649,2020-08-11 08:51,T3,"Redman, Doc",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+7230,2020-08-12 07:03,11657,+8459,2020-08-11 08:51,T59,"Norlander, Henrik",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+7404,2020-08-12 07:03,12069,+10924,2020-08-11 08:51,CUT,"Stanley, Kyle",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+7768,2020-08-12 07:03,6892,+7213,2020-08-11 08:51,CUT,"Howell III, Charles",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+7768,2020-08-12 07:03,15164,+7213,2020-08-11 08:51,T51,"Lewis, Tom",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+7768,2020-08-12 07:03,11955,+7213,2020-08-11 08:51,T20,"Frittelli, Dylan",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+7768,2020-08-12 07:03,15016,+7213,2020-08-11 08:51,T42,"Schwab, Matthias",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+7768,2020-08-12 07:03,18103,+7213,2020-08-11 08:51,T37,"Bezuidenhout, Christiaan",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+8234,2020-08-12 07:03,16602,+7649,2020-08-11 08:51,T7,"Varner III, Harold",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+9409,2020-08-12 07:03,20706,+8741,2020-08-11 08:51,CUT,"Wallace, Matt",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+9409,2020-08-12 07:03,14502,+8741,2020-08-11 08:51,T15,"Cauley, Bud",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+9409,2020-08-12 07:03,8825,+8741,2020-08-11 08:51,T27,"Harman, Brian",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+9409,2020-08-12 07:03,18634,+8741,2020-08-11 08:51,CUT,"McNealy, Maverick",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+9409,2020-08-12 07:03,6283,+8741,2020-08-11 08:51,CUT,"Sabbatini, Rory",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+9409,2020-08-12 07:03,12423,+8741,2020-08-11 08:51,T51,"Kirk, Chris",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+9409,2020-08-12 07:03,7399,+8741,2020-08-11 08:51,CUT,"Glover, Lucas",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+9409,2020-08-12 07:03,16283,+8741,2020-08-11 08:51,T66,"Rodgers, Patrick",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+9962,2020-08-12 07:03,7398,+9255,2020-08-11 08:51,CUT,"Schwartzel, Charl",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+10581,2020-08-12 07:03,11952,+9832,2020-08-11 08:51,CUT,"Grace, Branden",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+10581,2020-08-12 07:03,17511,+9832,2020-08-11 08:51,CUT,"Straka, Sepp",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+11139,2020-08-12 07:03,12920,+10350,2020-08-11 08:51,CUT,"Willett, Danny",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+11139,2020-08-12 07:03,19483,+10350,2020-08-11 08:51,T13,"Burns, Sam",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+11758,2020-08-12 07:03,17786,+10924,2020-08-11 08:51,T15,"Davis, Cameron",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+11758,2020-08-12 07:03,5768,+10924,2020-08-11 08:51,CUT,"Hoffman, Charley",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+11758,2020-08-12 07:03,15473,+10924,2020-08-11 08:51,T31,"Long, Adam",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+11758,2020-08-12 07:03,14735,+10924,2020-08-11 08:51,CUT,"Ortiz, Carlos",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+11758,2020-08-12 07:03,7960,+10924,2020-08-11 08:51,T66,"List, Luke",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+11758,2020-08-12 07:03,12359,+10924,2020-08-11 08:51,T42,"Stallings, Scott",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+12317,2020-08-12 07:03,22051,+11444,2020-08-11 08:51,CUT,"Wise, Aaron",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+13066,2020-08-12 07:03,13508,+12138,2020-08-11 08:51,CUT,"Vegas, Jhonattan",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+14692,2020-08-12 07:03,15651,+13653,2020-08-11 08:51,T37,"Ventura, Kristoffer",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+14692,2020-08-12 07:03,12337,+13653,2020-08-11 08:51,T15,"Kokrak, Jason",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+14692,2020-08-12 07:03,7457,+13653,2020-08-11 08:51,T37,"Cabrera Bello, Rafa",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+14692,2020-08-12 07:03,18580,+13653,2020-08-11 08:51,T25,"Gooch, Talor",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+14692,2020-08-12 07:03,13367,+13653,2020-08-11 08:51,T59,"Merritt, Troy",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+17630,2020-08-12 07:03,7548,+16381,2020-08-11 08:51,CUT,"McDowell, Graeme",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13
+0,loss,+17630,2020-08-12 07:03,8469,+16381,2020-08-11 08:51,T25,"Armour, Ryan",pinnacle,2020-08-16,Wyndham Championship,win,2020,2020,13

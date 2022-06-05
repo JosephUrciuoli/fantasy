@@ -1,0 +1,60 @@
+bet_outcome_numeric,bet_outcome_text,close_odds,close_time,dg_id,open_odds,open_time,outcome,player_name,book,event_completed,event_name,market,season,year,event_id
+0,loss,+781,2020-03-11 17:46,10091,+767,2020-03-10 08:02,T83,"McIlroy, Rory",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+959,2020-03-11 17:46,19195,+1166,2020-03-10 08:02,T22,"Rahm, Jon",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+1601,2020-03-11 17:46,14139,+1515,2020-03-10 08:02,T63,"Thomas, Justin",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+1970,2020-03-11 17:46,19841,+2131,2020-03-10 08:02,T37,"DeChambeau, Bryson",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+1,paid in full,+2631,2020-03-11 17:46,13562,+2829,2020-03-10 08:02,1,"Matsuyama, Hideki",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+2669,2020-03-11 17:46,15466,+2601,2020-03-10 08:02,T5,"Cantlay, Patrick",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+2669,2020-03-11 17:46,12294,+2511,2020-03-10 08:02,T140,"Fleetwood, Tommy",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+2850,2020-03-11 17:46,19895,+2850,2020-03-11 17:46,T37,"Schauffele, Xander",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+2850,2020-03-11 17:46,12422,+2268,2020-03-10 08:02,T37,"Johnson, Dustin",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+3011,2020-03-11 17:46,11049,+3011,2020-03-11 17:46,T7,"Simpson, Webb",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+3011,2020-03-11 17:46,17488,+2777,2020-03-10 08:02,T22,"Im, Sungjae",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+3416,2020-03-11 17:46,6430,+3416,2020-03-11 17:46,T37,"Scott, Adam",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+3757,2020-03-11 17:46,14838,+3757,2020-03-11 17:46,T98,"Reed, Patrick",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+3757,2020-03-11 17:46,12965,+3757,2020-03-11 17:46,T134,"Fowler, Rickie",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+4551,2020-03-11 17:46,16243,+4551,2020-03-11 17:46,T37,"Koepka, Brooks",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+4551,2020-03-11 17:46,12577,+4551,2020-03-11 17:46,T113,"Woodland, Gary",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+4821,2020-03-11 17:46,7108,+4821,2020-03-11 17:46,T113,"Casey, Paul",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+5119,2020-03-11 17:46,14796,+5119,2020-03-11 17:46,T22,"Hatton, Tyrrell",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+5119,2020-03-11 17:46,22085,+5119,2020-03-11 17:46,T7,"Morikawa, Collin",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+5119,2020-03-11 17:46,7649,+5119,2020-03-11 17:46,T5,"Leishman, Marc",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+5685,2020-03-11 17:46,6169,+5685,2020-03-11 17:46,T37,"Kuchar, Matt",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+6253,2020-03-11 17:46,11676,+6253,2020-03-11 17:46,T125,"Finau, Tony",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+6524,2020-03-11 17:46,6093,+6524,2020-03-11 17:46,T125,"Rose, Justin",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+6819,2020-03-11 17:46,17646,+6819,2020-03-11 17:46,T83,"Fitzpatrick, Matthew",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+7105,2020-03-11 17:46,18238,+7105,2020-03-11 17:46,T113,"Ancer, Abraham",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+7144,2020-03-11 17:46,17606,+7144,2020-03-11 17:46,T7,"Berger, Daniel",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+7500,2020-03-11 17:46,9771,+7500,2020-03-11 17:46,T134,"Day, Jason",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+7500,2020-03-11 17:46,13900,+7500,2020-03-11 17:46,T98,"Lowry, Shane",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+7954,2020-03-11 17:46,5689,+7954,2020-03-11 17:46,T63,"Garcia, Sergio",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+7954,2020-03-11 17:46,14459,+7954,2020-03-11 17:46,T37,"An, Byeong Hun",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+9086,2020-03-11 17:46,5994,+9086,2020-03-11 17:46,T113,"Stenson, Henrik",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+9086,2020-03-11 17:46,14636,+9086,2020-03-11 17:46,T125,"Spieth, Jordan",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+9086,2020-03-11 17:46,11276,+9086,2020-03-11 17:46,T63,"Horschel, Billy",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+9144,2020-03-11 17:46,7961,+9144,2020-03-11 17:46,T63,"Reavie, Chez",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+9186,2020-03-11 17:46,11328,+9186,2020-03-11 17:46,T63,"Kisner, Kevin",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+10221,2020-03-11 17:46,18841,+10221,2020-03-11 17:46,T7,"Hovland, Viktor",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+10221,2020-03-11 17:46,18417,+10221,2020-03-11 17:46,T7,"Scheffler, Scottie",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+10221,2020-03-11 17:46,14509,+10221,2020-03-11 17:46,T37,"Dahmen, Joel",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+11213,2020-03-11 17:46,7489,+11213,2020-03-11 17:46,T37,"Moore, Ryan",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+11358,2020-03-11 17:46,7452,+11358,2020-03-11 17:46,T98,"Na, Kevin",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+11358,2020-03-11 17:46,8820,+11358,2020-03-11 17:46,T113,"Snedeker, Brandt",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+11358,2020-03-11 17:46,1435,+11358,2020-03-11 17:46,T37,"Poulter, Ian",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+14191,2020-03-11 17:46,7457,+14191,2020-03-11 17:46,T7,"Cabrera Bello, Rafa",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+14191,2020-03-11 17:46,7334,+14191,2020-03-11 17:46,T63,"Watson, Bubba",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+14191,2020-03-11 17:46,14577,+14191,2020-03-11 17:46,T2,"English, Harris",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+14191,2020-03-11 17:46,17538,+14191,2020-03-11 17:46,T37,"Homa, Max",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+14191,2020-03-11 17:46,7881,+14191,2020-03-11 17:46,T98,"Kang, Sung",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+14191,2020-03-11 17:46,18103,+14191,2020-03-11 17:46,T2,"Bezuidenhout, Christiaan",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+14996,2020-03-11 17:46,9531,+14996,2020-03-11 17:46,T113,"Wiesberger, Bernd",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+14996,2020-03-11 17:46,1547,+14996,2020-03-11 17:46,T125,"Mickelson, Phil",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+15482,2020-03-11 17:46,13965,+15482,2020-03-11 17:46,T22,"Hadwin, Adam",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+15482,2020-03-11 17:46,15856,+15482,2020-03-11 17:46,T98,"Smith, Cameron",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+16440,2020-03-11 17:46,17550,+16440,2020-03-11 17:46,T83,"Van Rooyen, Erik",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+17028,2020-03-11 17:46,21554,+17028,2020-03-11 17:46,T63,"Poston, J.T.",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+17028,2020-03-11 17:46,13872,+17028,2020-03-11 17:46,T140,"Bradley, Keegan",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+17028,2020-03-11 17:46,11826,+17028,2020-03-11 17:46,T83,"Lee, Danny",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+17028,2020-03-11 17:46,7655,+17028,2020-03-11 17:46,T134,"Molinari, Francesco",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+17028,2020-03-11 17:46,13508,+17028,2020-03-11 17:46,T37,"Vegas, Jhonattan",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11
+0,loss,+17028,2020-03-11 17:46,7820,+17028,2020-03-11 17:46,T98,"Palmer, Ryan",pinnacle,2020-03-15,THE PLAYERS Championship,win,2020,2020,11

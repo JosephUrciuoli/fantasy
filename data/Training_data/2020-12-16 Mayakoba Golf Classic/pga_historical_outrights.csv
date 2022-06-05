@@ -1,0 +1,60 @@
+bet_outcome_numeric,bet_outcome_text,close_odds,close_time,dg_id,open_odds,open_time,outcome,player_name,book,event_completed,event_name,market,season,year,event_id
+0,loss,+638,2020-12-02 01:25,14139,+638,2020-12-02 01:25,T12,"Thomas, Justin",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+1270,2020-12-02 01:25,16243,+1270,2020-12-02 01:25,CUT,"Koepka, Brooks",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+1481,2020-12-02 01:25,14577,+1481,2020-12-02 01:25,T5,"English, Harris",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+1692,2020-12-02 01:25,17606,+1692,2020-12-02 01:25,T23,"Berger, Daniel",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+1902,2020-12-02 01:25,11676,+1902,2020-12-02 01:25,T8,"Finau, Tony",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+1902,2020-12-02 01:25,18238,+1902,2020-12-02 01:25,T12,"Ancer, Abraham",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+1,paid in full,+2113,2020-12-02 01:25,18841,+2113,2020-12-02 01:25,1,"Hovland, Viktor",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+2324,2020-12-02 01:25,14578,+2324,2020-12-02 01:25,CUT,"Henley, Russell",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+2640,2020-12-02 01:25,12965,+2640,2020-12-02 01:25,CUT,"Fowler, Rickie",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+2956,2020-12-02 01:25,17576,+2956,2020-12-02 01:25,T17,"Conners, Corey",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+3318,2020-12-02 01:25,19428,+3318,2020-12-02 01:25,T52,"Zalatoris, Will",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+3483,2020-12-02 01:25,18079,+3483,2020-12-02 01:25,T23,"Niemann, Joaquin",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+3940,2020-12-02 01:25,14735,+3940,2020-12-02 01:25,T8,"Ortiz, Carlos",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+4221,2020-12-02 01:25,11276,+4221,2020-12-02 01:25,T5,"Horschel, Billy",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+4221,2020-12-02 01:25,7649,+4221,2020-12-02 01:25,CUT,"Leishman, Marc",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+5275,2020-12-02 01:25,15473,+5275,2020-12-02 01:25,T3,"Long, Adam",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+5275,2020-12-02 01:25,8825,+5275,2020-12-02 01:25,T30,"Harman, Brian",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+5275,2020-12-02 01:25,20770,+5275,2020-12-02 01:25,CUT,"Munoz, Sebastian",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+5275,2020-12-02 01:25,12425,+5275,2020-12-02 01:25,T8,"Todd, Brendon",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+5526,2020-12-02 01:25,12808,+5526,2020-12-02 01:25,T8,"Grillo, Emiliano",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+6054,2020-12-02 01:25,12577,+6054,2020-12-02 01:25,CUT,"Woodland, Gary",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+6054,2020-12-02 01:25,6892,+6054,2020-12-02 01:25,T23,"Howell III, Charles",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+6961,2020-12-02 01:25,13470,+6961,2020-12-02 01:25,T32,"Kizzire, Patton",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+6961,2020-12-02 01:25,10419,+6961,2020-12-02 01:25,CUT,"Noren, Alex",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+6961,2020-12-02 01:25,7961,+6961,2020-12-02 01:25,CUT,"Reavie, Chez",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+6961,2020-12-02 01:25,14509,+6961,2020-12-02 01:25,T20,"Dahmen, Joel",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+6961,2020-12-02 01:25,13831,+6961,2020-12-02 01:25,T23,"Knox, Russell",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+7166,2020-12-02 01:25,7899,+7166,2020-12-02 01:25,T40,"Piercy, Scott",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+7166,2020-12-02 01:25,16602,+7166,2020-12-02 01:25,71,"Varner III, Harold",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+7383,2020-12-02 01:25,13872,+7383,2020-12-02 01:25,T32,"Bradley, Keegan",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+7383,2020-12-02 01:25,8480,+7383,2020-12-02 01:25,T32,"Streelman, Kevin",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+8437,2020-12-02 01:25,6283,+8437,2020-12-02 01:25,T40,"Sabbatini, Rory",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+8437,2020-12-02 01:25,17511,+8437,2020-12-02 01:25,T52,"Straka, Sepp",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+8437,2020-12-02 01:25,19870,+8437,2020-12-02 01:25,CUT,"McCarthy, Denny",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+9490,2020-12-02 01:25,14459,+9490,2020-12-02 01:25,CUT,"An, Byeong Hun",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+10544,2020-12-02 01:25,22051,+10544,2020-12-02 01:25,2,"Wise, Aaron",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+10544,2020-12-02 01:25,24550,+10544,2020-12-02 01:25,T46,"Ghim, Doug",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+10544,2020-12-02 01:25,14926,+10544,2020-12-02 01:25,CUT,"Malnati, Peter",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+10544,2020-12-02 01:25,5768,+10544,2020-12-02 01:25,T46,"Hoffman, Charley",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+10544,2020-12-02 01:25,14606,+10544,2020-12-02 01:25,T20,"Huh, John",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+10544,2020-12-02 01:25,13965,+10544,2020-12-02 01:25,CUT,"Hadwin, Adam",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+10544,2020-12-02 01:25,12423,+10544,2020-12-02 01:25,T46,"Kirk, Chris",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+10544,2020-12-02 01:25,6762,+10544,2020-12-02 01:25,T52,"Perez, Pat",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+11046,2020-12-02 01:25,13022,+11046,2020-12-02 01:25,CUT,"Stuard, Brian",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+13179,2020-12-02 01:25,18634,+13179,2020-12-02 01:25,T12,"McNealy, Maverick",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+13179,2020-12-02 01:25,6930,+13179,2020-12-02 01:25,CUT,"Taylor, Vaughn",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+13179,2020-12-02 01:25,7399,+13179,2020-12-02 01:25,T5,"Glover, Lucas",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+13179,2020-12-02 01:25,9171,+13179,2020-12-02 01:25,T32,"Villegas, Camilo",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+13179,2020-12-02 01:25,18662,+13179,2020-12-02 01:25,CUT,"Schniederjans, Ollie",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+13179,2020-12-02 01:25,18579,+13179,2020-12-02 01:25,T63,"Cook, Austin",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+13179,2020-12-02 01:25,11451,+13179,2020-12-02 01:25,T32,"Garnett, Brice",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+13179,2020-12-02 01:25,11657,+13179,2020-12-02 01:25,CUT,"Norlander, Henrik",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+13179,2020-12-02 01:25,12069,+13179,2020-12-02 01:25,T46,"Stanley, Kyle",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+13925,2020-12-02 01:25,7548,+13925,2020-12-02 01:25,CUT,"McDowell, Graeme",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+15269,2020-12-02 01:25,7457,+15269,2020-12-02 01:25,CUT,"Cabrera Bello, Rafa",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+15814,2020-12-02 01:25,18187,+15814,2020-12-02 01:25,T23,"Duncan, Tyler",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+15814,2020-12-02 01:25,11952,+15814,2020-12-02 01:25,T40,"Grace, Branden",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+15814,2020-12-02 01:25,26660,+15814,2020-12-02 01:25,CUT,"Gordon, Will",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
+0,loss,+15817,2020-12-02 01:25,14140,+15817,2020-12-02 01:25,CUT,"Higgs, Harry",pinnacle,2020-12-06,Mayakoba Golf Classic presented by UNIFIN,win,2021,2020,457
