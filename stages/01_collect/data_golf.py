@@ -1,5 +1,7 @@
 import requests
 import pandas as pd
+import re
+import json
 
 BOOKS = [
     "bet365",
@@ -226,7 +228,34 @@ def create_data_golf_df(use_csv=False):
     final_df.to_csv("../../data/data_golf_final.csv", index=False)
 
 
+def create_course_history():
+    """Creates the data golf course history csv."""
+    ch_url = "https://datagolf.com/course-table?sort_cat=scoring&sort=adj_score_to_par&diff=easiest"
+    try:
+        res = requests.get(ch_url)
+        data = res.text
+    except Exception as e:
+        print(e)
+
+    # use a regex to grab the data from the HTML
+    regex = r"var reload_data = JSON.parse\('(.*)'\);"
+    matches = re.findall(regex, data, re.MULTILINE)
+    if len(matches) != 1:
+        raise Exception("Data Golf fuckery! HTML changed.")
+    course_data = json.loads(matches[0])
+    # we'll use this as the base by which we'll build the historical dataframe on
+    df = pd.DataFrame(course_data.get("data"))[["course_num", "course_name"]]
+    for course_num, by_year_list in course_data.get("by_years").items():
+        print("Working on course: ", course_num)
+        course_year_df = pd.DataFrame(by_year_list)
+        course_year_df["course_num"] = course_num
+        df = pd.merge(left=df, right=course_year_df, on="course_num", how="outer")
+    df.to_csv("../../data/data_golf_course_history.csv", index=False)
+    return df
+
+
 # pre_tournament_predictions_archive()
 # historical_outrights()
 # historical_dfs_data()
-create_data_golf_df(True)
+create_course_history()
+# create_data_golf_df(True)
