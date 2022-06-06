@@ -1,0 +1,59 @@
+bet_outcome_numeric,bet_outcome_text,close_odds,close_time,dg_id,open_odds,open_time,outcome,player_name,book,event_completed,event_name,market,season,year,event_id
+0,loss,+1044,2020-02-26 11:49,12294,+1039,2020-02-25 10:33,3,"Fleetwood, Tommy",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+1199,2020-02-26 11:49,16243,+1193,2020-02-25 10:33,CUT,"Koepka, Brooks",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+1349,2020-02-26 11:49,12965,+1343,2020-02-25 10:33,CUT,"Fowler, Rickie",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+2293,2020-02-26 11:49,6093,+2282,2020-02-25 10:33,CUT,"Rose, Justin",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+2293,2020-02-26 11:49,12577,+2282,2020-02-25 10:33,T8,"Woodland, Gary",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+2440,2020-02-26 11:49,7672,+2428,2020-02-25 10:33,CUT,"Oosthuizen, Louis",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+2568,2020-02-26 11:49,11276,+2904,2020-02-25 10:33,T42,"Horschel, Billy",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+2754,2020-02-26 11:49,18841,+2740,2020-02-25 10:33,CUT,"Hovland, Viktor",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+1,paid in full,+3126,2020-02-26 11:49,17488,+3111,2020-02-25 10:33,1,"Im, Sungjae",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+3439,2020-02-26 11:49,14459,+3422,2020-02-25 10:33,T4,"An, Byeong Hun",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+3439,2020-02-26 11:49,17606,+3422,2020-02-25 10:33,T4,"Berger, Daniel",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+3646,2020-02-26 11:49,13900,+3629,2020-02-25 10:33,T21,"Lowry, Shane",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+4686,2020-02-26 11:49,17550,+4664,2020-02-25 10:33,CUT,"Van Rooyen, Erik",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+5207,2020-02-26 11:49,18079,+5182,2020-02-25 10:33,CUT,"Niemann, Joaquin",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+5976,2020-02-26 11:49,1435,+5948,2020-02-25 10:33,T27,"Poulter, Ian",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+6247,2020-02-26 11:49,14577,+6218,2020-02-25 10:33,T17,"English, Harris",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+6545,2020-02-26 11:49,7820,+6514,2020-02-25 10:33,T17,"Palmer, Ryan",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+6545,2020-02-26 11:49,12808,+6514,2020-02-25 10:33,CUT,"Grillo, Emiliano",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+6545,2020-02-26 11:49,17576,+6514,2020-02-25 10:33,CUT,"Conners, Corey",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+6871,2020-02-26 11:49,6930,+6839,2020-02-25 10:33,T42,"Taylor, Vaughn",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+6871,2020-02-26 11:49,23604,+6839,2020-02-25 10:33,T11,"Clark, Wyndham",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+7075,2020-02-26 11:49,8480,+7041,2020-02-25 10:33,T47,"Streelman, Kevin",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+7288,2020-02-26 11:49,17365,+7254,2020-02-25 10:33,CUT,"Mitchell, Keith",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+7288,2020-02-26 11:49,13831,+7254,2020-02-25 10:33,CUT,"Knox, Russell",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+7288,2020-02-26 11:49,4052,+7254,2020-02-25 10:33,T4,"Westwood, Lee",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+7775,2020-02-26 11:49,7960,+7738,2020-02-25 10:33,CUT,"List, Luke",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+7775,2020-02-26 11:49,7399,+7738,2020-02-25 10:33,CUT,"Glover, Lucas",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+7775,2020-02-26 11:49,13508,+7738,2020-02-25 10:33,T27,"Vegas, Jhonattan",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+7775,2020-02-26 11:49,16602,+7738,2020-02-25 10:33,T42,"Varner III, Harold",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+8328,2020-02-26 11:49,21891,+8289,2020-02-25 10:33,T47,"Kitayama, Kurt",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+8328,2020-02-26 11:49,16433,+8289,2020-02-25 10:33,T38,"NeSmith, Matthew",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+8328,2020-02-26 11:49,25919,+8289,2020-02-25 10:33,T58,"Wolff, Matthew",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+8328,2020-02-26 11:49,14502,+8289,2020-02-25 10:33,T42,"Cauley, Bud",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+8328,2020-02-26 11:49,13872,+8289,2020-02-25 10:33,CUT,"Bradley, Keegan",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+8328,2020-02-26 11:49,7398,+8289,2020-02-25 10:33,T17,"Schwartzel, Charl",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+8328,2020-02-26 11:49,2881,+8289,2020-02-25 10:33,CUT,"Furyk, Jim",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+8328,2020-02-26 11:49,8825,+8289,2020-02-25 10:33,T47,"Harman, Brian",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+8331,2020-02-26 11:49,14013,+10361,2020-02-25 10:33,T27,"Tringale, Cameron",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+8818,2020-02-26 11:49,14578,+8777,2020-02-25 10:33,T8,"Henley, Russell",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+8818,2020-02-26 11:49,14140,+8777,2020-02-25 10:33,T58,"Higgs, Harry",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+9368,2020-02-26 11:49,18634,+9325,2020-02-25 10:33,T11,"McNealy, Maverick",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+9368,2020-02-26 11:49,6283,+9325,2020-02-25 10:33,T35,"Sabbatini, Rory",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+9368,2020-02-26 11:49,19477,+9325,2020-02-25 10:33,CUT,"Schenk, Adam",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+9368,2020-02-26 11:49,18580,+9325,2020-02-25 10:33,T38,"Gooch, Talor",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+10410,2020-02-26 11:49,13497,+10361,2020-02-25 10:33,T38,"Lee, Kyoung-Hoon",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+10410,2020-02-26 11:49,20706,+10361,2020-02-25 10:33,CUT,"Wallace, Matt",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+10410,2020-02-26 11:49,19870,+10361,2020-02-25 10:33,CUT,"McCarthy, Denny",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+10410,2020-02-26 11:49,19483,+10361,2020-02-25 10:33,T64,"Burns, Sam",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+10410,2020-02-26 11:49,15164,+10361,2020-02-25 10:33,T47,"Lewis, Tom",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+10410,2020-02-26 11:49,15575,+10361,2020-02-25 10:33,CUT,"Hoge, Tom",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+10410,2020-02-26 11:49,16283,+10361,2020-02-25 10:33,T21,"Rodgers, Patrick",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+10410,2020-02-26 11:49,12069,+10361,2020-02-25 10:33,CUT,"Stanley, Kyle",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+11567,2020-02-26 11:49,11019,+11513,2020-02-25 10:33,T4,"Steele, Brendan",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+13010,2020-02-26 11:49,8605,+12950,2020-02-25 10:33,T47,"Jones, Matt",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+13010,2020-02-26 11:49,6986,+12950,2020-02-25 10:33,67,"Johnson, Zach",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+13010,2020-02-26 11:49,22051,+12950,2020-02-25 10:33,T35,"Wise, Aaron",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+13010,2020-02-26 11:49,17786,+12950,2020-02-25 10:33,T8,"Davis, Cameron",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10
+0,loss,+15612,2020-02-26 11:49,13026,+15540,2020-02-25 10:33,CUT,"Zhang, Xinjun",pinnacle,2020-03-01,The Honda Classic,win,2020,2020,10

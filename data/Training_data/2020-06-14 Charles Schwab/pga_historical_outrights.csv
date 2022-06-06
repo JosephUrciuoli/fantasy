@@ -1,0 +1,60 @@
+bet_outcome_numeric,bet_outcome_text,close_odds,close_time,dg_id,open_odds,open_time,outcome,player_name,book,event_completed,event_name,market,season,year,event_id
+0,loss,+829,2020-06-10 15:31,10091,+783,2020-06-08 17:09,T32,"McIlroy, Rory",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+1267,2020-06-10 15:31,19195,+1247,2020-06-08 17:09,CUT,"Rahm, Jon",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+1353,2020-06-10 15:31,14139,+1635,2020-06-08 17:09,T10,"Thomas, Justin",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+2190,2020-06-10 15:31,11049,+2440,2020-06-08 17:09,CUT,"Simpson, Webb",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+2379,2020-06-10 15:31,19841,+2218,2020-06-08 17:09,T3,"DeChambeau, Bryson",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+2623,2020-06-10 15:31,16243,+2771,2020-06-08 17:09,T32,"Koepka, Brooks",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+2960,2020-06-10 15:31,14838,+3102,2020-06-08 17:09,T7,"Reed, Patrick",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+2994,2020-06-10 15:31,22085,+4427,2020-06-08 17:09,2,"Morikawa, Collin",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+3099,2020-06-10 15:31,19895,+3102,2020-06-08 17:09,T3,"Schauffele, Xander",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+3171,2020-06-10 15:31,14636,+5530,2020-06-08 17:09,T10,"Spieth, Jordan",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+3329,2020-06-10 15:31,17488,+3102,2020-06-08 17:09,T10,"Im, Sungjae",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+3329,2020-06-10 15:31,12965,+3102,2020-06-08 17:09,CUT,"Fowler, Rickie",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+3329,2020-06-10 15:31,12422,+3102,2020-06-08 17:09,CUT,"Johnson, Dustin",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+3553,2020-06-10 15:31,18841,+6082,2020-06-08 17:09,T23,"Hovland, Viktor",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+3692,2020-06-10 15:31,11676,+4427,2020-06-08 17:09,T23,"Finau, Tony",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+4156,2020-06-10 15:31,7649,+3874,2020-06-08 17:09,CUT,"Leishman, Marc",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+4221,2020-06-10 15:31,6093,+4427,2020-06-08 17:09,T3,"Rose, Justin",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+4380,2020-06-10 15:31,7672,+5530,2020-06-08 17:09,T55,"Oosthuizen, Louis",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+4746,2020-06-10 15:31,12577,+4427,2020-06-08 17:09,9,"Woodland, Gary",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+4746,2020-06-10 15:31,18417,+4427,2020-06-08 17:09,T55,"Scheffler, Scottie",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+4746,2020-06-10 15:31,6169,+4427,2020-06-08 17:09,CUT,"Kuchar, Matt",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+5339,2020-06-10 15:31,17646,+4978,2020-06-08 17:09,T32,"Fitzpatrick, Matthew",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+5929,2020-06-10 15:31,13900,+5530,2020-06-08 17:09,CUT,"Lowry, Shane",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+5929,2020-06-10 15:31,7452,+5530,2020-06-08 17:09,CUT,"Na, Kevin",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+5929,2020-06-10 15:31,9771,+5530,2020-06-08 17:09,CUT,"Day, Jason",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+6150,2020-06-10 15:31,14577,+7737,2020-06-08 17:09,CUT,"English, Harris",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+1,paid in full,+7109,2020-06-10 15:31,17606,+6634,2020-06-08 17:09,1,"Berger, Daniel",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+7766,2020-06-10 15:31,7820,+8843,2020-06-08 17:09,CUT,"Palmer, Ryan",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+7817,2020-06-10 15:31,11276,+7297,2020-06-08 17:09,T38,"Horschel, Billy",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+7817,2020-06-10 15:31,14509,+7297,2020-06-08 17:09,T19,"Dahmen, Joel",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+7817,2020-06-10 15:31,14459,+7297,2020-06-08 17:09,T60,"An, Byeong Hun",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+8292,2020-06-10 15:31,18079,+7737,2020-06-08 17:09,T32,"Niemann, Joaquin",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+8292,2020-06-10 15:31,11328,+7737,2020-06-08 17:09,T29,"Kisner, Kevin",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+8292,2020-06-10 15:31,18238,+7737,2020-06-08 17:09,T14,"Ancer, Abraham",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+8292,2020-06-10 15:31,17538,+7737,2020-06-08 17:09,CUT,"Homa, Max",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+9475,2020-06-10 15:31,18103,+8843,2020-06-08 17:09,CUT,"Bezuidenhout, Christiaan",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+10659,2020-06-10 15:31,18634,+9946,2020-06-08 17:09,T32,"McNealy, Maverick",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+11837,2020-06-10 15:31,13965,+11049,2020-06-08 17:09,T43,"Hadwin, Adam",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+13024,2020-06-10 15:31,15856,+12154,2020-06-08 17:09,CUT,"Smith, Cameron",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+13024,2020-06-10 15:31,1435,+12154,2020-06-08 17:09,T29,"Poulter, Ian",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+13024,2020-06-10 15:31,1547,+12154,2020-06-08 17:09,CUT,"Mickelson, Phil",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+14795,2020-06-10 15:31,15575,+13810,2020-06-08 17:09,CUT,"Hoge, Tom",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+14795,2020-06-10 15:31,8825,+13810,2020-06-08 17:09,T23,"Harman, Brian",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+14795,2020-06-10 15:31,20770,+13810,2020-06-08 17:09,CUT,"Munoz, Sebastian",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+14795,2020-06-10 15:31,6283,+13810,2020-06-08 17:09,T14,"Sabbatini, Rory",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+14795,2020-06-10 15:31,7334,+13810,2020-06-08 17:09,T7,"Watson, Bubba",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+14795,2020-06-10 15:31,7489,+13810,2020-06-08 17:09,CUT,"Moore, Ryan",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+14795,2020-06-10 15:31,7961,+13810,2020-06-08 17:09,CUT,"Reavie, Chez",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+14795,2020-06-10 15:31,11019,+13810,2020-06-08 17:09,CUT,"Steele, Brendan",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+14795,2020-06-10 15:31,11826,+13810,2020-06-08 17:09,CUT,"Lee, Danny",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+14795,2020-06-10 15:31,12337,+13810,2020-06-08 17:09,T3,"Kokrak, Jason",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+14795,2020-06-10 15:31,17576,+13810,2020-06-08 17:09,T19,"Conners, Corey",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+14795,2020-06-10 15:31,13831,+13810,2020-06-08 17:09,CUT,"Knox, Russell",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+16568,2020-06-10 15:31,7548,+15466,2020-06-08 17:09,CUT,"McDowell, Graeme",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+16568,2020-06-10 15:31,17550,+15466,2020-06-08 17:09,CUT,"Van Rooyen, Erik",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+16568,2020-06-10 15:31,5768,+15466,2020-06-08 17:09,CUT,"Hoffman, Charley",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+17749,2020-06-10 15:31,18580,+16569,2020-06-08 17:09,T43,"Gooch, Talor",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+17749,2020-06-10 15:31,6892,+16569,2020-06-08 17:09,T49,"Howell III, Charles",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21
+0,loss,+17749,2020-06-10 15:31,12425,+16569,2020-06-08 17:09,CUT,"Todd, Brendon",pinnacle,2020-06-14,Charles Schwab Challenge,win,2020,2020,21

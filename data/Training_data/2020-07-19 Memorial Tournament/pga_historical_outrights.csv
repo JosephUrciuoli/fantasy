@@ -1,0 +1,60 @@
+bet_outcome_numeric,bet_outcome_text,close_odds,close_time,dg_id,open_odds,open_time,outcome,player_name,book,event_completed,event_name,market,season,year,event_id
+0,loss,+1126,2020-07-16 00:23,10091,+1465,2020-07-13 23:53,T32,"McIlroy, Rory",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+1176,2020-07-16 00:23,19841,+1049,2020-07-13 23:53,CUT,"DeChambeau, Bryson",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+1283,2020-07-16 00:23,14139,+1150,2020-07-13 23:53,T18,"Thomas, Justin",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+1356,2020-07-16 00:23,15466,+1465,2020-07-13 23:53,T32,"Cantlay, Patrick",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+1704,2020-07-16 00:23,12422,+1527,2020-07-13 23:53,CUT,"Johnson, Dustin",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+1909,2020-07-16 00:23,19895,+2520,2020-07-13 23:53,T13,"Schauffele, Xander",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+1953,2020-07-16 00:23,13562,+2358,2020-07-13 23:53,CUT,"Matsuyama, Hideki",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+1,paid in full,+1983,2020-07-16 00:23,19195,+1897,2020-07-13 23:53,1,"Rahm, Jon",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+2202,2020-07-16 00:23,18841,+2301,2020-07-13 23:53,T48,"Hovland, Viktor",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+2242,2020-07-16 00:23,11049,+2190,2020-07-13 23:53,CUT,"Simpson, Webb",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+2251,2020-07-16 00:23,5321,+2387,2020-07-13 23:53,T40,"Woods, Tiger",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+2365,2020-07-16 00:23,16243,+2614,2020-07-13 23:53,T62,"Koepka, Brooks",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+2565,2020-07-16 00:23,22085,+2301,2020-07-13 23:53,T48,"Morikawa, Collin",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+2725,2020-07-16 00:23,18238,+4297,2020-07-13 23:53,T58,"Ancer, Abraham",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+4192,2020-07-16 00:23,12577,+4701,2020-07-13 23:53,T22,"Woodland, Gary",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+4647,2020-07-16 00:23,17606,+4178,2020-07-13 23:53,CUT,"Berger, Daniel",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+4647,2020-07-16 00:23,12965,+4178,2020-07-13 23:53,CUT,"Fowler, Rickie",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+5196,2020-07-16 00:23,14838,+5744,2020-07-13 23:53,T10,"Reed, Patrick",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+5259,2020-07-16 00:23,9771,+6892,2020-07-13 23:53,T4,"Day, Jason",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+5808,2020-07-16 00:23,6093,+5225,2020-07-13 23:53,CUT,"Rose, Justin",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+6026,2020-07-16 00:23,17646,+7311,2020-07-13 23:53,3,"Fitzpatrick, Matthew",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+6027,2020-07-16 00:23,6169,+7311,2020-07-13 23:53,T32,"Kuchar, Matt",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+6028,2020-07-16 00:23,8480,+7311,2020-07-13 23:53,T54,"Streelman, Kevin",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+6142,2020-07-16 00:23,11676,+6583,2020-07-13 23:53,8,"Finau, Tony",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+6451,2020-07-16 00:23,7649,+7311,2020-07-13 23:53,T40,"Leishman, Marc",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+6456,2020-07-16 00:23,7108,+5806,2020-07-13 23:53,CUT,"Casey, Paul",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+6461,2020-07-16 00:23,5689,+6892,2020-07-13 23:53,T32,"Garcia, Sergio",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+6543,2020-07-16 00:23,18079,+5884,2020-07-13 23:53,CUT,"Niemann, Joaquin",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+6721,2020-07-16 00:23,17488,+6045,2020-07-13 23:53,CUT,"Im, Sungjae",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+6890,2020-07-16 00:23,11276,+8354,2020-07-13 23:53,T13,"Horschel, Billy",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+8128,2020-07-16 00:23,14636,+7311,2020-07-13 23:53,T13,"Spieth, Jordan",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+8128,2020-07-16 00:23,11328,+7311,2020-07-13 23:53,CUT,"Kisner, Kevin",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+9282,2020-07-16 00:23,24481,+8354,2020-07-13 23:53,CUT,"Redman, Doc",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+9282,2020-07-16 00:23,1435,+8354,2020-07-13 23:53,CUT,"Poulter, Ian",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+9282,2020-07-16 00:23,13965,+8354,2020-07-13 23:53,T54,"Hadwin, Adam",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+10436,2020-07-16 00:23,14577,+9398,2020-07-13 23:53,T13,"English, Harris",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+10801,2020-07-16 00:23,18417,+13051,2020-07-13 23:53,T22,"Scheffler, Scottie",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+12761,2020-07-16 00:23,17576,+11486,2020-07-13 23:53,T22,"Conners, Corey",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+12761,2020-07-16 00:23,6283,+11486,2020-07-13 23:53,CUT,"Sabbatini, Rory",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+12761,2020-07-16 00:23,23542,+11486,2020-07-13 23:53,CUT,"Champ, Cameron",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+12761,2020-07-16 00:23,21554,+11486,2020-07-13 23:53,CUT,"Poston, J.T.",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+12761,2020-07-16 00:23,13900,+11486,2020-07-13 23:53,CUT,"Lowry, Shane",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+12761,2020-07-16 00:23,25919,+11486,2020-07-13 23:53,T22,"Wolff, Matthew",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+12761,2020-07-16 00:23,1547,+11486,2020-07-13 23:53,T54,"Mickelson, Phil",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+12761,2020-07-16 00:23,14459,+11486,2020-07-13 23:53,CUT,"An, Byeong Hun",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+14497,2020-07-16 00:23,17511,+13051,2020-07-13 23:53,61,"Straka, Sepp",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+14497,2020-07-16 00:23,12920,+13051,2020-07-13 23:53,T32,"Willett, Danny",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+14497,2020-07-16 00:23,7672,+13051,2020-07-13 23:53,T54,"Oosthuizen, Louis",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+14497,2020-07-16 00:23,7452,+13051,2020-07-13 23:53,9,"Na, Kevin",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+14497,2020-07-16 00:23,7399,+13051,2020-07-13 23:53,T38,"Glover, Lucas",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+14497,2020-07-16 00:23,7334,+13051,2020-07-13 23:53,T32,"Watson, Bubba",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+17393,2020-07-16 00:23,20706,+15661,2020-07-13 23:53,T4,"Wallace, Matt",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+17393,2020-07-16 00:23,16602,+15661,2020-07-13 23:53,CUT,"Varner III, Harold",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+17393,2020-07-16 00:23,9531,+15661,2020-07-13 23:53,CUT,"Wiesberger, Bernd",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+18549,2020-07-16 00:23,17550,+16704,2020-07-13 23:53,T22,"Van Rooyen, Erik",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+18549,2020-07-16 00:23,11019,+16704,2020-07-13 23:53,T13,"Steele, Brendan",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+18549,2020-07-16 00:23,14509,+16704,2020-07-13 23:53,74,"Dahmen, Joel",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+18549,2020-07-16 00:23,8825,+16704,2020-07-13 23:53,CUT,"Harman, Brian",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23
+0,loss,+20288,2020-07-16 00:23,16283,+18269,2020-07-13 23:53,T18,"Rodgers, Patrick",pinnacle,2020-07-19,the Memorial Tournament presented by Nationwide,win,2020,2020,23

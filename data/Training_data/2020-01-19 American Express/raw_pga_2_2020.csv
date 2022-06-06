@@ -1,0 +1,536 @@
+tour,year,season,event_name,event_id,player_name,dg_id,fin_text,round_num,course_name,course_num,round_score,sg_putt,sg_arg,sg_app,sg_ott,sg_t2g,sg_total,driving_dist,driving_acc,gir,scrambling,prox_rgh,prox_fw
+pga,2020,2020,The American Express,2,"Landry, Andrew",14000,1,1,Stadium Course,704,66,2.392,0.058,1.127,1.077,2.262,4.654,274.1,0.857,0.889,1.0,10.108,30.024
+pga,2020,2020,The American Express,2,"Landry, Andrew",14000,1,2,La Quinta Country Club,202,64,,,,,,5.22,,,,,,
+pga,2020,2020,The American Express,2,"Landry, Andrew",14000,1,3,Nicklaus Tournament Course,233,65,,,,,,4.14,,,,,,
+pga,2020,2020,The American Express,2,"Landry, Andrew",14000,1,4,Stadium Course,704,67,1.221,-1.859,2.755,1.289,2.184,3.405,280.1,0.857,0.833,0.286,14.635,30.797
+pga,2020,2020,The American Express,2,"Ancer, Abraham",18238,2,1,La Quinta Country Club,202,68,,,,,,1.577,,,,,,
+pga,2020,2020,The American Express,2,"Ancer, Abraham",18238,2,2,Nicklaus Tournament Course,233,67,,,,,,1.923,,,,,,
+pga,2020,2020,The American Express,2,"Ancer, Abraham",18238,2,3,Stadium Course,704,66,1.748,-0.782,2.452,0.582,2.252,4.0,279.3,0.714,0.889,0.75,18.186,19.541
+pga,2020,2020,The American Express,2,"Ancer, Abraham",18238,2,4,Stadium Course,704,63,3.009,2.559,1.034,0.804,4.396,7.405,283.2,0.714,0.778,1.0,30.127,32.287
+pga,2020,2020,The American Express,2,"Scheffler, Scottie",18417,3,1,La Quinta Country Club,202,65,,,,,,4.577,,,,,,
+pga,2020,2020,The American Express,2,"Scheffler, Scottie",18417,3,2,Nicklaus Tournament Course,233,64,,,,,,4.923,,,,,,
+pga,2020,2020,The American Express,2,"Scheffler, Scottie",18417,3,3,Stadium Course,704,66,1.088,-0.066,1.532,1.446,2.912,4.0,292.7,0.714,0.889,0.75,41.16,19.62
+pga,2020,2020,The American Express,2,"Scheffler, Scottie",18417,3,4,Stadium Course,704,70,-0.121,0.264,-0.532,0.795,0.526,0.405,285.4,0.571,0.611,0.667,79.857,32.136
+pga,2020,2020,The American Express,2,"Straka, Sepp",17511,T4,1,Nicklaus Tournament Course,233,69,,,,,,0.635,,,,,,
+pga,2020,2020,The American Express,2,"Straka, Sepp",17511,T4,2,Stadium Course,704,65,2.503,-0.679,2.694,0.855,2.87,5.373,282.3,0.714,0.944,1.0,20.75,21.98
+pga,2020,2020,The American Express,2,"Straka, Sepp",17511,T4,3,La Quinta Country Club,202,68,,,,,,0.725,,,,,,
+pga,2020,2020,The American Express,2,"Straka, Sepp",17511,T4,4,Stadium Course,704,66,1.001,-0.449,2.872,0.982,3.404,4.405,293.4,0.643,0.944,0.667,23.976,20.142
+pga,2020,2020,The American Express,2,"Cauley, Bud",14502,T4,1,La Quinta Country Club,202,68,,,,,,1.577,,,,,,
+pga,2020,2020,The American Express,2,"Cauley, Bud",14502,T4,2,Nicklaus Tournament Course,233,64,,,,,,4.923,,,,,,
+pga,2020,2020,The American Express,2,"Cauley, Bud",14502,T4,3,Stadium Course,704,71,1.291,-0.195,-2.339,0.243,-2.291,-1.0,274.6,0.786,0.556,0.8,30.819,33.132
+pga,2020,2020,The American Express,2,"Cauley, Bud",14502,T4,4,Stadium Course,704,65,0.918,-0.021,3.573,0.936,4.487,5.405,280.9,0.786,0.722,0.875,15.245,25.029
+pga,2020,2020,The American Express,2,"Cappelen, Sebastian",14776,T6,1,Nicklaus Tournament Course,233,67,,,,,,2.635,,,,,,
+pga,2020,2020,The American Express,2,"Cappelen, Sebastian",14776,T6,2,Stadium Course,704,70,0.871,-0.87,-0.676,1.048,-0.498,0.373,299.2,0.5,0.722,0.667,35.629,36.55
+pga,2020,2020,The American Express,2,"Cappelen, Sebastian",14776,T6,3,La Quinta Country Club,202,64,,,,,,4.725,,,,,,
+pga,2020,2020,The American Express,2,"Cappelen, Sebastian",14776,T6,4,Stadium Course,704,68,2.143,0.732,-0.384,-0.085,0.262,2.405,287.1,0.5,0.667,0.889,24.697,38.614
+pga,2020,2020,The American Express,2,"Burns, Sam",19483,T6,1,Stadium Course,704,71,-1.158,0.782,-1.125,1.155,0.812,-0.346,285.0,0.714,0.778,0.571,26.311,35.541
+pga,2020,2020,The American Express,2,"Burns, Sam",19483,T6,2,La Quinta Country Club,202,68,,,,,,1.22,,,,,,
+pga,2020,2020,The American Express,2,"Burns, Sam",19483,T6,3,Nicklaus Tournament Course,233,67,,,,,,2.14,,,,,,
+pga,2020,2020,The American Express,2,"Burns, Sam",19483,T6,4,Stadium Course,704,63,2.891,1.764,3.776,-1.025,4.514,7.405,287.0,0.357,0.722,0.889,42.631,20.586
+pga,2020,2020,The American Express,2,"Hoge, Tom",15575,T6,1,Stadium Course,704,66,2.466,0.073,1.939,0.176,2.188,4.654,273.0,0.643,0.722,0.857,15.437,24.114
+pga,2020,2020,The American Express,2,"Hoge, Tom",15575,T6,2,La Quinta Country Club,202,70,,,,,,-0.78,,,,,,
+pga,2020,2020,The American Express,2,"Hoge, Tom",15575,T6,3,Nicklaus Tournament Course,233,66,,,,,,3.14,,,,,,
+pga,2020,2020,The American Express,2,"Hoge, Tom",15575,T6,4,Stadium Course,704,67,-0.229,0.515,2.489,0.631,3.634,3.405,281.8,0.714,0.778,0.667,37.229,28.407
+pga,2020,2020,The American Express,2,"Moore, Ryan",7489,T6,1,La Quinta Country Club,202,68,,,,,,1.577,,,,,,
+pga,2020,2020,The American Express,2,"Moore, Ryan",7489,T6,2,Nicklaus Tournament Course,233,65,,,,,,3.923,,,,,,
+pga,2020,2020,The American Express,2,"Moore, Ryan",7489,T6,3,Stadium Course,704,67,1.385,-1.092,2.599,0.108,1.615,3.0,275.1,0.643,0.778,0.667,42.342,22.081
+pga,2020,2020,The American Express,2,"Moore, Ryan",7489,T6,4,Stadium Course,704,69,-0.202,-0.833,2.689,-0.248,1.607,1.405,281.9,0.571,0.722,0.429,31.297,27.589
+pga,2020,2020,The American Express,2,"Im, Sungjae",17488,T10,1,La Quinta Country Club,202,67,,,,,,2.577,,,,,,
+pga,2020,2020,The American Express,2,"Im, Sungjae",17488,T10,2,Nicklaus Tournament Course,233,66,,,,,,2.923,,,,,,
+pga,2020,2020,The American Express,2,"Im, Sungjae",17488,T10,3,Stadium Course,704,69,-0.079,0.879,-0.098,0.298,1.079,1.0,284.5,0.571,0.722,0.4,23.68,28.149
+pga,2020,2020,The American Express,2,"Im, Sungjae",17488,T10,4,Stadium Course,704,68,2.738,0.679,0.413,-1.424,-0.333,2.405,291.8,0.5,0.556,0.75,30.692,21.947
+pga,2020,2020,The American Express,2,"Fowler, Rickie",12965,T10,1,La Quinta Country Club,202,65,,,,,,4.577,,,,,,
+pga,2020,2020,The American Express,2,"Fowler, Rickie",12965,T10,2,Nicklaus Tournament Course,233,64,,,,,,4.923,,,,,,
+pga,2020,2020,The American Express,2,"Fowler, Rickie",12965,T10,3,Stadium Course,704,70,0.834,-0.466,-1.597,1.229,-0.834,0.0,282.9,0.786,0.722,0.714,26.326,31.442
+pga,2020,2020,The American Express,2,"Fowler, Rickie",12965,T10,4,Stadium Course,704,71,-2.467,-0.361,0.793,1.441,1.872,-0.595,282.5,0.857,0.611,0.636,68.537,29.311
+pga,2020,2020,The American Express,2,"Murray, Grayson",14655,T10,1,Stadium Course,704,64,1.832,2.691,1.194,0.937,4.822,6.654,281.9,0.643,0.778,0.889,51.075,24.748
+pga,2020,2020,The American Express,2,"Murray, Grayson",14655,T10,2,La Quinta Country Club,202,71,,,,,,-1.78,,,,,,
+pga,2020,2020,The American Express,2,"Murray, Grayson",14655,T10,3,Nicklaus Tournament Course,233,69,,,,,,0.14,,,,,,
+pga,2020,2020,The American Express,2,"Murray, Grayson",14655,T10,4,Stadium Course,704,66,1.162,0.83,1.2,1.214,3.243,4.405,291.1,0.571,0.833,1.0,32.612,28.837
+pga,2020,2020,The American Express,2,"Putnam, Andrew",14704,T10,1,La Quinta Country Club,202,67,,,,,,2.577,,,,,,
+pga,2020,2020,The American Express,2,"Putnam, Andrew",14704,T10,2,Nicklaus Tournament Course,233,69,,,,,,-0.077,,,,,,
+pga,2020,2020,The American Express,2,"Putnam, Andrew",14704,T10,3,Stadium Course,704,65,4.323,-1.36,2.127,-0.09,0.677,5.0,269.0,0.714,0.722,0.556,26.322,29.622
+pga,2020,2020,The American Express,2,"Putnam, Andrew",14704,T10,4,Stadium Course,704,69,0.668,1.41,0.562,-1.234,0.737,1.405,268.2,0.571,0.722,0.875,25.755,32.7
+pga,2020,2020,The American Express,2,"Finau, Tony",11676,T14,1,La Quinta Country Club,202,69,,,,,,0.577,,,,,,
+pga,2020,2020,The American Express,2,"Finau, Tony",11676,T14,2,Nicklaus Tournament Course,233,62,,,,,,6.923,,,,,,
+pga,2020,2020,The American Express,2,"Finau, Tony",11676,T14,3,Stadium Course,704,71,-1.195,1.293,-0.773,-0.325,0.195,-1.0,283.2,0.429,0.722,0.667,32.034,28.372
+pga,2020,2020,The American Express,2,"Finau, Tony",11676,T14,4,Stadium Course,704,69,0.65,0.28,0.408,0.068,0.755,1.405,286.0,0.643,0.667,0.667,19.52,32.217
+pga,2020,2020,The American Express,2,"Noren, Alex",10419,T14,1,Nicklaus Tournament Course,233,67,,,,,,2.635,,,,,,
+pga,2020,2020,The American Express,2,"Noren, Alex",10419,T14,2,Stadium Course,704,67,0.361,1.532,1.178,0.302,3.012,3.373,276.0,0.714,0.722,0.857,14.115,33.501
+pga,2020,2020,The American Express,2,"Noren, Alex",10419,T14,3,La Quinta Country Club,202,68,,,,,,0.725,,,,,,
+pga,2020,2020,The American Express,2,"Noren, Alex",10419,T14,4,Stadium Course,704,69,-0.551,0.5,0.639,0.818,1.956,1.405,288.4,0.571,0.722,0.8,36.516,35.682
+pga,2020,2020,The American Express,2,"Schenk, Adam",19477,T14,1,Nicklaus Tournament Course,233,66,,,,,,3.635,,,,,,
+pga,2020,2020,The American Express,2,"Schenk, Adam",19477,T14,2,Stadium Course,704,69,1.236,-0.626,-0.371,1.134,0.137,1.373,296.9,0.571,0.556,0.556,37.836,33.963
+pga,2020,2020,The American Express,2,"Schenk, Adam",19477,T14,3,La Quinta Country Club,202,68,,,,,,0.725,,,,,,
+pga,2020,2020,The American Express,2,"Schenk, Adam",19477,T14,4,Stadium Course,704,68,3.335,0.846,-1.25,-0.525,-0.93,2.405,285.1,0.643,0.556,0.833,36.904,41.415
+pga,2020,2020,The American Express,2,"NeSmith, Matthew",16433,T17,1,Stadium Course,704,68,0.858,-0.478,2.191,0.083,1.796,2.654,280.8,0.5,0.722,0.714,31.967,23.624
+pga,2020,2020,The American Express,2,"NeSmith, Matthew",16433,T17,2,La Quinta Country Club,202,68,,,,,,1.22,,,,,,
+pga,2020,2020,The American Express,2,"NeSmith, Matthew",16433,T17,3,Nicklaus Tournament Course,233,70,,,,,,-0.86,,,,,,
+pga,2020,2020,The American Express,2,"NeSmith, Matthew",16433,T17,4,Stadium Course,704,66,0.758,0.063,3.161,0.424,3.647,4.405,281.4,0.643,0.889,0.667,35.589,31.319
+pga,2020,2020,The American Express,2,"Na, Kevin",7452,T17,1,Nicklaus Tournament Course,233,69,,,,,,0.635,,,,,,
+pga,2020,2020,The American Express,2,"Na, Kevin",7452,T17,2,Stadium Course,704,67,0.478,-0.305,3.16,0.04,2.895,3.373,281.2,0.5,0.889,0.667,21.968,27.575
+pga,2020,2020,The American Express,2,"Na, Kevin",7452,T17,3,La Quinta Country Club,202,69,,,,,,-0.275,,,,,,
+pga,2020,2020,The American Express,2,"Na, Kevin",7452,T17,4,Stadium Course,704,67,2.009,-1.178,2.846,-0.271,1.396,3.405,275.4,0.714,0.889,0.6,42.614,19.433
+pga,2020,2020,The American Express,2,"Gooch, Talor",18580,T17,1,Nicklaus Tournament Course,233,69,,,,,,0.635,,,,,,
+pga,2020,2020,The American Express,2,"Gooch, Talor",18580,T17,2,Stadium Course,704,71,0.056,-0.708,0.794,-0.769,-0.683,-0.627,278.7,0.571,0.722,0.667,28.06,33.726
+pga,2020,2020,The American Express,2,"Gooch, Talor",18580,T17,3,La Quinta Country Club,202,64,,,,,,4.725,,,,,,
+pga,2020,2020,The American Express,2,"Gooch, Talor",18580,T17,4,Stadium Course,704,68,3.052,0.909,-2.375,0.82,-0.647,2.405,285.7,0.643,0.667,0.75,15.96,42.947
+pga,2020,2020,The American Express,2,"Lebioda, Hank",21943,T17,1,Nicklaus Tournament Course,233,65,,,,,,4.635,,,,,,
+pga,2020,2020,The American Express,2,"Lebioda, Hank",21943,T17,2,Stadium Course,704,71,-0.625,1.273,-1.453,0.178,-0.002,-0.627,277.9,0.571,0.722,0.6,40.319,31.267
+pga,2020,2020,The American Express,2,"Lebioda, Hank",21943,T17,3,La Quinta Country Club,202,66,,,,,,2.725,,,,,,
+pga,2020,2020,The American Express,2,"Lebioda, Hank",21943,T17,4,Stadium Course,704,70,-0.473,-1.937,2.506,0.31,0.878,0.405,278.6,0.643,0.722,0.556,57.798,25.961
+pga,2020,2020,The American Express,2,"Wilkinson, Tim",7097,T21,1,La Quinta Country Club,202,71,,,,,,-1.423,,,,,,
+pga,2020,2020,The American Express,2,"Wilkinson, Tim",7097,T21,2,Nicklaus Tournament Course,233,65,,,,,,3.923,,,,,,
+pga,2020,2020,The American Express,2,"Wilkinson, Tim",7097,T21,3,Stadium Course,704,66,2.624,0.844,-0.681,1.213,1.376,4.0,283.2,0.929,0.611,0.75,22.717,24.266
+pga,2020,2020,The American Express,2,"Wilkinson, Tim",7097,T21,4,Stadium Course,704,71,0.352,0.088,-1.621,0.587,-0.947,-0.595,287.4,0.643,0.667,0.889,25.173,40.244
+pga,2020,2020,The American Express,2,"Seiffert, Chase",17509,T21,1,Stadium Course,704,66,3.84,-1.621,1.724,0.711,0.814,4.654,274.1,0.786,0.889,0.8,28.516,20.691
+pga,2020,2020,The American Express,2,"Seiffert, Chase",17509,T21,2,La Quinta Country Club,202,67,,,,,,2.22,,,,,,
+pga,2020,2020,The American Express,2,"Seiffert, Chase",17509,T21,3,Nicklaus Tournament Course,233,67,,,,,,2.14,,,,,,
+pga,2020,2020,The American Express,2,"Seiffert, Chase",17509,T21,4,Stadium Course,704,73,-3.055,0.845,-1.173,0.789,0.46,-2.595,284.7,0.643,0.556,0.5,63.516,36.847
+pga,2020,2020,The American Express,2,"Casey, Paul",7108,T21,1,La Quinta Country Club,202,68,,,,,,1.577,,,,,,
+pga,2020,2020,The American Express,2,"Casey, Paul",7108,T21,2,Nicklaus Tournament Course,233,67,,,,,,1.923,,,,,,
+pga,2020,2020,The American Express,2,"Casey, Paul",7108,T21,3,Stadium Course,704,67,0.54,0.684,1.211,0.565,2.46,3.0,282.4,0.786,0.722,1.0,19.499,24.883
+pga,2020,2020,The American Express,2,"Casey, Paul",7108,T21,4,Stadium Course,704,71,-0.058,-1.893,0.177,1.18,-0.537,-0.595,286.4,0.714,0.722,0.625,18.34,25.931
+pga,2020,2020,The American Express,2,"Lee, Kyoung-Hoon",13497,T21,1,Stadium Course,704,68,0.834,0.306,0.048,1.466,1.82,2.654,283.6,0.857,0.667,0.667,38.323,40.653
+pga,2020,2020,The American Express,2,"Lee, Kyoung-Hoon",13497,T21,2,La Quinta Country Club,202,69,,,,,,0.22,,,,,,
+pga,2020,2020,The American Express,2,"Lee, Kyoung-Hoon",13497,T21,3,Nicklaus Tournament Course,233,68,,,,,,1.14,,,,,,
+pga,2020,2020,The American Express,2,"Lee, Kyoung-Hoon",13497,T21,4,Stadium Course,704,68,2.201,-2.228,0.889,1.544,0.204,2.405,293.1,0.786,0.722,0.7,17.832,30.372
+pga,2020,2020,The American Express,2,"Champ, Cameron",23542,T21,1,Nicklaus Tournament Course,233,67,,,,,,2.635,,,,,,
+pga,2020,2020,The American Express,2,"Champ, Cameron",23542,T21,2,Stadium Course,704,71,1.146,-3.031,-0.031,1.289,-1.773,-0.627,298.7,0.5,0.778,0.375,35.237,30.94
+pga,2020,2020,The American Express,2,"Champ, Cameron",23542,T21,3,La Quinta Country Club,202,68,,,,,,0.725,,,,,,
+pga,2020,2020,The American Express,2,"Champ, Cameron",23542,T21,4,Stadium Course,704,67,1.215,-0.509,1.65,1.05,2.19,3.405,295.5,0.5,0.778,0.625,34.705,31.023
+pga,2020,2020,The American Express,2,"Gligic, Michael",13404,T21,1,Nicklaus Tournament Course,233,69,,,,,,0.635,,,,,,
+pga,2020,2020,The American Express,2,"Gligic, Michael",13404,T21,2,Stadium Course,704,65,2.736,1.349,0.177,1.111,2.637,5.373,286.8,0.714,0.722,0.889,31.259,31.339
+pga,2020,2020,The American Express,2,"Gligic, Michael",13404,T21,3,La Quinta Country Club,202,70,,,,,,-1.275,,,,,,
+pga,2020,2020,The American Express,2,"Gligic, Michael",13404,T21,4,Stadium Course,704,69,-0.304,-0.455,1.012,1.153,1.709,1.405,290.9,0.643,0.889,0.857,28.8,27.863
+pga,2020,2020,The American Express,2,"Munoz, Sebastian",20770,T21,1,Nicklaus Tournament Course,233,67,,,,,,2.635,,,,,,
+pga,2020,2020,The American Express,2,"Munoz, Sebastian",20770,T21,2,Stadium Course,704,68,-1.442,0.347,3.177,0.291,3.815,2.373,286.0,0.571,0.833,0.833,10.193,20.005
+pga,2020,2020,The American Express,2,"Munoz, Sebastian",20770,T21,3,La Quinta Country Club,202,68,,,,,,0.725,,,,,,
+pga,2020,2020,The American Express,2,"Munoz, Sebastian",20770,T21,4,Stadium Course,704,70,-1.538,1.361,1.954,-1.371,1.943,0.405,291.0,0.643,0.611,0.667,34.381,30.99
+pga,2020,2020,The American Express,2,"Harman, Brian",8825,T21,1,La Quinta Country Club,202,67,,,,,,2.577,,,,,,
+pga,2020,2020,The American Express,2,"Harman, Brian",8825,T21,2,Nicklaus Tournament Course,233,67,,,,,,1.923,,,,,,
+pga,2020,2020,The American Express,2,"Harman, Brian",8825,T21,3,Stadium Course,704,69,-1.155,1.142,0.13,0.883,2.155,1.0,279.4,0.786,0.667,0.778,39.321,27.87
+pga,2020,2020,The American Express,2,"Harman, Brian",8825,T21,4,Stadium Course,704,70,-1.92,1.686,0.426,0.214,2.325,0.405,286.3,0.5,0.778,0.6,30.13,30.32
+pga,2020,2020,The American Express,2,"Hadley, Chesson",14967,T29,1,La Quinta Country Club,202,73,,,,,,-3.423,,,,,,
+pga,2020,2020,The American Express,2,"Hadley, Chesson",14967,T29,2,Nicklaus Tournament Course,233,67,,,,,,1.923,,,,,,
+pga,2020,2020,The American Express,2,"Hadley, Chesson",14967,T29,3,Stadium Course,704,64,2.528,-0.518,3.277,0.713,3.472,6.0,282.3,0.714,0.889,0.4,27.613,20.967
+pga,2020,2020,The American Express,2,"Hadley, Chesson",14967,T29,4,Stadium Course,704,70,1.454,0.163,-0.705,-0.506,-1.049,0.405,281.5,0.643,0.722,1.0,25.652,32.843
+pga,2020,2020,The American Express,2,"Berger, Daniel",17606,T29,1,La Quinta Country Club,202,69,,,,,,0.577,,,,,,
+pga,2020,2020,The American Express,2,"Berger, Daniel",17606,T29,2,Nicklaus Tournament Course,233,68,,,,,,0.923,,,,,,
+pga,2020,2020,The American Express,2,"Berger, Daniel",17606,T29,3,Stadium Course,704,69,-0.071,-0.699,1.048,0.722,1.071,1.0,276.9,0.786,0.833,0.4,33.579,27.849
+pga,2020,2020,The American Express,2,"Berger, Daniel",17606,T29,4,Stadium Course,704,68,-0.958,0.399,2.815,0.15,3.363,2.405,283.0,0.5,0.833,0.667,27.257,18.814
+pga,2020,2020,The American Express,2,"Davis, Cameron",17786,T29,1,Nicklaus Tournament Course,233,66,,,,,,3.635,,,,,,
+pga,2020,2020,The American Express,2,"Davis, Cameron",17786,T29,2,Stadium Course,704,67,2.349,2.42,-1.3,-0.096,1.024,3.373,283.8,0.643,0.611,0.9,55.143,26.611
+pga,2020,2020,The American Express,2,"Davis, Cameron",17786,T29,3,La Quinta Country Club,202,72,,,,,,-3.275,,,,,,
+pga,2020,2020,The American Express,2,"Davis, Cameron",17786,T29,4,Stadium Course,704,69,-0.974,0.756,0.347,1.277,2.379,1.405,294.4,0.643,0.833,0.429,23.419,26.251
+pga,2020,2020,The American Express,2,"Martin, Ben",14007,T29,1,Nicklaus Tournament Course,233,72,,,,,,-2.365,,,,,,
+pga,2020,2020,The American Express,2,"Martin, Ben",14007,T29,2,Stadium Course,704,64,2.539,-0.588,3.291,1.131,3.834,6.373,278.7,0.857,0.889,1.0,17.53,21.254
+pga,2020,2020,The American Express,2,"Martin, Ben",14007,T29,3,La Quinta Country Club,202,71,,,,,,-2.275,,,,,,
+pga,2020,2020,The American Express,2,"Martin, Ben",14007,T29,4,Stadium Course,704,67,1.006,1.513,0.907,-0.02,2.399,3.405,280.4,0.714,0.667,0.9,23.948,23.13
+pga,2020,2020,The American Express,2,"Ryder, Sam",16715,T29,1,Stadium Course,704,69,1.586,-0.234,-0.246,0.548,0.068,1.654,275.3,0.643,0.667,0.6,51.709,28.768
+pga,2020,2020,The American Express,2,"Ryder, Sam",16715,T29,2,La Quinta Country Club,202,70,,,,,,-0.78,,,,,,
+pga,2020,2020,The American Express,2,"Ryder, Sam",16715,T29,3,Nicklaus Tournament Course,233,68,,,,,,1.14,,,,,,
+pga,2020,2020,The American Express,2,"Ryder, Sam",16715,T29,4,Stadium Course,704,67,0.632,1.096,1.983,-0.305,2.773,3.405,285.9,0.857,0.722,0.667,6.084,32.673
+pga,2020,2020,The American Express,2,"Redman, Doc",24481,T29,1,Stadium Course,704,68,1.334,-0.252,1.423,0.149,1.32,2.654,274.4,0.571,0.611,0.889,33.572,20.976
+pga,2020,2020,The American Express,2,"Redman, Doc",24481,T29,2,La Quinta Country Club,202,70,,,,,,-0.78,,,,,,
+pga,2020,2020,The American Express,2,"Redman, Doc",24481,T29,3,Nicklaus Tournament Course,233,68,,,,,,1.14,,,,,,
+pga,2020,2020,The American Express,2,"Redman, Doc",24481,T29,4,Stadium Course,704,68,1.538,-0.55,0.393,1.025,0.867,2.405,283.9,0.786,0.833,0.8,23.75,37.435
+pga,2020,2020,The American Express,2,"Whaley, Vincent",25908,T29,1,Nicklaus Tournament Course,233,71,,,,,,-1.365,,,,,,
+pga,2020,2020,The American Express,2,"Whaley, Vincent",25908,T29,2,Stadium Course,704,68,0.592,-0.104,1.456,0.429,1.781,2.373,286.5,0.5,0.778,0.714,29.824,23.057
+pga,2020,2020,The American Express,2,"Whaley, Vincent",25908,T29,3,La Quinta Country Club,202,67,,,,,,1.725,,,,,,
+pga,2020,2020,The American Express,2,"Whaley, Vincent",25908,T29,4,Stadium Course,704,68,1.938,-2.455,2.507,0.416,0.467,2.405,289.2,0.571,0.667,0.545,24.792,24.857
+pga,2020,2020,The American Express,2,"Watney, Nick",7955,T29,1,Stadium Course,704,67,2.251,-0.825,0.839,1.389,1.403,3.654,285.8,0.714,0.778,0.714,32.855,27.626
+pga,2020,2020,The American Express,2,"Watney, Nick",7955,T29,2,La Quinta Country Club,202,71,,,,,,-1.78,,,,,,
+pga,2020,2020,The American Express,2,"Watney, Nick",7955,T29,3,Nicklaus Tournament Course,233,65,,,,,,4.14,,,,,,
+pga,2020,2020,The American Express,2,"Watney, Nick",7955,T29,4,Stadium Course,704,71,-1.406,0.588,1.242,-1.018,0.811,-0.595,285.1,0.643,0.833,0.75,47.638,34.18
+pga,2020,2020,The American Express,2,"Knox, Russell",13831,T37,1,Nicklaus Tournament Course,233,66,,,,,,3.635,,,,,,
+pga,2020,2020,The American Express,2,"Knox, Russell",13831,T37,2,Stadium Course,704,71,-1.289,0.879,1.579,-1.796,0.662,-0.627,279.0,0.571,0.611,0.778,47.488,21.9
+pga,2020,2020,The American Express,2,"Knox, Russell",13831,T37,3,La Quinta Country Club,202,70,,,,,,-1.275,,,,,,
+pga,2020,2020,The American Express,2,"Knox, Russell",13831,T37,4,Stadium Course,704,68,0.52,-0.419,0.992,1.313,1.885,2.405,287.8,0.786,0.778,0.857,26.488,26.133
+pga,2020,2020,The American Express,2,"McNealy, Maverick",18634,T37,1,La Quinta Country Club,202,69,,,,,,0.577,,,,,,
+pga,2020,2020,The American Express,2,"McNealy, Maverick",18634,T37,2,Nicklaus Tournament Course,233,65,,,,,,3.923,,,,,,
+pga,2020,2020,The American Express,2,"McNealy, Maverick",18634,T37,3,Stadium Course,704,71,-1.837,0.295,0.188,0.354,0.837,-1.0,293.0,0.5,0.944,0.833,30.22,18.96
+pga,2020,2020,The American Express,2,"McNealy, Maverick",18634,T37,4,Stadium Course,704,70,0.506,-0.53,0.719,-0.289,-0.101,0.405,285.5,0.357,0.833,0.667,31.716,22.515
+pga,2020,2020,The American Express,2,"Poston, J.T.",21554,T37,1,Nicklaus Tournament Course,233,67,,,,,,2.635,,,,,,
+pga,2020,2020,The American Express,2,"Poston, J.T.",21554,T37,2,Stadium Course,704,69,1.185,-1.402,1.662,-0.072,0.188,1.373,288.8,0.357,0.778,0.571,32.952,29.657
+pga,2020,2020,The American Express,2,"Poston, J.T.",21554,T37,3,La Quinta Country Club,202,69,,,,,,-0.275,,,,,,
+pga,2020,2020,The American Express,2,"Poston, J.T.",21554,T37,4,Stadium Course,704,70,-0.837,-0.155,0.1,1.298,1.242,0.405,286.1,0.786,0.667,0.7,35.203,26.687
+pga,2020,2020,The American Express,2,"Hearn, David",7340,T37,1,La Quinta Country Club,202,71,,,,,,-1.423,,,,,,
+pga,2020,2020,The American Express,2,"Hearn, David",7340,T37,2,Nicklaus Tournament Course,233,68,,,,,,0.923,,,,,,
+pga,2020,2020,The American Express,2,"Hearn, David",7340,T37,3,Stadium Course,704,65,1.86,-0.021,3.76,-0.599,3.14,5.0,273.9,0.5,0.889,0.833,28.766,22.259
+pga,2020,2020,The American Express,2,"Hearn, David",7340,T37,4,Stadium Course,704,71,-0.175,-0.442,-0.429,0.452,-0.42,-0.595,282.6,0.643,0.5,0.583,50.705,40.859
+pga,2020,2020,The American Express,2,"Potter, Jr., Ted",8769,T37,1,Stadium Course,704,70,-1.483,0.003,1.161,0.973,2.137,0.654,277.7,0.786,0.722,0.833,34.394,23.418
+pga,2020,2020,The American Express,2,"Potter, Jr., Ted",8769,T37,2,La Quinta Country Club,202,63,,,,,,6.22,,,,,,
+pga,2020,2020,The American Express,2,"Potter, Jr., Ted",8769,T37,3,Nicklaus Tournament Course,233,73,,,,,,-3.86,,,,,,
+pga,2020,2020,The American Express,2,"Potter, Jr., Ted",8769,T37,4,Stadium Course,704,69,-0.574,0.09,1.929,-0.039,1.979,1.405,280.6,0.5,0.833,0.667,32.785,23.7
+pga,2020,2020,The American Express,2,"Todd, Brendon",12425,T37,1,Nicklaus Tournament Course,233,69,,,,,,0.635,,,,,,
+pga,2020,2020,The American Express,2,"Todd, Brendon",12425,T37,2,Stadium Course,704,68,1.357,-1.433,1.453,0.996,1.016,2.373,279.5,0.857,0.833,0.429,21.85,31.574
+pga,2020,2020,The American Express,2,"Todd, Brendon",12425,T37,3,La Quinta Country Club,202,65,,,,,,3.725,,,,,,
+pga,2020,2020,The American Express,2,"Todd, Brendon",12425,T37,4,Stadium Course,704,73,0.55,0.467,-2.147,-1.464,-3.145,-2.595,268.5,0.786,0.667,0.714,32.071,33.132
+pga,2020,2020,The American Express,2,"Taylor, Vaughn",6930,T43,1,Nicklaus Tournament Course,233,69,,,,,,0.635,,,,,,
+pga,2020,2020,The American Express,2,"Taylor, Vaughn",6930,T43,2,Stadium Course,704,74,-1.174,0.721,-2.116,-1.058,-2.453,-3.627,271.5,0.571,0.5,0.455,38.212,40.904
+pga,2020,2020,The American Express,2,"Taylor, Vaughn",6930,T43,3,La Quinta Country Club,202,64,,,,,,4.725,,,,,,
+pga,2020,2020,The American Express,2,"Taylor, Vaughn",6930,T43,4,Stadium Course,704,69,0.819,-0.222,0.077,0.732,0.586,1.405,274.0,0.857,0.611,0.833,40.02,34.255
+pga,2020,2020,The American Express,2,"Steele, Brendan",11019,T43,1,La Quinta Country Club,202,70,,,,,,-0.423,,,,,,
+pga,2020,2020,The American Express,2,"Steele, Brendan",11019,T43,2,Nicklaus Tournament Course,233,66,,,,,,2.923,,,,,,
+pga,2020,2020,The American Express,2,"Steele, Brendan",11019,T43,3,Stadium Course,704,67,0.755,-0.11,1.559,0.796,2.245,3.0,282.5,0.714,0.833,0.833,24.29,26.387
+pga,2020,2020,The American Express,2,"Steele, Brendan",11019,T43,4,Stadium Course,704,73,3.684,-0.527,-3.245,-2.506,-6.279,-2.595,276.2,0.429,0.556,0.818,37.653,33.468
+pga,2020,2020,The American Express,2,"Burgoon, Bronson",11082,T43,1,Stadium Course,704,72,-2.085,1.32,-0.709,0.128,0.739,-1.346,280.1,0.429,0.722,0.8,19.719,26.557
+pga,2020,2020,The American Express,2,"Burgoon, Bronson",11082,T43,2,La Quinta Country Club,202,66,,,,,,3.22,,,,,,
+pga,2020,2020,The American Express,2,"Burgoon, Bronson",11082,T43,3,Nicklaus Tournament Course,233,69,,,,,,0.14,,,,,,
+pga,2020,2020,The American Express,2,"Burgoon, Bronson",11082,T43,4,Stadium Course,704,69,-1.555,1.743,0.777,0.441,2.96,1.405,279.1,0.643,0.667,0.889,24.861,30.184
+pga,2020,2020,The American Express,2,"Tringale, Cameron",14013,T43,1,Stadium Course,704,69,0.056,1.578,-0.538,0.558,1.598,1.654,283.1,0.5,0.722,1.0,31.146,28.876
+pga,2020,2020,The American Express,2,"Tringale, Cameron",14013,T43,2,La Quinta Country Club,202,69,,,,,,0.22,,,,,,
+pga,2020,2020,The American Express,2,"Tringale, Cameron",14013,T43,3,Nicklaus Tournament Course,233,67,,,,,,2.14,,,,,,
+pga,2020,2020,The American Express,2,"Tringale, Cameron",14013,T43,4,Stadium Course,704,71,-0.194,0.599,-1.164,0.165,-0.401,-0.595,286.2,0.5,0.556,0.692,42.498,37.315
+pga,2020,2020,The American Express,2,"Hubbard, Mark",16333,T43,1,Nicklaus Tournament Course,233,69,,,,,,0.635,,,,,,
+pga,2020,2020,The American Express,2,"Hubbard, Mark",16333,T43,2,Stadium Course,704,71,0.395,0.815,-2.192,0.355,-1.022,-0.627,271.9,0.786,0.722,0.857,23.422,37.439
+pga,2020,2020,The American Express,2,"Hubbard, Mark",16333,T43,3,La Quinta Country Club,202,67,,,,,,1.725,,,,,,
+pga,2020,2020,The American Express,2,"Hubbard, Mark",16333,T43,4,Stadium Course,704,69,-0.273,0.087,0.796,0.796,1.678,1.405,277.6,0.786,0.833,0.667,36.906,18.252
+pga,2020,2020,The American Express,2,"Homa, Max",17538,T48,1,Stadium Course,704,71,-0.472,-1.38,0.332,1.174,0.126,-0.346,281.4,0.714,0.778,0.4,14.583,24.259
+pga,2020,2020,The American Express,2,"Homa, Max",17538,T48,2,La Quinta Country Club,202,68,,,,,,1.22,,,,,,
+pga,2020,2020,The American Express,2,"Homa, Max",17538,T48,3,Nicklaus Tournament Course,233,63,,,,,,6.14,,,,,,
+pga,2020,2020,The American Express,2,"Homa, Max",17538,T48,4,Stadium Course,704,75,-1.597,-1.412,-1.536,-0.049,-2.998,-4.595,281.8,0.5,0.611,0.417,66.715,30.36
+pga,2020,2020,The American Express,2,"English, Harris",14577,T48,1,Nicklaus Tournament Course,233,71,,,,,,-1.365,,,,,,
+pga,2020,2020,The American Express,2,"English, Harris",14577,T48,2,Stadium Course,704,68,0.384,0.226,1.666,0.097,1.989,2.373,281.6,0.5,0.889,0.6,26.262,28.222
+pga,2020,2020,The American Express,2,"English, Harris",14577,T48,3,La Quinta Country Club,202,64,,,,,,4.725,,,,,,
+pga,2020,2020,The American Express,2,"English, Harris",14577,T48,4,Stadium Course,704,74,-1.528,0.372,-3.69,1.252,-2.067,-3.595,281.0,0.857,0.667,0.75,25.035,33.965
+pga,2020,2020,The American Express,2,"Sabbatini, Rory",6283,T48,1,Nicklaus Tournament Course,233,70,,,,,,-0.365,,,,,,
+pga,2020,2020,The American Express,2,"Sabbatini, Rory",6283,T48,2,Stadium Course,704,70,-0.997,0.0,0.502,0.868,1.37,0.373,283.1,0.714,0.944,1.0,22.997,31.002
+pga,2020,2020,The American Express,2,"Sabbatini, Rory",6283,T48,3,La Quinta Country Club,202,67,,,,,,1.725,,,,,,
+pga,2020,2020,The American Express,2,"Sabbatini, Rory",6283,T48,4,Stadium Course,704,70,0.168,1.295,-2.249,1.192,0.237,0.405,282.3,0.786,0.722,0.778,24.44,27.31
+pga,2020,2020,The American Express,2,"McCarthy, Denny",19870,T48,1,Stadium Course,704,71,0.948,-0.831,-1.016,0.553,-1.294,-0.346,277.3,0.714,0.722,0.75,29.593,34.228
+pga,2020,2020,The American Express,2,"McCarthy, Denny",19870,T48,2,La Quinta Country Club,202,68,,,,,,1.22,,,,,,
+pga,2020,2020,The American Express,2,"McCarthy, Denny",19870,T48,3,Nicklaus Tournament Course,233,65,,,,,,4.14,,,,,,
+pga,2020,2020,The American Express,2,"McCarthy, Denny",19870,T48,4,Stadium Course,704,73,-0.142,-1.748,1.516,-2.22,-2.453,-2.595,276.2,0.429,0.611,0.583,33.687,32.753
+pga,2020,2020,The American Express,2,"Huh, John",14606,T48,1,Nicklaus Tournament Course,233,67,,,,,,2.635,,,,,,
+pga,2020,2020,The American Express,2,"Huh, John",14606,T48,2,Stadium Course,704,69,-0.435,0.872,-0.272,1.208,1.808,1.373,276.8,0.929,0.722,0.667,31.179,29.14
+pga,2020,2020,The American Express,2,"Huh, John",14606,T48,3,La Quinta Country Club,202,69,,,,,,-0.275,,,,,,
+pga,2020,2020,The American Express,2,"Huh, John",14606,T48,4,Stadium Course,704,72,-0.064,0.003,-0.5,-1.033,-1.531,-1.595,272.4,0.5,0.722,0.571,60.064,36.705
+pga,2020,2020,The American Express,2,"Ortiz, Carlos",14735,T48,1,Stadium Course,704,71,1.861,-0.372,-0.993,-0.842,-2.207,-0.346,278.7,0.571,0.556,0.625,26.476,28.725
+pga,2020,2020,The American Express,2,"Ortiz, Carlos",14735,T48,2,La Quinta Country Club,202,70,,,,,,-0.78,,,,,,
+pga,2020,2020,The American Express,2,"Ortiz, Carlos",14735,T48,3,Nicklaus Tournament Course,233,66,,,,,,3.14,,,,,,
+pga,2020,2020,The American Express,2,"Ortiz, Carlos",14735,T48,4,Stadium Course,704,70,-0.199,1.07,0.745,-1.21,0.604,0.405,289.9,0.571,0.611,0.818,43.705,33.605
+pga,2020,2020,The American Express,2,"Hagy, Brandon",18695,T48,1,Stadium Course,704,74,0.043,0.058,-2.647,-0.8,-3.389,-3.346,278.1,0.5,0.667,0.625,40.104,25.113
+pga,2020,2020,The American Express,2,"Hagy, Brandon",18695,T48,2,La Quinta Country Club,202,63,,,,,,6.22,,,,,,
+pga,2020,2020,The American Express,2,"Hagy, Brandon",18695,T48,3,Nicklaus Tournament Course,233,69,,,,,,0.14,,,,,,
+pga,2020,2020,The American Express,2,"Hagy, Brandon",18695,T48,4,Stadium Course,704,71,-0.607,1.983,-3.406,1.436,0.012,-0.595,295.4,0.643,0.667,0.667,31.765,34.581
+pga,2020,2020,The American Express,2,"Brehm, Ryan",10423,T55,1,Stadium Course,704,69,0.829,-0.37,0.374,0.821,0.825,1.654,296.4,0.429,0.778,0.625,31.547,30.468
+pga,2020,2020,The American Express,2,"Brehm, Ryan",10423,T55,2,La Quinta Country Club,202,67,,,,,,2.22,,,,,,
+pga,2020,2020,The American Express,2,"Brehm, Ryan",10423,T55,3,Nicklaus Tournament Course,233,71,,,,,,-1.86,,,,,,
+pga,2020,2020,The American Express,2,"Brehm, Ryan",10423,T55,4,Stadium Course,704,71,-1.709,0.358,-0.511,1.268,1.114,-0.595,306.6,0.5,0.778,0.714,17.293,33.244
+pga,2020,2020,The American Express,2,"Gomez, Fabian",8571,T55,1,Stadium Course,704,69,1.352,-0.267,0.127,0.442,0.302,1.654,271.3,0.786,0.611,0.667,23.166,33.478
+pga,2020,2020,The American Express,2,"Gomez, Fabian",8571,T55,2,La Quinta Country Club,202,70,,,,,,-0.78,,,,,,
+pga,2020,2020,The American Express,2,"Gomez, Fabian",8571,T55,3,Nicklaus Tournament Course,233,67,,,,,,2.14,,,,,,
+pga,2020,2020,The American Express,2,"Gomez, Fabian",8571,T55,4,Stadium Course,704,72,-0.424,-0.57,-0.606,0.006,-1.171,-1.595,279.2,0.571,0.611,0.667,42.009,29.895
+pga,2020,2020,The American Express,2,"Dufner, Jason",7301,T55,1,Stadium Course,704,67,-0.637,0.166,3.551,0.574,4.291,3.654,272.3,0.786,0.889,1.0,15.352,25.097
+pga,2020,2020,The American Express,2,"Dufner, Jason",7301,T55,2,La Quinta Country Club,202,71,,,,,,-1.78,,,,,,
+pga,2020,2020,The American Express,2,"Dufner, Jason",7301,T55,3,Nicklaus Tournament Course,233,69,,,,,,0.14,,,,,,
+pga,2020,2020,The American Express,2,"Dufner, Jason",7301,T55,4,Stadium Course,704,71,-1.808,0.731,-0.382,0.865,1.213,-0.595,279.3,0.786,0.556,0.667,48.63,25.408
+pga,2020,2020,The American Express,2,"Blair, Zac",17639,T55,1,La Quinta Country Club,202,64,,,,,,5.577,,,,,,
+pga,2020,2020,The American Express,2,"Blair, Zac",17639,T55,2,Nicklaus Tournament Course,233,70,,,,,,-1.077,,,,,,
+pga,2020,2020,The American Express,2,"Blair, Zac",17639,T55,3,Stadium Course,704,71,0.318,-2.4,1.489,-0.407,-1.318,-1.0,275.4,0.714,0.667,0.545,24.063,27.709
+pga,2020,2020,The American Express,2,"Blair, Zac",17639,T55,4,Stadium Course,704,73,-1.337,-0.179,1.371,-2.449,-1.258,-2.595,283.3,0.429,0.722,0.8,44.37,16.994
+pga,2020,2020,The American Express,2,"Vegas, Jhonattan",13508,T55,1,Nicklaus Tournament Course,233,68,,,,,,1.635,,,,,,
+pga,2020,2020,The American Express,2,"Vegas, Jhonattan",13508,T55,2,Stadium Course,704,69,-0.067,1.177,-0.636,0.899,1.44,1.373,287.2,0.714,0.722,0.833,33.044,23.812
+pga,2020,2020,The American Express,2,"Vegas, Jhonattan",13508,T55,3,La Quinta Country Club,202,70,,,,,,-1.275,,,,,,
+pga,2020,2020,The American Express,2,"Vegas, Jhonattan",13508,T55,4,Stadium Course,704,71,0.155,-2.23,-0.035,1.516,-0.75,-0.595,291.2,0.714,0.722,0.5,36.529,37.922
+pga,2020,2020,The American Express,2,"Stallings, Scott",12359,T55,1,Nicklaus Tournament Course,233,67,,,,,,2.635,,,,,,
+pga,2020,2020,The American Express,2,"Stallings, Scott",12359,T55,2,Stadium Course,704,71,-1.528,0.248,-0.187,0.84,0.901,-0.627,281.6,0.714,0.778,0.667,38.765,26.011
+pga,2020,2020,The American Express,2,"Stallings, Scott",12359,T55,3,La Quinta Country Club,202,67,,,,,,1.725,,,,,,
+pga,2020,2020,The American Express,2,"Stallings, Scott",12359,T55,4,Stadium Course,704,73,-2.086,0.928,-1.289,-0.147,-0.509,-2.595,281.0,0.643,0.667,0.778,33.143,36.578
+pga,2020,2020,The American Express,2,"Hoffman, Charley",5768,T61,1,La Quinta Country Club,202,74,,,,,,-4.423,,,,,,
+pga,2020,2020,The American Express,2,"Hoffman, Charley",5768,T61,2,Nicklaus Tournament Course,233,63,,,,,,5.923,,,,,,
+pga,2020,2020,The American Express,2,"Hoffman, Charley",5768,T61,3,Stadium Course,704,69,0.259,-1.113,2.264,-0.41,0.741,1.0,289.2,0.357,0.778,0.714,22.574,25.34
+pga,2020,2020,The American Express,2,"Hoffman, Charley",5768,T61,4,Stadium Course,704,73,-2.141,0.739,1.349,-2.541,-0.454,-2.595,282.2,0.357,0.833,1.0,28.992,29.719
+pga,2020,2020,The American Express,2,"Wolff, Matthew",25919,T61,1,La Quinta Country Club,202,67,,,,,,2.577,,,,,,
+pga,2020,2020,The American Express,2,"Wolff, Matthew",25919,T61,2,Nicklaus Tournament Course,233,69,,,,,,-0.077,,,,,,
+pga,2020,2020,The American Express,2,"Wolff, Matthew",25919,T61,3,Stadium Course,704,71,0.1,-2.317,-0.627,1.844,-1.1,-1.0,296.9,0.714,0.833,0.429,48.602,24.186
+pga,2020,2020,The American Express,2,"Wolff, Matthew",25919,T61,4,Stadium Course,704,72,1.149,-2.987,-1.128,1.372,-2.744,-1.595,298.5,0.571,0.722,0.4,51.961,30.942
+pga,2020,2020,The American Express,2,"Piercy, Scott",7899,T61,1,La Quinta Country Club,202,67,,,,,,2.577,,,,,,
+pga,2020,2020,The American Express,2,"Piercy, Scott",7899,T61,2,Nicklaus Tournament Course,233,68,,,,,,0.923,,,,,,
+pga,2020,2020,The American Express,2,"Piercy, Scott",7899,T61,3,Stadium Course,704,72,-1.32,0.304,-0.311,-0.673,-0.68,-2.0,272.0,0.714,0.667,0.857,17.74,33.264
+pga,2020,2020,The American Express,2,"Piercy, Scott",7899,T61,4,Stadium Course,704,72,-0.584,-0.515,-1.623,1.128,-1.011,-1.595,279.4,0.857,0.667,0.778,17.842,34.107
+pga,2020,2020,The American Express,2,"Duncan, Tyler",18187,T64,1,Nicklaus Tournament Course,233,66,,,,,,3.635,,,,,,
+pga,2020,2020,The American Express,2,"Duncan, Tyler",18187,T64,2,Stadium Course,704,73,-0.481,-1.236,0.333,-1.243,-2.146,-2.627,276.1,0.643,0.667,0.714,33.758,32.242
+pga,2020,2020,The American Express,2,"Duncan, Tyler",18187,T64,3,La Quinta Country Club,202,67,,,,,,1.725,,,,,,
+pga,2020,2020,The American Express,2,"Duncan, Tyler",18187,T64,4,Stadium Course,704,74,-1.464,0.014,-1.303,-0.841,-2.131,-3.595,273.5,0.357,0.667,0.778,29.132,32.683
+pga,2020,2020,The American Express,2,"Rodgers, Patrick",16283,T64,1,Stadium Course,704,69,1.971,1.363,-2.564,0.884,-0.317,1.654,293.0,0.5,0.667,0.889,18.226,30.339
+pga,2020,2020,The American Express,2,"Rodgers, Patrick",16283,T64,2,La Quinta Country Club,202,66,,,,,,3.22,,,,,,
+pga,2020,2020,The American Express,2,"Rodgers, Patrick",16283,T64,3,Nicklaus Tournament Course,233,72,,,,,,-2.86,,,,,,
+pga,2020,2020,The American Express,2,"Rodgers, Patrick",16283,T64,4,Stadium Course,704,73,1.544,-0.208,-1.744,-2.186,-4.139,-2.595,296.2,0.429,0.722,0.8,35.383,29.87
+pga,2020,2020,The American Express,2,"McCumber, Tyler",17584,T64,1,Stadium Course,704,67,-1.806,1.968,1.653,1.839,5.46,3.654,294.8,0.714,0.833,0.833,30.146,28.197
+pga,2020,2020,The American Express,2,"McCumber, Tyler",17584,T64,2,La Quinta Country Club,202,71,,,,,,-1.78,,,,,,
+pga,2020,2020,The American Express,2,"McCumber, Tyler",17584,T64,3,Nicklaus Tournament Course,233,69,,,,,,0.14,,,,,,
+pga,2020,2020,The American Express,2,"McCumber, Tyler",17584,T64,4,Stadium Course,704,73,-1.947,-0.449,0.556,-0.754,-0.648,-2.595,297.3,0.357,0.611,0.583,17.583,43.419
+pga,2020,2020,The American Express,2,"Roach, Wes",15720,T64,1,La Quinta Country Club,202,68,,,,,,1.577,,,,,,
+pga,2020,2020,The American Express,2,"Roach, Wes",15720,T64,2,Nicklaus Tournament Course,233,65,,,,,,3.923,,,,,,
+pga,2020,2020,The American Express,2,"Roach, Wes",15720,T64,3,Stadium Course,704,69,-0.599,1.115,-0.583,1.067,1.599,1.0,276.0,0.929,0.778,0.857,66.885,29.874
+pga,2020,2020,The American Express,2,"Roach, Wes",15720,T64,4,Stadium Course,704,78,0.459,0.48,-6.056,-2.477,-8.054,-7.595,272.2,0.357,0.5,0.727,41.995,39.447
+pga,2020,2020,The American Express,2,"Merritt, Troy",13367,T68,1,Stadium Course,704,71,-1.755,-0.135,1.403,0.141,1.409,-0.346,268.4,0.857,0.778,0.667,5.99,21.307
+pga,2020,2020,The American Express,2,"Merritt, Troy",13367,T68,2,La Quinta Country Club,202,68,,,,,,1.22,,,,,,
+pga,2020,2020,The American Express,2,"Merritt, Troy",13367,T68,3,Nicklaus Tournament Course,233,68,,,,,,1.14,,,,,,
+pga,2020,2020,The American Express,2,"Merritt, Troy",13367,T68,4,Stadium Course,704,74,-1.124,-2.326,-0.668,0.524,-2.471,-3.595,278.4,0.714,0.667,0.417,39.558,44.848
+pga,2020,2020,The American Express,2,"Teater, Josh",8085,T68,1,La Quinta Country Club,202,67,,,,,,2.577,,,,,,
+pga,2020,2020,The American Express,2,"Teater, Josh",8085,T68,2,Nicklaus Tournament Course,233,70,,,,,,-1.077,,,,,,
+pga,2020,2020,The American Express,2,"Teater, Josh",8085,T68,3,Stadium Course,704,69,-0.32,0.498,-0.109,0.931,1.32,1.0,277.8,0.857,0.833,0.8,23.712,25.978
+pga,2020,2020,The American Express,2,"Teater, Josh",8085,T68,4,Stadium Course,704,75,-1.82,0.766,0.369,-3.909,-2.775,-4.595,279.4,0.643,0.611,0.75,7.812,35.287
+pga,2020,2020,The American Express,2,"Norlander, Henrik",11657,T68,1,Stadium Course,704,75,-0.327,-1.878,-0.622,-1.519,-4.019,-4.346,274.3,0.643,0.389,0.533,54.175,30.537
+pga,2020,2020,The American Express,2,"Norlander, Henrik",11657,T68,2,La Quinta Country Club,202,66,,,,,,3.22,,,,,,
+pga,2020,2020,The American Express,2,"Norlander, Henrik",11657,T68,3,Nicklaus Tournament Course,233,66,,,,,,3.14,,,,,,
+pga,2020,2020,The American Express,2,"Norlander, Henrik",11657,T68,4,Stadium Course,704,74,0.025,0.658,-2.513,-1.764,-3.62,-3.595,277.7,0.571,0.5,0.636,27.585,37.453
+pga,2020,2020,The American Express,2,"Trahan, D.J.",7236,T68,1,Stadium Course,704,69,-2.576,-0.2,3.843,0.587,4.23,1.654,281.8,0.5,0.944,0.5,24.017,25.248
+pga,2020,2020,The American Express,2,"Trahan, D.J.",7236,T68,2,La Quinta Country Club,202,69,,,,,,0.22,,,,,,
+pga,2020,2020,The American Express,2,"Trahan, D.J.",7236,T68,3,Nicklaus Tournament Course,233,69,,,,,,0.14,,,,,,
+pga,2020,2020,The American Express,2,"Trahan, D.J.",7236,T68,4,Stadium Course,704,74,-1.346,-0.825,-2.423,1.0,-2.249,-3.595,283.5,0.786,0.667,0.625,13.252,32.729
+pga,2020,2020,The American Express,2,"Stuard, Brian",13022,72,1,Nicklaus Tournament Course,233,67,,,,,,2.635,,,,,,
+pga,2020,2020,The American Express,2,"Stuard, Brian",13022,72,2,Stadium Course,704,70,-1.025,0.69,0.673,0.035,1.398,0.373,271.1,0.714,0.722,0.5,45.193,20.16
+pga,2020,2020,The American Express,2,"Stuard, Brian",13022,72,3,La Quinta Country Club,202,70,,,,,,-1.275,,,,,,
+pga,2020,2020,The American Express,2,"Stuard, Brian",13022,72,4,Stadium Course,704,75,-0.919,0.325,-2.189,-1.811,-3.676,-4.595,275.7,0.571,0.5,0.889,30.254,30.792
+pga,2020,2020,The American Express,2,"Lahiri, Anirban",12669,73,1,Nicklaus Tournament Course,233,70,,,,,,-0.365,,,,,,
+pga,2020,2020,The American Express,2,"Lahiri, Anirban",12669,73,2,Stadium Course,704,70,-0.19,0.055,0.228,0.28,0.563,0.373,282.3,0.643,0.722,0.667,27.105,19.592
+pga,2020,2020,The American Express,2,"Lahiri, Anirban",12669,73,3,La Quinta Country Club,202,66,,,,,,2.725,,,,,,
+pga,2020,2020,The American Express,2,"Lahiri, Anirban",12669,73,4,Stadium Course,704,77,-0.65,-0.89,-3.72,-1.334,-5.945,-6.595,287.1,0.643,0.667,0.444,33.379,39.048
+pga,2020,2020,The American Express,2,"Every, Matt",10185,74,1,Nicklaus Tournament Course,233,70,,,,,,-0.365,,,,,,
+pga,2020,2020,The American Express,2,"Every, Matt",10185,74,2,Stadium Course,704,67,0.55,0.574,1.09,1.159,2.823,3.373,288.1,0.714,0.667,0.889,26.25,25.416
+pga,2020,2020,The American Express,2,"Every, Matt",10185,74,3,La Quinta Country Club,202,68,,,,,,0.725,,,,,,
+pga,2020,2020,The American Express,2,"Every, Matt",10185,74,4,Stadium Course,704,82,-4.122,-1.16,-6.706,0.394,-7.473,-11.595,284.8,0.643,0.611,0.333,72.821,28.804
+pga,2020,2020,The American Express,2,"Walker, Jimmy",7293,CUT,1,Stadium Course,704,71,-0.745,-0.285,1.22,-0.536,0.399,-0.346,273.7,0.357,0.667,0.429,33.751,28.446
+pga,2020,2020,The American Express,2,"Walker, Jimmy",7293,CUT,2,La Quinta Country Club,202,68,,,,,,1.22,,,,,,
+pga,2020,2020,The American Express,2,"Walker, Jimmy",7293,CUT,3,Nicklaus Tournament Course,233,69,,,,,,0.14,,,,,,
+pga,2020,2020,The American Express,2,"Percy, Cameron",5874,CUT,1,Stadium Course,704,74,-2.672,-0.765,0.187,-0.096,-0.674,-3.346,277.1,0.429,0.611,0.286,22.581,43.651
+pga,2020,2020,The American Express,2,"Percy, Cameron",5874,CUT,2,La Quinta Country Club,202,66,,,,,,3.22,,,,,,
+pga,2020,2020,The American Express,2,"Percy, Cameron",5874,CUT,3,Nicklaus Tournament Course,233,68,,,,,,1.14,,,,,,
+pga,2020,2020,The American Express,2,"Glover, Lucas",7399,CUT,1,Nicklaus Tournament Course,233,67,,,,,,2.635,,,,,,
+pga,2020,2020,The American Express,2,"Glover, Lucas",7399,CUT,2,Stadium Course,704,76,-2.599,-1.676,-1.733,0.381,-3.028,-5.627,278.1,0.714,0.611,0.444,38.172,28.809
+pga,2020,2020,The American Express,2,"Glover, Lucas",7399,CUT,3,La Quinta Country Club,202,65,,,,,,3.725,,,,,,
+pga,2020,2020,The American Express,2,"Streelman, Kevin",8480,CUT,1,La Quinta Country Club,202,67,,,,,,2.577,,,,,,
+pga,2020,2020,The American Express,2,"Streelman, Kevin",8480,CUT,2,Nicklaus Tournament Course,233,70,,,,,,-1.077,,,,,,
+pga,2020,2020,The American Express,2,"Streelman, Kevin",8480,CUT,3,Stadium Course,704,71,-2.438,0.913,-0.027,0.552,1.438,-1.0,280.7,0.643,0.778,0.625,39.122,24.653
+pga,2020,2020,The American Express,2,"Reavie, Chez",7961,CUT,1,Stadium Course,704,71,-1.701,1.157,-0.879,1.077,1.355,-0.346,272.7,0.929,0.778,0.75,72.386,27.848
+pga,2020,2020,The American Express,2,"Reavie, Chez",7961,CUT,2,La Quinta Country Club,202,70,,,,,,-0.78,,,,,,
+pga,2020,2020,The American Express,2,"Reavie, Chez",7961,CUT,3,Nicklaus Tournament Course,233,67,,,,,,2.14,,,,,,
+pga,2020,2020,The American Express,2,"Gellerman, Michael",19909,CUT,1,Nicklaus Tournament Course,233,71,,,,,,-1.365,,,,,,
+pga,2020,2020,The American Express,2,"Gellerman, Michael",19909,CUT,2,Stadium Course,704,71,-0.675,-1.921,2.166,-0.197,0.048,-0.627,285.3,0.429,0.611,0.5,34.036,30.965
+pga,2020,2020,The American Express,2,"Gellerman, Michael",19909,CUT,3,La Quinta Country Club,202,66,,,,,,2.725,,,,,,
+pga,2020,2020,The American Express,2,"Taylor, Ben",19948,CUT,1,Stadium Course,704,71,-0.625,-0.138,1.648,-1.231,0.279,-0.346,275.5,0.286,0.667,0.857,42.584,20.012
+pga,2020,2020,The American Express,2,"Taylor, Ben",19948,CUT,2,La Quinta Country Club,202,70,,,,,,-0.78,,,,,,
+pga,2020,2020,The American Express,2,"Taylor, Ben",19948,CUT,3,Nicklaus Tournament Course,233,67,,,,,,2.14,,,,,,
+pga,2020,2020,The American Express,2,"Henley, Russell",14578,CUT,1,Nicklaus Tournament Course,233,68,,,,,,1.635,,,,,,
+pga,2020,2020,The American Express,2,"Henley, Russell",14578,CUT,2,Stadium Course,704,70,0.985,0.661,-1.015,-0.258,-0.612,0.373,277.1,0.571,0.667,0.429,57.76,25.102
+pga,2020,2020,The American Express,2,"Henley, Russell",14578,CUT,3,La Quinta Country Club,202,71,,,,,,-2.275,,,,,,
+pga,2020,2020,The American Express,2,"Clark, Wyndham",23604,CUT,1,La Quinta Country Club,202,71,,,,,,-1.423,,,,,,
+pga,2020,2020,The American Express,2,"Clark, Wyndham",23604,CUT,2,Nicklaus Tournament Course,233,68,,,,,,0.923,,,,,,
+pga,2020,2020,The American Express,2,"Clark, Wyndham",23604,CUT,3,Stadium Course,704,70,0.388,0.482,-0.268,-0.602,-0.388,0.0,282.4,0.357,0.667,0.857,29.619,29.62
+pga,2020,2020,The American Express,2,"Higgs, Harry",14140,CUT,1,Nicklaus Tournament Course,233,74,,,,,,-4.365,,,,,,
+pga,2020,2020,The American Express,2,"Higgs, Harry",14140,CUT,2,Stadium Course,704,72,-0.603,-0.126,-1.727,0.829,-1.024,-1.627,287.3,0.643,0.722,0.778,24.045,35.034
+pga,2020,2020,The American Express,2,"Higgs, Harry",14140,CUT,3,La Quinta Country Club,202,63,,,,,,5.725,,,,,,
+pga,2020,2020,The American Express,2,"Varner III, Harold",16602,CUT,1,La Quinta Country Club,202,69,,,,,,0.577,,,,,,
+pga,2020,2020,The American Express,2,"Varner III, Harold",16602,CUT,2,Nicklaus Tournament Course,233,72,,,,,,-3.077,,,,,,
+pga,2020,2020,The American Express,2,"Varner III, Harold",16602,CUT,3,Stadium Course,704,68,-0.264,0.016,1.186,1.062,2.264,2.0,283.5,0.714,0.944,0.8,29.142,25.166
+pga,2020,2020,The American Express,2,"Van Pelt, Bo",6457,CUT,1,La Quinta Country Club,202,72,,,,,,-2.423,,,,,,
+pga,2020,2020,The American Express,2,"Van Pelt, Bo",6457,CUT,2,Nicklaus Tournament Course,233,67,,,,,,1.923,,,,,,
+pga,2020,2020,The American Express,2,"Van Pelt, Bo",6457,CUT,3,Stadium Course,704,70,-0.147,1.32,-1.928,0.755,0.147,0.0,274.1,0.857,0.556,0.909,35.657,35.237
+pga,2020,2020,The American Express,2,"Ventura, Kristoffer",15651,CUT,1,La Quinta Country Club,202,73,,,,,,-3.423,,,,,,
+pga,2020,2020,The American Express,2,"Ventura, Kristoffer",15651,CUT,2,Nicklaus Tournament Course,233,69,,,,,,-0.077,,,,,,
+pga,2020,2020,The American Express,2,"Ventura, Kristoffer",15651,CUT,3,Stadium Course,704,67,2.412,-0.613,0.602,0.599,0.588,3.0,287.7,0.714,0.778,0.5,32.541,34.857
+pga,2020,2020,The American Express,2,"Baker, Chris",13971,CUT,1,Nicklaus Tournament Course,233,71,,,,,,-1.365,,,,,,
+pga,2020,2020,The American Express,2,"Baker, Chris",13971,CUT,2,Stadium Course,704,69,1.033,-0.471,-0.039,0.85,0.34,1.373,276.6,0.857,0.722,0.778,20.102,33.345
+pga,2020,2020,The American Express,2,"Baker, Chris",13971,CUT,3,La Quinta Country Club,202,69,,,,,,-0.275,,,,,,
+pga,2020,2020,The American Express,2,"Taylor, Nick",13126,CUT,1,La Quinta Country Club,202,67,,,,,,2.577,,,,,,
+pga,2020,2020,The American Express,2,"Taylor, Nick",13126,CUT,2,Nicklaus Tournament Course,233,68,,,,,,0.923,,,,,,
+pga,2020,2020,The American Express,2,"Taylor, Nick",13126,CUT,3,Stadium Course,704,74,-0.642,-1.168,-2.207,0.017,-3.358,-4.0,285.6,0.571,0.5,0.643,44.451,30.944
+pga,2020,2020,The American Express,2,"Stanley, Kyle",12069,CUT,1,La Quinta Country Club,202,70,,,,,,-0.423,,,,,,
+pga,2020,2020,The American Express,2,"Stanley, Kyle",12069,CUT,2,Nicklaus Tournament Course,233,68,,,,,,0.923,,,,,,
+pga,2020,2020,The American Express,2,"Stanley, Kyle",12069,CUT,3,Stadium Course,704,71,-0.248,0.562,-0.194,-1.12,-0.752,-1.0,268.1,0.571,0.667,0.625,45.087,27.623
+pga,2020,2020,The American Express,2,"Sucher, Zack",14036,CUT,1,Nicklaus Tournament Course,233,72,,,,,,-2.365,,,,,,
+pga,2020,2020,The American Express,2,"Sucher, Zack",14036,CUT,2,Stadium Course,704,68,1.537,0.317,0.55,-0.031,0.836,2.373,287.7,0.357,0.778,0.8,30.202,27.759
+pga,2020,2020,The American Express,2,"Sucher, Zack",14036,CUT,3,La Quinta Country Club,202,69,,,,,,-0.275,,,,,,
+pga,2020,2020,The American Express,2,"Salinda, Isaiah",27183,CUT,1,Nicklaus Tournament Course,233,67,,,,,,2.635,,,,,,
+pga,2020,2020,The American Express,2,"Salinda, Isaiah",27183,CUT,2,Stadium Course,704,70,-0.273,1.13,-1.374,0.89,0.646,0.373,282.6,0.643,0.722,1.0,30.063,32.197
+pga,2020,2020,The American Express,2,"Salinda, Isaiah",27183,CUT,3,La Quinta Country Club,202,72,,,,,,-3.275,,,,,,
+pga,2020,2020,The American Express,2,"Sloan, Roger",14050,CUT,1,Nicklaus Tournament Course,233,66,,,,,,3.635,,,,,,
+pga,2020,2020,The American Express,2,"Sloan, Roger",14050,CUT,2,Stadium Course,704,71,-1.047,0.285,-0.822,0.957,0.42,-0.627,280.8,0.786,0.778,0.778,26.111,41.0
+pga,2020,2020,The American Express,2,"Sloan, Roger",14050,CUT,3,La Quinta Country Club,202,72,,,,,,-3.275,,,,,,
+pga,2020,2020,The American Express,2,"Laird, Martin",9586,CUT,1,Stadium Course,704,69,-1.248,-0.081,2.288,0.695,2.902,1.654,278.2,0.714,0.722,0.6,23.838,23.701
+pga,2020,2020,The American Express,2,"Laird, Martin",9586,CUT,2,La Quinta Country Club,202,72,,,,,,-2.78,,,,,,
+pga,2020,2020,The American Express,2,"Laird, Martin",9586,CUT,3,Nicklaus Tournament Course,233,69,,,,,,0.14,,,,,,
+pga,2020,2020,The American Express,2,"Oppenheim, Rob",8002,CUT,1,Nicklaus Tournament Course,233,73,,,,,,-3.365,,,,,,
+pga,2020,2020,The American Express,2,"Oppenheim, Rob",8002,CUT,2,Stadium Course,704,67,0.065,3.175,-0.453,0.586,3.308,3.373,281.8,0.714,0.5,0.929,25.346,35.032
+pga,2020,2020,The American Express,2,"Oppenheim, Rob",8002,CUT,3,La Quinta Country Club,202,70,,,,,,-1.275,,,,,,
+pga,2020,2020,The American Express,2,"Wise, Aaron",22051,CUT,1,La Quinta Country Club,202,70,,,,,,-0.423,,,,,,
+pga,2020,2020,The American Express,2,"Wise, Aaron",22051,CUT,2,Nicklaus Tournament Course,233,67,,,,,,1.923,,,,,,
+pga,2020,2020,The American Express,2,"Wise, Aaron",22051,CUT,3,Stadium Course,704,73,-3.328,-0.246,0.032,0.542,0.328,-3.0,282.3,0.643,0.722,0.4,64.089,30.979
+pga,2020,2020,The American Express,2,"Stroud, Chris",9604,CUT,1,Nicklaus Tournament Course,233,70,,,,,,-0.365,,,,,,
+pga,2020,2020,The American Express,2,"Stroud, Chris",9604,CUT,2,Stadium Course,704,70,1.703,0.956,-1.081,-1.205,-1.33,0.373,272.0,0.5,0.667,0.667,42.959,22.004
+pga,2020,2020,The American Express,2,"Stroud, Chris",9604,CUT,3,La Quinta Country Club,202,70,,,,,,-1.275,,,,,,
+pga,2020,2020,The American Express,2,"Long, Adam",15473,CUT,1,La Quinta Country Club,202,69,,,,,,0.577,,,,,,
+pga,2020,2020,The American Express,2,"Long, Adam",15473,CUT,2,Nicklaus Tournament Course,233,70,,,,,,-1.077,,,,,,
+pga,2020,2020,The American Express,2,"Long, Adam",15473,CUT,3,Stadium Course,704,71,-1.281,-0.31,-0.079,0.67,0.281,-1.0,278.1,0.786,0.778,0.4,61.694,23.509
+pga,2020,2020,The American Express,2,"Stricker, Steve",4818,CUT,1,La Quinta Country Club,202,69,,,,,,0.577,,,,,,
+pga,2020,2020,The American Express,2,"Stricker, Steve",4818,CUT,2,Nicklaus Tournament Course,233,73,,,,,,-4.077,,,,,,
+pga,2020,2020,The American Express,2,"Stricker, Steve",4818,CUT,3,Stadium Course,704,68,1.311,1.586,-1.191,0.294,0.689,2.0,273.3,0.857,0.611,0.727,51.232,27.907
+pga,2020,2020,The American Express,2,"Thompson, Michael",12946,CUT,1,La Quinta Country Club,202,70,,,,,,-0.423,,,,,,
+pga,2020,2020,The American Express,2,"Thompson, Michael",12946,CUT,2,Nicklaus Tournament Course,233,72,,,,,,-3.077,,,,,,
+pga,2020,2020,The American Express,2,"Thompson, Michael",12946,CUT,3,Stadium Course,704,68,0.859,0.344,2.132,-1.335,1.141,2.0,271.0,0.857,0.667,0.75,23.262,25.971
+pga,2020,2020,The American Express,2,"Hughes, Mackenzie",15556,CUT,1,La Quinta Country Club,202,71,,,,,,-1.423,,,,,,
+pga,2020,2020,The American Express,2,"Hughes, Mackenzie",15556,CUT,2,Nicklaus Tournament Course,233,69,,,,,,-0.077,,,,,,
+pga,2020,2020,The American Express,2,"Hughes, Mackenzie",15556,CUT,3,Stadium Course,704,70,-1.749,2.454,-0.557,-0.148,1.749,0.0,284.4,0.571,0.611,1.0,48.338,17.784
+pga,2020,2020,The American Express,2,"Howell III, Charles",6892,CUT,1,Stadium Course,704,70,0.253,0.578,-1.496,1.319,0.401,0.654,285.8,0.786,0.667,0.857,17.615,25.434
+pga,2020,2020,The American Express,2,"Howell III, Charles",6892,CUT,2,La Quinta Country Club,202,68,,,,,,1.22,,,,,,
+pga,2020,2020,The American Express,2,"Howell III, Charles",6892,CUT,3,Nicklaus Tournament Course,233,72,,,,,,-2.86,,,,,,
+pga,2020,2020,The American Express,2,"Swafford, Hudson",14706,CUT,1,La Quinta Country Club,202,70,,,,,,-0.423,,,,,,
+pga,2020,2020,The American Express,2,"Swafford, Hudson",14706,CUT,2,Nicklaus Tournament Course,233,67,,,,,,1.923,,,,,,
+pga,2020,2020,The American Express,2,"Swafford, Hudson",14706,CUT,3,Stadium Course,704,73,-0.803,-0.694,-1.775,0.272,-2.197,-3.0,275.2,0.714,0.667,0.5,19.783,29.165
+pga,2020,2020,The American Express,2,"Kizzire, Patton",13470,CUT,1,La Quinta Country Club,202,72,,,,,,-2.423,,,,,,
+pga,2020,2020,The American Express,2,"Kizzire, Patton",13470,CUT,2,Nicklaus Tournament Course,233,69,,,,,,-0.077,,,,,,
+pga,2020,2020,The American Express,2,"Kizzire, Patton",13470,CUT,3,Stadium Course,704,69,0.752,-1.715,1.77,0.193,0.248,1.0,278.7,0.643,0.722,0.556,33.787,26.134
+pga,2020,2020,The American Express,2,"List, Luke",7960,CUT,1,Nicklaus Tournament Course,233,70,,,,,,-0.365,,,,,,
+pga,2020,2020,The American Express,2,"List, Luke",7960,CUT,2,Stadium Course,704,72,-2.922,-0.007,0.96,0.342,1.295,-1.627,282.8,0.571,0.778,1.0,25.854,22.177
+pga,2020,2020,The American Express,2,"List, Luke",7960,CUT,3,La Quinta Country Club,202,68,,,,,,0.725,,,,,,
+pga,2020,2020,The American Express,2,"Zhang, Xinjun",13026,CUT,1,La Quinta Country Club,202,69,,,,,,0.577,,,,,,
+pga,2020,2020,The American Express,2,"Zhang, Xinjun",13026,CUT,2,Nicklaus Tournament Course,233,73,,,,,,-4.077,,,,,,
+pga,2020,2020,The American Express,2,"Zhang, Xinjun",13026,CUT,3,Stadium Course,704,68,0.053,2.979,0.413,-1.445,1.947,2.0,281.4,0.643,0.667,0.75,21.341,24.001
+pga,2020,2020,The American Express,2,"Bjerregaard, Lucas",11619,CUT,1,Nicklaus Tournament Course,233,75,,,,,,-5.365,,,,,,
+pga,2020,2020,The American Express,2,"Bjerregaard, Lucas",11619,CUT,2,Stadium Course,704,70,-0.121,-0.291,1.875,-1.09,0.494,0.373,284.1,0.571,0.778,0.833,29.295,18.839
+pga,2020,2020,The American Express,2,"Bjerregaard, Lucas",11619,CUT,3,La Quinta Country Club,202,66,,,,,,2.725,,,,,,
+pga,2020,2020,The American Express,2,"Kisner, Kevin",11328,CUT,1,Stadium Course,704,74,-1.712,-0.743,-1.066,0.175,-1.634,-3.346,274.5,0.571,0.722,0.545,36.135,31.23
+pga,2020,2020,The American Express,2,"Kisner, Kevin",11328,CUT,2,La Quinta Country Club,202,68,,,,,,1.22,,,,,,
+pga,2020,2020,The American Express,2,"Kisner, Kevin",11328,CUT,3,Nicklaus Tournament Course,233,69,,,,,,0.14,,,,,,
+pga,2020,2020,The American Express,2,"Bhatia, Akshay",26096,CUT,1,Stadium Course,704,71,-2.295,-0.094,2.12,-0.077,1.949,-0.346,282.6,0.643,0.778,0.75,16.847,25.726
+pga,2020,2020,The American Express,2,"Bhatia, Akshay",26096,CUT,2,La Quinta Country Club,202,71,,,,,,-1.78,,,,,,
+pga,2020,2020,The American Express,2,"Bhatia, Akshay",26096,CUT,3,Nicklaus Tournament Course,233,69,,,,,,0.14,,,,,,
+pga,2020,2020,The American Express,2,"Haas, Bill",7900,CUT,1,La Quinta Country Club,202,68,,,,,,1.577,,,,,,
+pga,2020,2020,The American Express,2,"Haas, Bill",7900,CUT,2,Nicklaus Tournament Course,233,68,,,,,,0.923,,,,,,
+pga,2020,2020,The American Express,2,"Haas, Bill",7900,CUT,3,Stadium Course,704,75,-2.325,-0.064,-0.87,-1.741,-2.675,-5.0,277.6,0.5,0.667,0.667,35.989,20.608
+pga,2020,2020,The American Express,2,"Noh, Seung-Yul",11117,CUT,1,La Quinta Country Club,202,69,,,,,,0.577,,,,,,
+pga,2020,2020,The American Express,2,"Noh, Seung-Yul",11117,CUT,2,Nicklaus Tournament Course,233,73,,,,,,-4.077,,,,,,
+pga,2020,2020,The American Express,2,"Noh, Seung-Yul",11117,CUT,3,Stadium Course,704,69,-0.169,1.014,-0.146,0.301,1.169,1.0,295.1,0.5,0.667,0.7,41.77,30.383
+pga,2020,2020,The American Express,2,"Chappell, Kevin",13305,CUT,1,Stadium Course,704,71,1.76,-0.093,0.92,-2.933,-2.106,-0.346,284.4,0.5,0.444,0.8,19.404,26.775
+pga,2020,2020,The American Express,2,"Chappell, Kevin",13305,CUT,2,La Quinta Country Club,202,72,,,,,,-2.78,,,,,,
+pga,2020,2020,The American Express,2,"Chappell, Kevin",13305,CUT,3,Nicklaus Tournament Course,233,68,,,,,,1.14,,,,,,
+pga,2020,2020,The American Express,2,"Ledesma, Nelson",15239,CUT,1,Stadium Course,704,70,1.558,0.156,-1.006,-0.054,-0.904,0.654,287.7,0.429,0.833,0.75,25.787,32.756
+pga,2020,2020,The American Express,2,"Ledesma, Nelson",15239,CUT,2,La Quinta Country Club,202,74,,,,,,-4.78,,,,,,
+pga,2020,2020,The American Express,2,"Ledesma, Nelson",15239,CUT,3,Nicklaus Tournament Course,233,67,,,,,,2.14,,,,,,
+pga,2020,2020,The American Express,2,"Harrington, Scott",8479,CUT,1,Stadium Course,704,71,0.226,-0.094,-1.762,1.284,-0.572,-0.346,287.2,0.643,0.722,0.857,24.284,35.771
+pga,2020,2020,The American Express,2,"Harrington, Scott",8479,CUT,2,La Quinta Country Club,202,69,,,,,,0.22,,,,,,
+pga,2020,2020,The American Express,2,"Harrington, Scott",8479,CUT,3,Nicklaus Tournament Course,233,71,,,,,,-1.86,,,,,,
+pga,2020,2020,The American Express,2,"Malnati, Peter",14926,CUT,1,Nicklaus Tournament Course,233,71,,,,,,-1.365,,,,,,
+pga,2020,2020,The American Express,2,"Malnati, Peter",14926,CUT,2,Stadium Course,704,71,0.25,0.927,-0.559,-1.245,-0.877,-0.627,275.1,0.429,0.667,0.75,35.031,35.251
+pga,2020,2020,The American Express,2,"Malnati, Peter",14926,CUT,3,La Quinta Country Club,202,69,,,,,,-0.275,,,,,,
+pga,2020,2020,The American Express,2,"Lee, Danny",11826,CUT,1,Nicklaus Tournament Course,233,70,,,,,,-0.365,,,,,,
+pga,2020,2020,The American Express,2,"Lee, Danny",11826,CUT,2,Stadium Course,704,71,0.667,-1.485,-0.89,1.081,-1.294,-0.627,290.8,0.643,0.778,0.6,43.656,25.792
+pga,2020,2020,The American Express,2,"Lee, Danny",11826,CUT,3,La Quinta Country Club,202,70,,,,,,-1.275,,,,,,
+pga,2020,2020,The American Express,2,"Cink, Stewart",5665,CUT,1,Stadium Course,704,73,-0.854,-0.266,1.004,-2.23,-1.492,-2.346,284.2,0.5,0.722,0.4,26.265,24.546
+pga,2020,2020,The American Express,2,"Cink, Stewart",5665,CUT,2,La Quinta Country Club,202,68,,,,,,1.22,,,,,,
+pga,2020,2020,The American Express,2,"Cink, Stewart",5665,CUT,3,Nicklaus Tournament Course,233,71,,,,,,-1.86,,,,,,
+pga,2020,2020,The American Express,2,"Werenski, Richy",19364,CUT,1,Nicklaus Tournament Course,233,69,,,,,,0.635,,,,,,
+pga,2020,2020,The American Express,2,"Werenski, Richy",19364,CUT,2,Stadium Course,704,73,-0.267,-0.69,-0.318,-1.352,-2.36,-2.627,273.2,0.429,0.667,0.5,50.626,26.535
+pga,2020,2020,The American Express,2,"Werenski, Richy",19364,CUT,3,La Quinta Country Club,202,70,,,,,,-1.275,,,,,,
+pga,2020,2020,The American Express,2,"Garnett, Brice",11451,CUT,1,Stadium Course,704,77,-0.175,0.387,-2.339,-4.219,-6.171,-6.346,272.3,0.357,0.667,0.778,56.925,27.776
+pga,2020,2020,The American Express,2,"Garnett, Brice",11451,CUT,2,La Quinta Country Club,202,71,,,,,,-1.78,,,,,,
+pga,2020,2020,The American Express,2,"Garnett, Brice",11451,CUT,3,Nicklaus Tournament Course,233,64,,,,,,5.14,,,,,,
+pga,2020,2020,The American Express,2,"Chalmers, Greg",5625,CUT,1,Stadium Course,704,71,0.15,-0.097,-0.395,-0.004,-0.496,-0.346,273.0,0.643,0.722,0.75,48.387,32.334
+pga,2020,2020,The American Express,2,"Chalmers, Greg",5625,CUT,2,La Quinta Country Club,202,70,,,,,,-0.78,,,,,,
+pga,2020,2020,The American Express,2,"Chalmers, Greg",5625,CUT,3,Nicklaus Tournament Course,233,71,,,,,,-1.86,,,,,,
+pga,2020,2020,The American Express,2,"Gay, Brian",5951,CUT,1,Stadium Course,704,76,-1.162,-0.586,-2.241,-1.357,-4.184,-5.346,276.2,0.5,0.5,0.5,38.198,28.082
+pga,2020,2020,The American Express,2,"Gay, Brian",5951,CUT,2,La Quinta Country Club,202,68,,,,,,1.22,,,,,,
+pga,2020,2020,The American Express,2,"Gay, Brian",5951,CUT,3,Nicklaus Tournament Course,233,68,,,,,,1.14,,,,,,
+pga,2020,2020,The American Express,2,"Ghim, Doug",24550,CUT,1,Nicklaus Tournament Course,233,68,,,,,,1.635,,,,,,
+pga,2020,2020,The American Express,2,"Ghim, Doug",24550,CUT,2,Stadium Course,704,70,-1.162,-0.52,1.564,0.491,1.535,0.373,278.3,0.714,0.833,0.625,45.006,22.702
+pga,2020,2020,The American Express,2,"Ghim, Doug",24550,CUT,3,La Quinta Country Club,202,74,,,,,,-5.275,,,,,,
+pga,2020,2020,The American Express,2,"An, Byeong Hun",14459,CUT,1,Nicklaus Tournament Course,233,70,,,,,,-0.365,,,,,,
+pga,2020,2020,The American Express,2,"An, Byeong Hun",14459,CUT,2,Stadium Course,704,72,-1.713,2.19,-1.902,-0.202,0.086,-1.627,288.4,0.5,0.5,0.583,39.224,46.251
+pga,2020,2020,The American Express,2,"An, Byeong Hun",14459,CUT,3,La Quinta Country Club,202,70,,,,,,-1.275,,,,,,
+pga,2020,2020,The American Express,2,"Spaun, J.J.",17536,CUT,1,Stadium Course,704,71,0.131,-0.355,-0.897,0.775,-0.477,-0.346,277.9,0.643,0.667,0.857,68.047,25.522
+pga,2020,2020,The American Express,2,"Spaun, J.J.",17536,CUT,2,La Quinta Country Club,202,68,,,,,,1.22,,,,,,
+pga,2020,2020,The American Express,2,"Spaun, J.J.",17536,CUT,3,Nicklaus Tournament Course,233,73,,,,,,-3.86,,,,,,
+pga,2020,2020,The American Express,2,"Covello, Vince",11441,CUT,1,Stadium Course,704,73,-1.576,-1.051,-0.253,0.534,-0.77,-2.346,276.2,0.643,0.722,0.333,33.424,28.969
+pga,2020,2020,The American Express,2,"Covello, Vince",11441,CUT,2,La Quinta Country Club,202,69,,,,,,0.22,,,,,,
+pga,2020,2020,The American Express,2,"Covello, Vince",11441,CUT,3,Nicklaus Tournament Course,233,70,,,,,,-0.86,,,,,,
+pga,2020,2020,The American Express,2,"Johnson, Zach",6986,CUT,1,Nicklaus Tournament Course,233,70,,,,,,-0.365,,,,,,
+pga,2020,2020,The American Express,2,"Johnson, Zach",6986,CUT,2,Stadium Course,704,72,0.268,-1.791,-0.551,0.447,-1.895,-1.627,275.0,0.786,0.611,0.444,38.928,27.598
+pga,2020,2020,The American Express,2,"Johnson, Zach",6986,CUT,3,La Quinta Country Club,202,70,,,,,,-1.275,,,,,,
+pga,2020,2020,The American Express,2,"Kokrak, Jason",12337,CUT,1,Stadium Course,704,73,0.47,-2.007,-0.727,-0.082,-2.816,-2.346,280.2,0.286,0.611,0.636,35.685,28.52
+pga,2020,2020,The American Express,2,"Kokrak, Jason",12337,CUT,2,La Quinta Country Club,202,69,,,,,,0.22,,,,,,
+pga,2020,2020,The American Express,2,"Kokrak, Jason",12337,CUT,3,Nicklaus Tournament Course,233,70,,,,,,-0.86,,,,,,
+pga,2020,2020,The American Express,2,"Mickelson, Phil",1547,CUT,1,La Quinta Country Club,202,70,,,,,,-0.423,,,,,,
+pga,2020,2020,The American Express,2,"Mickelson, Phil",1547,CUT,2,Nicklaus Tournament Course,233,72,,,,,,-3.077,,,,,,
+pga,2020,2020,The American Express,2,"Mickelson, Phil",1547,CUT,3,Stadium Course,704,71,-1.625,-0.648,0.858,0.415,0.625,-1.0,284.6,0.786,0.722,0.667,14.638,23.879
+pga,2020,2020,The American Express,2,"Cook, Austin",18579,CUT,1,Stadium Course,704,69,1.256,3.145,-2.632,-0.115,0.398,1.654,282.4,0.643,0.556,0.727,43.45,29.308
+pga,2020,2020,The American Express,2,"Cook, Austin",18579,CUT,2,La Quinta Country Club,202,72,,,,,,-2.78,,,,,,
+pga,2020,2020,The American Express,2,"Cook, Austin",18579,CUT,3,Nicklaus Tournament Course,233,72,,,,,,-2.86,,,,,,
+pga,2020,2020,The American Express,2,"Hahn, James",11374,CUT,1,Stadium Course,704,72,-1.694,0.065,-0.651,0.934,0.348,-1.346,280.2,0.714,0.778,0.714,33.471,26.212
+pga,2020,2020,The American Express,2,"Hahn, James",11374,CUT,2,La Quinta Country Club,202,72,,,,,,-2.78,,,,,,
+pga,2020,2020,The American Express,2,"Hahn, James",11374,CUT,3,Nicklaus Tournament Course,233,69,,,,,,0.14,,,,,,
+pga,2020,2020,The American Express,2,"Armour, Ryan",8469,CUT,1,Nicklaus Tournament Course,233,67,,,,,,2.635,,,,,,
+pga,2020,2020,The American Express,2,"Armour, Ryan",8469,CUT,2,Stadium Course,704,75,-1.706,1.452,-3.734,-0.639,-2.921,-4.627,269.8,0.714,0.611,0.857,32.798,29.777
+pga,2020,2020,The American Express,2,"Armour, Ryan",8469,CUT,3,La Quinta Country Club,202,72,,,,,,-3.275,,,,,,
+pga,2020,2020,The American Express,2,"Baddeley, Aaron",6252,CUT,1,Stadium Course,704,70,0.472,0.537,0.235,-0.59,0.182,0.654,266.9,0.5,0.667,0.5,52.548,33.176
+pga,2020,2020,The American Express,2,"Baddeley, Aaron",6252,CUT,2,La Quinta Country Club,202,71,,,,,,-1.78,,,,,,
+pga,2020,2020,The American Express,2,"Baddeley, Aaron",6252,CUT,3,Nicklaus Tournament Course,233,73,,,,,,-3.86,,,,,,
+pga,2020,2020,The American Express,2,"Hossler, Beau",15470,CUT,1,La Quinta Country Club,202,71,,,,,,-1.423,,,,,,
+pga,2020,2020,The American Express,2,"Hossler, Beau",15470,CUT,2,Nicklaus Tournament Course,233,73,,,,,,-4.077,,,,,,
+pga,2020,2020,The American Express,2,"Hossler, Beau",15470,CUT,3,Stadium Course,704,70,0.834,-1.386,-0.54,1.092,-0.834,0.0,292.5,0.643,0.722,0.625,42.318,27.714
+pga,2020,2020,The American Express,2,"Hickok, Kramer",21237,CUT,1,La Quinta Country Club,202,71,,,,,,-1.423,,,,,,
+pga,2020,2020,The American Express,2,"Hickok, Kramer",21237,CUT,2,Nicklaus Tournament Course,233,72,,,,,,-3.077,,,,,,
+pga,2020,2020,The American Express,2,"Hickok, Kramer",21237,CUT,3,Stadium Course,704,71,-1.143,1.424,-0.634,-0.647,0.143,-1.0,276.6,0.643,0.556,0.909,18.273,26.912
+pga,2020,2020,The American Express,2,"Stadler, Kevin",7602,CUT,1,La Quinta Country Club,202,70,,,,,,-0.423,,,,,,
+pga,2020,2020,The American Express,2,"Stadler, Kevin",7602,CUT,2,Nicklaus Tournament Course,233,70,,,,,,-1.077,,,,,,
+pga,2020,2020,The American Express,2,"Stadler, Kevin",7602,CUT,3,Stadium Course,704,75,-3.305,-0.651,-1.375,0.331,-1.695,-5.0,272.2,0.786,0.722,0.5,52.909,41.029
+pga,2020,2020,The American Express,2,"Bramlett, Joseph",14698,CUT,1,La Quinta Country Club,202,73,,,,,,-3.423,,,,,,
+pga,2020,2020,The American Express,2,"Bramlett, Joseph",14698,CUT,2,Nicklaus Tournament Course,233,70,,,,,,-1.077,,,,,,
+pga,2020,2020,The American Express,2,"Bramlett, Joseph",14698,CUT,3,Stadium Course,704,72,-0.003,-1.056,1.857,-2.798,-1.997,-2.0,276.2,0.429,0.778,0.571,42.71,32.702
+pga,2020,2020,The American Express,2,"Horschel, Billy",11276,CUT,1,Nicklaus Tournament Course,233,74,,,,,,-4.365,,,,,,
+pga,2020,2020,The American Express,2,"Horschel, Billy",11276,CUT,2,Stadium Course,704,71,0.669,-0.233,-1.678,0.615,-1.296,-0.627,277.8,0.714,0.778,0.6,39.91,34.546
+pga,2020,2020,The American Express,2,"Horschel, Billy",11276,CUT,3,La Quinta Country Club,202,70,,,,,,-1.275,,,,,,
+pga,2020,2020,The American Express,2,"Molinari, Francesco",7655,CUT,1,La Quinta Country Club,202,73,,,,,,-3.423,,,,,,
+pga,2020,2020,The American Express,2,"Molinari, Francesco",7655,CUT,2,Nicklaus Tournament Course,233,71,,,,,,-2.077,,,,,,
+pga,2020,2020,The American Express,2,"Molinari, Francesco",7655,CUT,3,Stadium Course,704,72,-0.67,-0.662,-1.319,0.651,-1.33,-2.0,277.5,0.714,0.667,0.5,25.373,24.077
+pga,2020,2020,The American Express,2,"Barnes, Ricky",6846,CUT,1,Stadium Course,704,70,2.34,-0.948,0.354,-1.092,-1.686,0.654,266.6,0.357,0.667,0.778,45.262,36.155
+pga,2020,2020,The American Express,2,"Barnes, Ricky",6846,CUT,2,La Quinta Country Club,202,71,,,,,,-1.78,,,,,,
+pga,2020,2020,The American Express,2,"Barnes, Ricky",6846,CUT,3,Nicklaus Tournament Course,233,76,,,,,,-6.86,,,,,,
+pga,2020,2020,The American Express,2,"Wilson, Mark",4107,CUT,1,La Quinta Country Club,202,69,,,,,,0.577,,,,,,
+pga,2020,2020,The American Express,2,"Wilson, Mark",4107,CUT,2,Nicklaus Tournament Course,233,74,,,,,,-5.077,,,,,,
+pga,2020,2020,The American Express,2,"Wilson, Mark",4107,CUT,3,Stadium Course,704,74,-0.34,1.789,-4.518,-0.931,-3.66,-4.0,259.7,0.714,0.5,0.727,51.604,31.166
+pga,2020,2020,The American Express,2,"Reiter, Charles",24303,CUT,1,La Quinta Country Club,202,75,,,,,,-5.423,,,,,,
+pga,2020,2020,The American Express,2,"Reiter, Charles",24303,CUT,2,Nicklaus Tournament Course,233,72,,,,,,-3.077,,,,,,
+pga,2020,2020,The American Express,2,"Reiter, Charles",24303,CUT,3,Stadium Course,704,71,1.635,-1.477,-1.776,0.618,-2.635,-1.0,292.3,0.571,0.611,0.6,48.186,42.026
+pga,2020,2020,The American Express,2,"Shelton, Robby",18635,CUT,1,La Quinta Country Club,202,71,,,,,,-1.423,,,,,,
+pga,2020,2020,The American Express,2,"Shelton, Robby",18635,CUT,2,Nicklaus Tournament Course,233,73,,,,,,-4.077,,,,,,
+pga,2020,2020,The American Express,2,"Shelton, Robby",18635,CUT,3,Stadium Course,704,74,-1.159,-1.715,-0.668,-0.458,-2.841,-4.0,286.3,0.571,0.556,0.455,31.202,33.66
+pga,2020,2020,The American Express,2,"Streb, Robert",14852,CUT,1,Nicklaus Tournament Course,233,71,,,,,,-1.365,,,,,,
+pga,2020,2020,The American Express,2,"Streb, Robert",14852,CUT,2,Stadium Course,704,76,-0.557,-1.026,-0.597,-3.447,-5.07,-5.627,274.5,0.357,0.611,0.5,47.229,32.628
+pga,2020,2020,The American Express,2,"Streb, Robert",14852,CUT,3,La Quinta Country Club,202,71,,,,,,-2.275,,,,,,
+pga,2020,2020,The American Express,2,"Senden, John",5207,CUT,1,Nicklaus Tournament Course,233,75,,,,,,-5.365,,,,,,
+pga,2020,2020,The American Express,2,"Senden, John",5207,CUT,2,Stadium Course,704,74,-1.435,-0.389,-1.104,-0.699,-2.192,-3.627,280.0,0.357,0.611,0.556,36.894,24.627
+pga,2020,2020,The American Express,2,"Senden, John",5207,CUT,3,La Quinta Country Club,202,69,,,,,,-0.275,,,,,,
+pga,2020,2020,The American Express,2,"Saunders, Sam",11048,CUT,1,La Quinta Country Club,202,70,,,,,,-0.423,,,,,,
+pga,2020,2020,The American Express,2,"Saunders, Sam",11048,CUT,2,Nicklaus Tournament Course,233,72,,,,,,-3.077,,,,,,
+pga,2020,2020,The American Express,2,"Saunders, Sam",11048,CUT,3,Stadium Course,704,78,-1.956,-0.166,-1.62,-4.258,-6.044,-8.0,285.8,0.429,0.5,0.7,24.659,29.087
+pga,2020,2020,The American Express,2,"Campos, Rafael",12909,CUT,1,Stadium Course,704,73,-0.272,-2.328,-0.693,0.947,-2.074,-2.346,282.7,0.643,0.556,0.462,40.001,30.779
+pga,2020,2020,The American Express,2,"Campos, Rafael",12909,CUT,2,La Quinta Country Club,202,71,,,,,,-1.78,,,,,,
+pga,2020,2020,The American Express,2,"Campos, Rafael",12909,CUT,3,Nicklaus Tournament Course,233,76,,,,,,-6.86,,,,,,
+pga,2020,2020,The American Express,2,"Gibson, Rhein",13342,CUT,1,La Quinta Country Club,202,72,,,,,,-2.423,,,,,,
+pga,2020,2020,The American Express,2,"Gibson, Rhein",13342,CUT,2,Nicklaus Tournament Course,233,78,,,,,,-9.077,,,,,,
+pga,2020,2020,The American Express,2,"Gibson, Rhein",13342,CUT,3,Stadium Course,704,71,0.947,0.848,0.277,-3.072,-1.947,-1.0,279.2,0.286,0.611,0.8,44.464,35.108
+pga,2020,2020,The American Express,2,"Brown, Scott",11330,CUT,1,La Quinta Country Club,202,74,,,,,,-4.423,,,,,,
+pga,2020,2020,The American Express,2,"Brown, Scott",11330,CUT,2,Nicklaus Tournament Course,233,77,,,,,,-8.077,,,,,,
+pga,2020,2020,The American Express,2,"Brown, Scott",11330,CUT,3,Stadium Course,704,72,1.333,0.91,-3.93,-0.313,-3.333,-2.0,273.8,0.571,0.5,0.9,32.449,36.397
+pga,2020,2020,The American Express,2,"Bozzelli, Dominic",17564,CUT,1,Nicklaus Tournament Course,233,67,,,,,,2.635,,,,,,
+pga,2020,2020,The American Express,2,"Bozzelli, Dominic",17564,CUT,2,Stadium Course,704,77,-0.205,-1.684,0.991,-5.729,-6.422,-6.627,269.8,0.357,0.5,0.556,39.571,33.536
+pga,2020,2020,The American Express,2,"Bozzelli, Dominic",17564,CUT,3,La Quinta Country Club,202,79,,,,,,-10.275,,,,,,
+pga,2020,2020,The American Express,2,"Smock, Brian",7762,CUT,1,Stadium Course,704,76,-1.752,0.683,-0.492,-3.785,-3.594,-5.346,271.0,0.5,0.5,0.625,30.26,31.882
+pga,2020,2020,The American Express,2,"Smock, Brian",7762,CUT,2,La Quinta Country Club,202,73,,,,,,-3.78,,,,,,
+pga,2020,2020,The American Express,2,"Smock, Brian",7762,CUT,3,Nicklaus Tournament Course,233,75,,,,,,-5.86,,,,,,
+pga,2020,2020,The American Express,2,"Mahan, Hunter",7636,CUT,1,Stadium Course,704,72,-0.715,0.47,-1.354,0.253,-0.631,-1.346,272.9,0.571,0.722,0.429,44.185,39.132
+pga,2020,2020,The American Express,2,"Mahan, Hunter",7636,CUT,2,La Quinta Country Club,202,77,,,,,,-7.78,,,,,,
+pga,2020,2020,The American Express,2,"Mahan, Hunter",7636,CUT,3,Nicklaus Tournament Course,233,77,,,,,,-7.86,,,,,,
+pga,2020,2020,The American Express,2,"Trainer, Martin",15634,CUT,1,Nicklaus Tournament Course,233,78,,,,,,-8.365,,,,,,
+pga,2020,2020,The American Express,2,"Trainer, Martin",15634,CUT,2,Stadium Course,704,78,-1.389,-0.974,-4.391,-0.873,-6.238,-7.627,296.4,0.286,0.389,0.5,50.276,47.944
+pga,2020,2020,The American Express,2,"Trainer, Martin",15634,CUT,3,La Quinta Country Club,202,74,,,,,,-5.275,,,,,,
+pga,2020,2020,The American Express,2,"Crane, Ben",6674,WD,1,Stadium Course,704,71,0.622,0.595,-1.724,0.161,-0.968,-0.346,264.2,0.786,0.556,0.909,60.758,31.666
+pga,2020,2020,The American Express,2,"Lashley, Nate",10943,WD,1,Stadium Course,704,77,-2.211,0.629,-1.821,-2.943,-4.135,-6.346,268.3,0.643,0.389,0.5,21.291,26.343
+pga,2020,2020,The American Express,2,"Kim, Si Woo",14609,WD,1,Nicklaus Tournament Course,233,87,,,,,,-17.365,,,,,,
+pga,2020,2020,The American Express,2,"Hoag, Bo",14081,WD,1,La Quinta Country Club,202,71,,,,,,-1.423,,,,,,
+pga,2020,2020,The American Express,2,"Hoag, Bo",14081,WD,2,Nicklaus Tournament Course,233,68,,,,,,0.923,,,,,,

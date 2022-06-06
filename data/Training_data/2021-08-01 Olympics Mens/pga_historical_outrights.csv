@@ -1,0 +1,61 @@
+bet_outcome_numeric,bet_outcome_text,close_odds,close_time,dg_id,open_odds,open_time,outcome,player_name,book,event_completed,event_name,market,season,year,event_id
+0,loss,+753,2021-07-28 14:57,22085,+730,2021-07-27 08:39,T4,"Morikawa, Collin",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+1,paid in full,+797,2021-07-28 14:57,19895,+862,2021-07-27 08:39,1,"Schauffele, Xander",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+986,2021-07-28 14:57,18841,+1104,2021-07-27 08:39,T14,"Hovland, Viktor",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+1102,2021-07-28 14:57,14139,+1080,2021-07-27 08:39,T22,"Thomas, Justin",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+1123,2021-07-28 14:57,13562,+1372,2021-07-27 08:39,T4,"Matsuyama, Hideki",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+1177,2021-07-28 14:57,10091,+1499,2021-07-27 08:39,T4,"McIlroy, Rory",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+1285,2021-07-28 14:57,7108,+1477,2021-07-27 08:39,T4,"Casey, Paul",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+1718,2021-07-28 14:57,14838,+1663,2021-07-27 08:39,T22,"Reed, Patrick",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+1981,2021-07-28 14:57,15856,+1921,2021-07-27 08:39,T10,"Smith, Cameron",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+2070,2021-07-28 14:57,17576,+2633,2021-07-27 08:39,13,"Conners, Corey",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+2086,2021-07-28 14:57,18079,+2018,2021-07-27 08:39,T10,"Niemann, Joaquin",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+2094,2021-07-28 14:57,18238,+2107,2021-07-27 08:39,T14,"Ancer, Abraham",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+2197,2021-07-28 14:57,17488,+2947,2021-07-27 08:39,T22,"Im, Sungjae",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+2319,2021-07-28 14:57,13900,+2246,2021-07-27 08:39,T22,"Lowry, Shane",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+3312,2021-07-28 14:57,12294,+3206,2021-07-27 08:39,T16,"Fleetwood, Tommy",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+3466,2021-07-28 14:57,14609,+4735,2021-07-27 08:39,T32,"Kim, Si Woo",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+3605,2021-07-28 14:57,14735,+6313,2021-07-27 08:39,T42,"Ortiz, Carlos",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+3840,2021-07-28 14:57,18103,+3711,2021-07-27 08:39,T16,"Bezuidenhout, Christiaan",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+4535,2021-07-28 14:57,7649,+4515,2021-07-27 08:39,T51,"Leishman, Marc",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+5146,2021-07-28 14:57,17357,+4983,2021-07-27 08:39,T32,"Migliozzi, Guido",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+5242,2021-07-28 14:57,13508,+5259,2021-07-27 08:39,T16,"Vegas, Jhonattan",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+5433,2021-07-28 14:57,10419,+5259,2021-07-27 08:39,T16,"Noren, Alex",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+5976,2021-07-28 14:57,13944,+6313,2021-07-27 08:39,T16,"Pieters, Thomas",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+6343,2021-07-28 14:57,24342,+6143,2021-07-27 08:39,T53,"Higgo, Garrick",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+6488,2021-07-28 14:57,14181,+8433,2021-07-27 08:39,T22,"Detry, Thomas",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+6867,2021-07-28 14:57,18770,+8939,2021-07-27 08:39,T45,"Rozner, Antoine",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+7167,2021-07-28 14:57,20770,+6942,2021-07-27 08:39,T4,"Munoz, Sebastian",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+7405,2021-07-28 14:57,19455,+10516,2021-07-27 08:39,T4,"Pereira, Mito",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+7775,2021-07-28 14:57,15556,+8106,2021-07-27 08:39,50,"Hughes, Mackenzie",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+11801,2021-07-28 14:57,15016,+11433,2021-07-27 08:39,T27,"Schwab, Matthias",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+12480,2021-07-28 14:57,11889,+12091,2021-07-27 08:39,T42,"Fox, Ryan",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+13038,2021-07-28 14:57,14368,+17003,2021-07-27 08:39,T27,"Janewattananond, Jazz",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+13562,2021-07-28 14:57,11657,+13142,2021-07-27 08:39,T45,"Norlander, Henrik",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+13562,2021-07-28 14:57,15475,+13142,2021-07-27 08:39,3,"Pan, C.T.",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+14044,2021-07-28 14:57,19190,+13610,2021-07-27 08:39,T38,"Hoshino, Rikuya",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+14572,2021-07-28 14:57,23838,+14121,2021-07-27 08:39,T38,"Hojgaard, Rasmus",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+16271,2021-07-28 14:57,12669,+15771,2021-07-27 08:39,T42,"Lahiri, Anirban",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+16271,2021-07-28 14:57,17511,+15771,2021-07-27 08:39,T10,"Straka, Sepp",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+20382,2021-07-28 14:57,17266,+27180,2021-07-27 08:39,T38,"Yuan, Yechun",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+21043,2021-07-28 14:57,6283,+20395,2021-07-27 08:39,2,"Sabbatini, Rory",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+21093,2021-07-28 14:57,14559,+32720,2021-07-27 08:39,T16,"Vincent, Scott",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+24405,2021-07-28 14:57,14120,+23656,2021-07-27 08:39,T45,"Samooja, Kalle",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+24542,2021-07-28 14:57,23236,+23790,2021-07-27 08:39,T38,"Arnaus, Adri",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+26301,2021-07-28 14:57,16549,+25494,2021-07-27 08:39,T27,"Paratore, Renato",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+27115,2021-07-28 14:57,14284,+26282,2021-07-27 08:39,T27,"Hansen, Joachim B",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+27115,2021-07-28 14:57,14196,+26282,2021-07-27 08:39,T51,"Meronk, Adrian",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+28040,2021-07-28 14:57,14016,+27180,2021-07-27 08:39,59,"Campillo, Jorge",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+28040,2021-07-28 14:57,16652,+27180,2021-07-27 08:39,T35,"Langasque, Romain",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+28406,2021-07-28 14:57,9842,+27534,2021-07-27 08:39,T35,"Zanotti, Fabrizio",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+31333,2021-07-28 14:57,12317,+30375,2021-07-27 08:39,T45,"Kieffer, Maximilian",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+35034,2021-07-28 14:57,11763,+33967,2021-07-27 08:39,T32,"Wu, Ashun",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+35034,2021-07-28 14:57,23816,+33967,2021-07-27 08:39,T27,"Valimaki, Sami",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+40415,2021-07-28 14:57,16421,+54326,2021-07-27 08:39,T53,"Johannessen, Kristian Krogh",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+42033,2021-07-28 14:57,25138,+40751,2021-07-27 08:39,T35,"Long, Hurly",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+56021,2021-07-28 14:57,8615,+54326,2021-07-27 08:39,55,"Pagunsan, Juvic",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+56021,2021-07-28 14:57,12909,+54326,2021-07-27 08:39,T57,"Campos, Rafael",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+56021,2021-07-28 14:57,14128,+54326,2021-07-27 08:39,T45,"Charoenkul, Gunn",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+70003,2021-07-28 14:57,13390,+67896,2021-07-27 08:39,60,"Lieser, Ondrej",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+70003,2021-07-28 14:57,12530,+67896,2021-07-27 08:39,T57,"Green, Gavin",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519
+0,loss,+104956,2021-07-28 14:57,16818,+101820,2021-07-27 08:39,56,"Mane, Udayan",pinnacle,2021-08-01,Olympic Men's Golf Competition,win,2021,2021,519

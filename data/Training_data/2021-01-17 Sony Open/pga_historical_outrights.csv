@@ -1,0 +1,60 @@
+bet_outcome_numeric,bet_outcome_text,close_odds,close_time,dg_id,open_odds,open_time,outcome,player_name,book,event_completed,event_name,market,season,year,event_id
+0,loss,+1094,2021-01-14 08:08,11049,+1045,2021-01-12 08:12,T4,"Simpson, Webb",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+1159,2021-01-14 08:08,22085,+1161,2021-01-12 08:12,T7,"Morikawa, Collin",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+1233,2021-01-14 08:08,14577,+1178,2021-01-12 08:12,T32,"English, Harris",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+1433,2021-01-14 08:08,17606,+1617,2021-01-12 08:12,T7,"Berger, Daniel",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+1611,2021-01-14 08:08,17488,+1714,2021-01-12 08:12,T56,"Im, Sungjae",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+2222,2021-01-14 08:08,13562,+2126,2021-01-12 08:12,T19,"Matsuyama, Hideki",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+2366,2021-01-14 08:08,18079,+2264,2021-01-12 08:12,T2,"Niemann, Joaquin",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+2406,2021-01-14 08:08,14578,+2303,2021-01-12 08:12,T11,"Henley, Russell",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+2664,2021-01-14 08:08,15856,+3312,2021-01-12 08:12,T62,"Smith, Cameron",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+2784,2021-01-14 08:08,7820,+2666,2021-01-12 08:12,T41,"Palmer, Ryan",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+2962,2021-01-14 08:08,18238,+3312,2021-01-12 08:12,CUT,"Ancer, Abraham",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+2972,2021-01-14 08:08,11328,+3328,2021-01-12 08:12,T32,"Kisner, Kevin",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+3327,2021-01-14 08:08,6430,+3184,2021-01-12 08:12,T41,"Scott, Adam",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+3437,2021-01-14 08:08,12337,+3292,2021-01-12 08:12,T56,"Kokrak, Jason",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+3625,2021-01-14 08:08,12425,+5675,2021-01-12 08:12,T41,"Todd, Brendon",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+3680,2021-01-14 08:08,17550,+3525,2021-01-12 08:12,CUT,"Van Rooyen, Erik",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+3836,2021-01-14 08:08,18580,+3675,2021-01-12 08:12,CUT,"Gooch, Talor",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+4085,2021-01-14 08:08,15330,+5047,2021-01-12 08:12,T41,"Griffin, Lanto",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+4565,2021-01-14 08:08,20770,+4374,2021-01-12 08:12,T65,"Munoz, Sebastian",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+4614,2021-01-14 08:08,11276,+4419,2021-01-12 08:12,T7,"Horschel, Billy",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+4614,2021-01-14 08:08,6169,+4419,2021-01-12 08:12,CUT,"Kuchar, Matt",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+5102,2021-01-14 08:08,8825,+6302,2021-01-12 08:12,T56,"Harman, Brian",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+5264,2021-01-14 08:08,6986,+5047,2021-01-12 08:12,T62,"Johnson, Zach",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+5264,2021-01-14 08:08,5689,+5047,2021-01-12 08:12,T47,"Garcia, Sergio",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+5527,2021-01-14 08:08,6892,+5295,2021-01-12 08:12,T19,"Howell III, Charles",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+5527,2021-01-14 08:08,14609,+5295,2021-01-12 08:12,T25,"Kim, Si Woo",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+6209,2021-01-14 08:08,7961,+5951,2021-01-12 08:12,T67,"Reavie, Chez",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+6209,2021-01-14 08:08,13831,+5951,2021-01-12 08:12,CUT,"Knox, Russell",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+6303,2021-01-14 08:08,12808,+6040,2021-01-12 08:12,T47,"Grillo, Emiliano",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+6576,2021-01-14 08:08,7649,+6302,2021-01-12 08:12,T4,"Leishman, Marc",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+1,paid in full,+6917,2021-01-14 08:08,7452,+6629,2021-01-12 08:12,1,"Na, Kevin",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+7031,2021-01-14 08:08,7899,+6738,2021-01-12 08:12,CUT,"Piercy, Scott",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+7304,2021-01-14 08:08,17511,+7001,2021-01-12 08:12,T25,"Straka, Sepp",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+7873,2021-01-14 08:08,2881,+7547,2021-01-12 08:12,T47,"Furyk, Jim",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+8021,2021-01-14 08:08,15556,+7688,2021-01-12 08:12,T19,"Hughes, Mackenzie",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+8101,2021-01-14 08:08,14735,+7762,2021-01-12 08:12,T14,"Ortiz, Carlos",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+8101,2021-01-14 08:08,11657,+7762,2021-01-12 08:12,CUT,"Norlander, Henrik",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+8207,2021-01-14 08:08,8820,+10070,2021-01-12 08:12,CUT,"Snedeker, Brandt",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+8671,2021-01-14 08:08,13872,+8311,2021-01-12 08:12,CUT,"Bradley, Keegan",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+8671,2021-01-14 08:08,16433,+8311,2021-01-12 08:12,CUT,"NeSmith, Matthew",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+9038,2021-01-14 08:08,12069,+8662,2021-01-12 08:12,CUT,"Stanley, Kyle",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+9196,2021-01-14 08:08,13470,+8814,2021-01-12 08:12,T7,"Kizzire, Patton",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+9231,2021-01-14 08:08,5665,+8848,2021-01-12 08:12,T19,"Cink, Stewart",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+9982,2021-01-14 08:08,5768,+9568,2021-01-12 08:12,T14,"Hoffman, Charley",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+10342,2021-01-14 08:08,15575,+9914,2021-01-12 08:12,CUT,"Hoge, Tom",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+11042,2021-01-14 08:08,21554,+10585,2021-01-12 08:12,CUT,"Poston, J.T.",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+11042,2021-01-14 08:08,6283,+10585,2021-01-12 08:12,CUT,"Sabbatini, Rory",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+11146,2021-01-14 08:08,17786,+10684,2021-01-12 08:12,31,"Davis, Cameron",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+11369,2021-01-14 08:08,24550,+18858,2021-01-12 08:12,CUT,"Ghim, Doug",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+11443,2021-01-14 08:08,18579,+10968,2021-01-12 08:12,T47,"Cook, Austin",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+12430,2021-01-14 08:08,14926,+11916,2021-01-12 08:12,T14,"Malnati, Peter",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+13123,2021-01-14 08:08,11952,+12580,2021-01-12 08:12,CUT,"Grace, Branden",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+13803,2021-01-14 08:08,15475,+13231,2021-01-12 08:12,CUT,"Pan, C.T.",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+14434,2021-01-14 08:08,11374,+13836,2021-01-12 08:12,T41,"Hahn, James",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+14520,2021-01-14 08:08,8605,+13919,2021-01-12 08:12,T11,"Jones, Matt",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+16395,2021-01-14 08:08,12423,+15719,2021-01-12 08:12,T2,"Kirk, Chris",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+16395,2021-01-14 08:08,19729,+15719,2021-01-12 08:12,CUT,"Kanaya, Takumi",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+19672,2021-01-14 08:08,5951,+18858,2021-01-12 08:12,72,"Gay, Brian",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6
+0,loss,+19672,2021-01-14 08:08,12946,+18858,2021-01-12 08:12,T25,"Thompson, Michael",pinnacle,2021-01-17,Sony Open in Hawaii,win,2021,2021,6

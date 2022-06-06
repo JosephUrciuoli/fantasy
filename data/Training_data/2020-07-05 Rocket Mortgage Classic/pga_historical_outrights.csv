@@ -1,0 +1,60 @@
+bet_outcome_numeric,bet_outcome_text,close_odds,close_time,dg_id,open_odds,open_time,outcome,player_name,book,event_completed,event_name,market,season,year,event_id
+1,paid in full,+658,2020-07-01 09:26,19841,+652,2020-06-30 09:53,1,"DeChambeau, Bryson",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+1236,2020-07-01 09:26,11049,+1189,2020-06-30 09:53,T8,"Simpson, Webb",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+1561,2020-07-01 09:26,13562,+1940,2020-06-30 09:53,T21,"Matsuyama, Hideki",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+1568,2020-07-01 09:26,14796,+1511,2020-06-30 09:53,T4,"Hatton, Tyrrell",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+1568,2020-07-01 09:26,14838,+1511,2020-06-30 09:53,CUT,"Reed, Patrick",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+1987,2020-07-01 09:26,18841,+2042,2020-06-30 09:53,T12,"Hovland, Viktor",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+2326,2020-07-01 09:26,17488,+2370,2020-06-30 09:53,T53,"Im, Sungjae",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+2959,2020-07-01 09:26,7452,+3551,2020-06-30 09:53,WD,"Na, Kevin",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+3125,2020-07-01 09:26,11676,+3014,2020-06-30 09:53,T53,"Finau, Tony",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+3332,2020-07-01 09:26,18417,+3766,2020-06-30 09:53,CUT,"Scheffler, Scottie",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+3351,2020-07-01 09:26,12965,+3229,2020-06-30 09:53,T12,"Fowler, Rickie",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+3883,2020-07-01 09:26,21554,+4303,2020-06-30 09:53,CUT,"Poston, J.T.",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+4461,2020-07-01 09:26,7334,+4303,2020-06-30 09:53,CUT,"Watson, Bubba",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+5021,2020-07-01 09:26,24481,+4840,2020-06-30 09:53,T21,"Redman, Doc",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+5021,2020-07-01 09:26,8820,+4840,2020-06-30 09:53,CUT,"Snedeker, Brandt",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+5077,2020-07-01 09:26,17550,+6757,2020-06-30 09:53,CUT,"Van Rooyen, Erik",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+5445,2020-07-01 09:26,7399,+6170,2020-06-30 09:53,T21,"Glover, Lucas",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+5453,2020-07-01 09:26,14609,+7095,2020-06-30 09:53,T57,"Kim, Si Woo",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+5572,2020-07-01 09:26,21891,+5376,2020-06-30 09:53,CUT,"Kitayama, Kurt",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+5572,2020-07-01 09:26,6283,+5376,2020-06-30 09:53,CUT,"Sabbatini, Rory",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+5572,2020-07-01 09:26,9771,+5376,2020-06-30 09:53,CUT,"Day, Jason",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+6130,2020-07-01 09:26,18103,+5913,2020-06-30 09:53,CUT,"Bezuidenhout, Christiaan",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+6686,2020-07-01 09:26,16602,+6450,2020-06-30 09:53,T30,"Varner III, Harold",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+6686,2020-07-01 09:26,13965,+6450,2020-06-30 09:53,T4,"Hadwin, Adam",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+7006,2020-07-01 09:26,8825,+6757,2020-06-30 09:53,CUT,"Harman, Brian",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+7006,2020-07-01 09:26,12425,+6757,2020-06-30 09:53,T57,"Todd, Brendon",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+7356,2020-07-01 09:26,7457,+7095,2020-06-30 09:53,CUT,"Cabrera Bello, Rafa",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+7799,2020-07-01 09:26,10419,+7524,2020-06-30 09:53,CUT,"Noren, Alex",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+7799,2020-07-01 09:26,11328,+7524,2020-06-30 09:53,3,"Kisner, Kevin",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+7799,2020-07-01 09:26,11952,+7524,2020-06-30 09:53,CUT,"Grace, Branden",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+8294,2020-07-01 09:26,25919,+10746,2020-06-30 09:53,2,"Wolff, Matthew",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+9329,2020-07-01 09:26,18634,+8998,2020-06-30 09:53,T8,"McNealy, Maverick",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+9437,2020-07-01 09:26,26660,+9104,2020-06-30 09:53,CUT,"Gordon, Will",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+10025,2020-07-01 09:26,16283,+9672,2020-06-30 09:53,T45,"Rodgers, Patrick",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+10025,2020-07-01 09:26,13872,+9672,2020-06-30 09:53,T45,"Bradley, Keegan",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+10554,2020-07-01 09:26,12069,+10181,2020-06-30 09:53,CUT,"Stanley, Kyle",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+10554,2020-07-01 09:26,12359,+10181,2020-06-30 09:53,T39,"Stallings, Scott",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+11139,2020-07-01 09:26,13022,+10746,2020-06-30 09:53,T30,"Stuard, Brian",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+11139,2020-07-01 09:26,16333,+10746,2020-06-30 09:53,T12,"Hubbard, Mark",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+11139,2020-07-01 09:26,12423,+10746,2020-06-30 09:53,T21,"Kirk, Chris",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+11139,2020-07-01 09:26,15330,+10746,2020-06-30 09:53,T21,"Griffin, Lanto",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+11139,2020-07-01 09:26,14698,+10746,2020-06-30 09:53,CUT,"Bramlett, Joseph",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+11667,2020-07-01 09:26,12946,+11257,2020-06-30 09:53,T64,"Thompson, Michael",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+12375,2020-07-01 09:26,15720,+11940,2020-06-30 09:53,CUT,"Roach, Wes",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+13033,2020-07-01 09:26,18187,+12574,2020-06-30 09:53,T53,"Duncan, Tyler",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+13033,2020-07-01 09:26,20770,+12574,2020-06-30 09:53,CUT,"Munoz, Sebastian",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+13920,2020-07-01 09:26,12808,+13430,2020-06-30 09:53,T39,"Grillo, Emiliano",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+13920,2020-07-01 09:26,10943,+13430,2020-06-30 09:53,CUT,"Lashley, Nate",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+13920,2020-07-01 09:26,15575,+13430,2020-06-30 09:53,CUT,"Hoge, Tom",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+13920,2020-07-01 09:26,19483,+13430,2020-06-30 09:53,T30,"Burns, Sam",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+13920,2020-07-01 09:26,22051,+13430,2020-06-30 09:53,CUT,"Wise, Aaron",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+13920,2020-07-01 09:26,13470,+13430,2020-06-30 09:53,CUT,"Kizzire, Patton",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+16702,2020-07-01 09:26,14967,+16115,2020-06-30 09:53,CUT,"Hadley, Chesson",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+16702,2020-07-01 09:26,14140,+16115,2020-06-30 09:53,70,"Higgs, Harry",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+16702,2020-07-01 09:26,7301,+16115,2020-06-30 09:53,CUT,"Dufner, Jason",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+16702,2020-07-01 09:26,7960,+16115,2020-06-30 09:53,T21,"List, Luke",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+16702,2020-07-01 09:26,12920,+16115,2020-06-30 09:53,T4,"Willett, Danny",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+16702,2020-07-01 09:26,7398,+16115,2020-06-30 09:53,CUT,"Schwartzel, Charl",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524
+0,loss,+16702,2020-07-01 09:26,14007,+16115,2020-06-30 09:53,CUT,"Martin, Ben",pinnacle,2020-07-05,Rocket Mortgage Classic,win,2020,2020,524

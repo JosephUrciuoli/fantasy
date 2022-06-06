@@ -1,0 +1,51 @@
+bet_outcome_numeric,bet_outcome_text,close_odds,close_time,dg_id,open_odds,open_time,outcome,player_name,book,event_completed,event_name,market,season,year,event_id
+0,loss,+1547,2021-02-25 01:02,1435,+1699,2021-02-23 07:11,T35,"Poulter, Ian",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+1586,2021-02-25 01:02,13944,+1487,2021-02-23 07:11,T15,"Pieters, Thomas",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+1624,2021-02-25 01:02,16283,+2968,2021-02-23 07:11,T30,"Rodgers, Patrick",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+1811,2021-02-25 01:02,20706,+1699,2021-02-23 07:11,CUT,"Wallace, Matt",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+1811,2021-02-25 01:02,12808,+1699,2021-02-23 07:11,T11,"Grillo, Emiliano",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+1,paid in full,+1850,2021-02-25 01:02,11952,+1910,2021-02-23 07:11,1,"Grace, Branden",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+2260,2021-02-25 01:02,14459,+2122,2021-02-23 07:11,T35,"An, Byeong Hun",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+2486,2021-02-25 01:02,14704,+2333,2021-02-23 07:11,T5,"Putnam, Andrew",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+2929,2021-02-25 01:02,17780,+3828,2021-02-23 07:11,T53,"Pendrith, Taylor",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+2985,2021-02-25 01:02,15164,+2801,2021-02-23 07:11,CUT,"Lewis, Tom",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+3159,2021-02-25 01:02,25213,+2968,2021-02-23 07:11,T7,"Wu, Brandon",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+3722,2021-02-25 01:02,23482,+3497,2021-02-23 07:11,CUT,"Sigg, Greyson",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+3722,2021-02-25 01:02,22050,+3497,2021-02-23 07:11,T35,"Suh, Justin",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+3830,2021-02-25 01:02,18662,+3600,2021-02-23 07:11,CUT,"Schniederjans, Ollie",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+3830,2021-02-25 01:02,13508,+3600,2021-02-23 07:11,2,"Vegas, Jhonattan",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+3949,2021-02-25 01:02,7399,+3709,2021-02-23 07:11,T39,"Glover, Lucas",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+4061,2021-02-25 01:02,25157,+4488,2021-02-23 07:11,T13,"Hodges, Lee",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+4476,2021-02-25 01:02,19477,+5296,2021-02-23 07:11,T27,"Schenk, Adam",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+4510,2021-02-25 01:02,26660,+4238,2021-02-23 07:11,T27,"Gordon, Will",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+5071,2021-02-25 01:02,16715,+4767,2021-02-23 07:11,T39,"Ryder, Sam",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+5155,2021-02-25 01:02,11082,+5548,2021-02-23 07:11,T39,"Burgoon, Bronson",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+5166,2021-02-25 01:02,14050,+5548,2021-02-23 07:11,T22,"Sloan, Roger",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+5193,2021-02-25 01:02,11330,+7412,2021-02-23 07:11,T53,"Brown, Scott",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+5338,2021-02-25 01:02,19872,+5018,2021-02-23 07:11,T39,"Riley, Davis",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+5566,2021-02-25 01:02,15651,+6656,2021-02-23 07:11,T49,"Ventura, Kristoffer",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+5632,2021-02-25 01:02,21237,+5296,2021-02-23 07:11,CUT,"Hickok, Kramer",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+5632,2021-02-25 01:02,14698,+5296,2021-02-23 07:11,T49,"Bramlett, Joseph",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+5632,2021-02-25 01:02,5874,+5296,2021-02-23 07:11,T7,"Percy, Cameron",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+5632,2021-02-25 01:02,6930,+5296,2021-02-23 07:11,T39,"Taylor, Vaughn",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+5791,2021-02-25 01:02,12669,+6989,2021-02-23 07:11,T39,"Lahiri, Anirban",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+5967,2021-02-25 01:02,15470,+7194,2021-02-23 07:11,CUT,"Hossler, Beau",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+6195,2021-02-25 01:02,18695,+5825,2021-02-23 07:11,CUT,"Hagy, Brandon",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+6465,2021-02-25 01:02,8085,+6078,2021-02-23 07:11,T22,"Teater, Josh",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+6759,2021-02-25 01:02,5716,+6354,2021-02-23 07:11,T58,"Harrington, Padraig",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+6759,2021-02-25 01:02,16394,+6354,2021-02-23 07:11,T58,"Jaeger, Stephan",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+7078,2021-02-25 01:02,8769,+6656,2021-02-23 07:11,T7,"Potter Jr, Ted",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+7432,2021-02-25 01:02,11451,+6989,2021-02-23 07:11,T5,"Garnett, Brice",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+7432,2021-02-25 01:02,6252,+6989,2021-02-23 07:11,T30,"Baddeley, Aaron",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+7432,2021-02-25 01:02,24766,+6989,2021-02-23 07:11,T15,"Kim, Joohyung",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+7432,2021-02-25 01:02,12321,+6989,2021-02-23 07:11,CUT,"Aphibarnrat, Kiradech",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+7914,2021-02-25 01:02,8002,+9528,2021-02-23 07:11,T7,"Oppenheim, Rob",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+8407,2021-02-25 01:02,14007,+7906,2021-02-23 07:11,73,"Martin, Ben",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+9009,2021-02-25 01:02,13026,+8470,2021-02-23 07:11,T30,"Zhang, Xinjun",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+9009,2021-02-25 01:02,11357,+8470,2021-02-23 07:11,T39,"Uihlein, Peter",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+9009,2021-02-25 01:02,17509,+8470,2021-02-23 07:11,T15,"Seiffert, Chase",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+9287,2021-02-25 01:02,16566,+13231,2021-02-23 07:11,T58,"Barjon, Paul",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+10307,2021-02-25 01:02,7097,+9693,2021-02-23 07:11,T27,"Wilkinson, Tim",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+11255,2021-02-25 01:02,7340,+10586,2021-02-23 07:11,CUT,"Hearn, David",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+11255,2021-02-25 01:02,25908,+10586,2021-02-23 07:11,T15,"Whaley, Vincent",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483
+0,loss,+12506,2021-02-25 01:02,17536,+11763,2021-02-23 07:11,T68,"Spaun, J.J.",pinnacle,2021-02-28,Puerto Rico Open,win,2021,2021,483

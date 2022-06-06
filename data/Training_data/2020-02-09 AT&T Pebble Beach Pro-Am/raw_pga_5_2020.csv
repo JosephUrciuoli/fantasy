@@ -1,0 +1,533 @@
+tour,year,season,event_name,event_id,player_name,dg_id,fin_text,round_num,course_name,course_num,round_score,sg_putt,sg_arg,sg_app,sg_ott,sg_t2g,sg_total,driving_dist,driving_acc,gir,scrambling,prox_rgh,prox_fw
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Taylor, Nick",13126,1,1,Monterey Peninsula CC,769,63,,,,,,7.173,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Taylor, Nick",13126,1,2,Pebble Beach Golf Links,5,66,3.567,-0.373,1.432,0.508,1.568,5.135,267.3,0.857,0.778,0.833,68.168,25.675
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Taylor, Nick",13126,1,3,Spyglass Hill Golf Course,205,69,,,,,,5.059,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Taylor, Nick",13126,1,4,Pebble Beach Golf Links,5,70,2.324,2.045,1.094,-1.036,2.102,4.426,275.5,0.786,0.611,0.5,14.882,34.377
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Streelman, Kevin",8480,2,1,Spyglass Hill Golf Course,205,69,,,,,,2.923,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Streelman, Kevin",8480,2,2,Monterey Peninsula CC,769,67,,,,,,2.019,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Streelman, Kevin",8480,2,3,Pebble Beach Golf Links,5,68,2.088,-0.527,1.436,0.962,1.873,3.961,269.0,0.929,0.833,0.429,6.483,28.147
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Streelman, Kevin",8480,2,4,Pebble Beach Golf Links,5,68,1.554,0.695,2.953,1.225,4.872,6.426,282.3,0.857,0.778,0.4,46.237,28.464
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Mickelson, Phil",1547,3,1,Spyglass Hill Golf Course,205,68,,,,,,3.923,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Mickelson, Phil",1547,3,2,Monterey Peninsula CC,769,64,,,,,,5.019,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Mickelson, Phil",1547,3,3,Pebble Beach Golf Links,5,67,1.335,4.228,-1.518,0.914,3.626,4.961,287.7,0.643,0.5,0.917,49.451,39.947
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Mickelson, Phil",1547,3,4,Pebble Beach Golf Links,5,74,0.447,0.065,-0.552,0.467,-0.021,0.426,275.4,0.786,0.556,0.429,,45.936
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Day, Jason",9771,4,1,Monterey Peninsula CC,769,67,,,,,,3.173,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Day, Jason",9771,4,2,Pebble Beach Golf Links,5,64,3.083,3.312,0.315,0.424,4.052,7.135,281.4,0.643,0.889,1.0,41.005,35.186
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Day, Jason",9771,4,3,Spyglass Hill Golf Course,205,70,,,,,,4.059,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Day, Jason",9771,4,4,Pebble Beach Golf Links,5,75,-2.922,0.913,0.589,0.847,2.348,-0.574,273.5,0.857,0.667,0.667,18.775,37.968
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Berger, Daniel",17606,T5,1,Spyglass Hill Golf Course,205,70,,,,,,1.923,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Berger, Daniel",17606,T5,2,Monterey Peninsula CC,769,69,,,,,,0.019,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Berger, Daniel",17606,T5,3,Pebble Beach Golf Links,5,70,0.314,0.235,0.178,1.232,1.647,1.961,269.2,1.0,0.722,0.833,,34.502
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Berger, Daniel",17606,T5,4,Pebble Beach Golf Links,5,69,1.464,2.04,2.645,-0.722,3.962,5.426,267.0,0.714,0.5,0.875,52.391,23.238
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"McNealy, Maverick",18634,T5,1,Pebble Beach Golf Links,5,72,-2.176,0.595,0.381,1.142,2.118,-0.058,279.0,0.857,0.778,0.5,32.754,31.207
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"McNealy, Maverick",18634,T5,2,Spyglass Hill Golf Course,205,72,,,,,,0.667,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"McNealy, Maverick",18634,T5,3,Monterey Peninsula CC,769,66,,,,,,3.882,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"McNealy, Maverick",18634,T5,4,Pebble Beach Golf Links,5,68,6.054,0.213,1.353,-1.193,0.372,6.426,268.7,0.5,0.667,1.0,55.966,32.524
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Jones, Matt",8605,T5,1,Pebble Beach Golf Links,5,68,3.245,-1.163,1.129,0.731,0.697,3.942,275.3,0.786,0.667,0.5,24.314,32.552
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Jones, Matt",8605,T5,2,Spyglass Hill Golf Course,205,73,,,,,,-0.333,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Jones, Matt",8605,T5,3,Monterey Peninsula CC,769,65,,,,,,4.882,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Jones, Matt",8605,T5,4,Pebble Beach Golf Links,5,72,0.061,2.371,-0.186,0.181,2.365,2.426,272.5,0.714,0.667,0.5,39.704,40.397
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Schwartzel, Charl",7398,T5,1,Monterey Peninsula CC,769,67,,,,,,3.173,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Schwartzel, Charl",7398,T5,2,Pebble Beach Golf Links,5,66,3.022,0.653,0.966,0.493,2.113,5.135,273.2,0.786,0.833,1.0,11.036,37.956
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Schwartzel, Charl",7398,T5,3,Spyglass Hill Golf Course,205,73,,,,,,1.059,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Schwartzel, Charl",7398,T5,4,Pebble Beach Golf Links,5,72,-0.559,1.17,1.414,0.402,2.985,2.426,268.8,0.786,0.5,0.6,38.12,35.623
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Griffin, Lanto",15330,T9,1,Spyglass Hill Golf Course,205,67,,,,,,4.923,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Griffin, Lanto",15330,T9,2,Monterey Peninsula CC,769,68,,,,,,1.019,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Griffin, Lanto",15330,T9,3,Pebble Beach Golf Links,5,71,2.128,-0.093,-0.818,-0.258,-1.167,0.961,265.4,0.643,0.611,0.625,26.44,37.653
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Griffin, Lanto",15330,T9,4,Pebble Beach Golf Links,5,73,1.223,-0.155,1.097,-0.738,0.203,1.426,269.4,0.5,0.667,0.8,44.454,31.289
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Spieth, Jordan",14636,T9,1,Spyglass Hill Golf Course,205,70,,,,,,1.923,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Spieth, Jordan",14636,T9,2,Monterey Peninsula CC,769,71,,,,,,-1.981,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Spieth, Jordan",14636,T9,3,Pebble Beach Golf Links,5,71,-0.448,-0.637,0.645,1.399,1.409,0.961,275.5,0.929,0.889,0.429,,29.087
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Spieth, Jordan",14636,T9,4,Pebble Beach Golf Links,5,67,1.079,3.019,4.572,-1.243,6.347,7.426,268.0,0.571,0.667,0.889,48.176,27.449
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"NeSmith, Matthew",16433,T11,1,Pebble Beach Golf Links,5,68,1.724,0.199,0.345,1.674,2.218,3.942,280.8,0.929,0.778,0.778,50.983,33.86
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"NeSmith, Matthew",16433,T11,2,Spyglass Hill Golf Course,205,71,,,,,,1.667,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"NeSmith, Matthew",16433,T11,3,Monterey Peninsula CC,769,69,,,,,,0.882,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"NeSmith, Matthew",16433,T11,4,Pebble Beach Golf Links,5,72,-0.017,0.982,1.43,0.032,2.443,2.426,268.0,0.786,0.722,0.5,21.144,34.146
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Cantlay, Patrick",15466,T11,1,Spyglass Hill Golf Course,205,66,,,,,,5.923,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Cantlay, Patrick",15466,T11,2,Monterey Peninsula CC,769,69,,,,,,0.019,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Cantlay, Patrick",15466,T11,3,Pebble Beach Golf Links,5,72,-0.431,0.088,-0.219,0.521,0.392,-0.039,288.2,0.786,0.667,0.571,62.523,27.058
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Cantlay, Patrick",15466,T11,4,Pebble Beach Golf Links,5,73,0.353,0.291,1.304,-0.521,1.073,1.426,275.4,0.571,0.611,0.556,44.144,27.545
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Malnati, Peter",14926,T11,1,Pebble Beach Golf Links,5,70,1.719,0.154,-0.049,0.118,0.223,1.942,270.4,0.714,0.722,0.778,70.53,27.615
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Malnati, Peter",14926,T11,2,Spyglass Hill Golf Course,205,69,,,,,,3.667,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Malnati, Peter",14926,T11,3,Monterey Peninsula CC,769,66,,,,,,3.882,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Malnati, Peter",14926,T11,4,Pebble Beach Golf Links,5,75,1.781,1.821,-3.856,-0.319,-2.355,-0.574,272.4,0.714,0.167,0.733,33.838,59.428
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Holmes, J.B.",7959,T14,1,Pebble Beach Golf Links,5,71,0.806,-2.128,1.752,0.512,0.136,0.942,281.2,0.714,0.667,0.4,55.588,26.465
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Holmes, J.B.",7959,T14,2,Spyglass Hill Golf Course,205,72,,,,,,0.667,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Holmes, J.B.",7959,T14,3,Monterey Peninsula CC,769,67,,,,,,2.882,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Holmes, J.B.",7959,T14,4,Pebble Beach Golf Links,5,71,2.234,0.962,0.25,-0.019,1.192,3.426,276.3,0.786,0.611,0.778,4.942,41.458
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Dahmen, Joel",14509,T14,1,Monterey Peninsula CC,769,71,,,,,,-0.827,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Dahmen, Joel",14509,T14,2,Pebble Beach Golf Links,5,73,-1.507,-0.998,0.331,0.308,-0.358,-1.865,268.7,0.786,0.667,0.4,53.188,33.055
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Dahmen, Joel",14509,T14,3,Spyglass Hill Golf Course,205,67,,,,,,7.059,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Dahmen, Joel",14509,T14,4,Pebble Beach Golf Links,5,70,0.611,-0.614,2.672,1.758,3.815,4.426,277.3,1.0,0.722,0.625,,23.934
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Homa, Max",17538,T14,1,Spyglass Hill Golf Course,205,67,,,,,,4.923,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Homa, Max",17538,T14,2,Monterey Peninsula CC,769,69,,,,,,0.019,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Homa, Max",17538,T14,3,Pebble Beach Golf Links,5,71,0.258,0.794,-0.151,0.058,0.703,0.961,273.2,0.714,0.667,0.667,34.228,38.508
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Homa, Max",17538,T14,4,Pebble Beach Golf Links,5,74,0.051,-1.273,0.209,1.44,0.375,0.426,275.0,0.929,0.611,0.5,20.161,34.434
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Na, Kevin",7452,T14,1,Spyglass Hill Golf Course,205,75,,,,,,-3.077,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Na, Kevin",7452,T14,2,Monterey Peninsula CC,769,67,,,,,,2.019,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Na, Kevin",7452,T14,3,Pebble Beach Golf Links,5,68,2.014,0.258,1.847,-0.16,1.947,3.961,266.6,0.714,0.778,1.0,42.237,27.598
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Na, Kevin",7452,T14,4,Pebble Beach Golf Links,5,71,2.927,-0.332,1.879,-1.047,0.499,3.426,270.1,0.643,0.722,0.667,42.133,35.101
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hadley, Chesson",14967,T18,1,Spyglass Hill Golf Course,205,71,,,,,,0.923,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hadley, Chesson",14967,T18,2,Monterey Peninsula CC,769,67,,,,,,2.019,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hadley, Chesson",14967,T18,3,Pebble Beach Golf Links,5,72,-2.487,-0.065,1.55,0.961,2.448,-0.039,273.4,0.857,0.889,0.333,39.677,29.854
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hadley, Chesson",14967,T18,4,Pebble Beach Golf Links,5,72,0.154,0.496,1.023,0.754,2.272,2.426,271.4,0.857,0.722,0.75,75.751,29.268
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Clark, Wyndham",23604,T18,1,Spyglass Hill Golf Course,205,68,,,,,,3.923,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Clark, Wyndham",23604,T18,2,Monterey Peninsula CC,769,71,,,,,,-1.981,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Clark, Wyndham",23604,T18,3,Pebble Beach Golf Links,5,70,0.054,0.63,1.669,-0.394,1.907,1.961,273.6,0.571,0.833,0.6,28.465,28.42
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Clark, Wyndham",23604,T18,4,Pebble Beach Golf Links,5,73,1.854,-0.625,0.397,-0.199,-0.428,1.426,281.5,0.429,0.611,0.75,31.679,39.36
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Higgs, Harry",14140,T18,1,Monterey Peninsula CC,769,66,,,,,,4.173,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Higgs, Harry",14140,T18,2,Pebble Beach Golf Links,5,69,2.198,-1.637,0.499,1.074,-0.063,2.135,279.1,0.929,0.778,0.333,,30.16
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Higgs, Harry",14140,T18,3,Spyglass Hill Golf Course,205,74,,,,,,0.059,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Higgs, Harry",14140,T18,4,Pebble Beach Golf Links,5,73,2.014,-0.214,-0.903,0.53,-0.588,1.426,268.3,0.857,0.5,0.727,46.937,39.131
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Blair, Zac",17639,T18,1,Spyglass Hill Golf Course,205,69,,,,,,2.923,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Blair, Zac",17639,T18,2,Monterey Peninsula CC,769,69,,,,,,0.019,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Blair, Zac",17639,T18,3,Pebble Beach Golf Links,5,73,0.593,-0.313,-2.355,1.034,-1.632,-1.039,270.0,0.929,0.611,0.727,30.974,31.388
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Blair, Zac",17639,T18,4,Pebble Beach Golf Links,5,71,2.888,-0.042,-0.976,1.557,0.538,3.426,276.6,1.0,0.5,0.538,,39.482
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Bramlett, Joseph",14698,T18,1,Monterey Peninsula CC,769,71,,,,,,-0.827,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Bramlett, Joseph",14698,T18,2,Pebble Beach Golf Links,5,70,1.336,-0.646,0.34,0.104,-0.201,1.135,279.4,0.714,0.722,0.8,21.296,27.877
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Bramlett, Joseph",14698,T18,3,Spyglass Hill Golf Course,205,69,,,,,,5.059,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Bramlett, Joseph",14698,T18,4,Pebble Beach Golf Links,5,72,-0.961,1.354,2.631,-0.597,3.387,2.426,264.9,0.643,0.778,0.833,50.644,22.615
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Piercy, Scott",7899,T18,1,Monterey Peninsula CC,769,68,,,,,,2.173,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Piercy, Scott",7899,T18,2,Pebble Beach Golf Links,5,66,5.711,-1.035,0.809,-0.351,-0.576,5.135,267.6,0.786,0.778,0.6,52.66,26.905
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Piercy, Scott",7899,T18,3,Spyglass Hill Golf Course,205,72,,,,,,2.059,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Piercy, Scott",7899,T18,4,Pebble Beach Golf Links,5,76,-1.33,0.905,-0.221,-0.927,-0.244,-1.574,272.1,0.714,0.5,0.6,52.312,33.204
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Kitayama, Kurt",21891,T18,1,Spyglass Hill Golf Course,205,69,,,,,,2.923,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Kitayama, Kurt",21891,T18,2,Monterey Peninsula CC,769,69,,,,,,0.019,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Kitayama, Kurt",21891,T18,3,Pebble Beach Golf Links,5,69,-0.306,0.713,1.162,1.39,3.267,2.961,283.6,0.786,0.833,0.571,40.158,26.515
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Kitayama, Kurt",21891,T18,4,Pebble Beach Golf Links,5,75,-2.03,1.465,-0.827,0.819,1.456,-0.574,278.9,0.714,0.5,0.364,50.647,36.325
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Wilkinson, Tim",7097,T25,1,Pebble Beach Golf Links,5,69,-0.547,0.022,3.715,-0.248,3.489,2.942,269.6,0.786,0.833,0.6,46.09,24.406
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Wilkinson, Tim",7097,T25,2,Spyglass Hill Golf Course,205,70,,,,,,2.667,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Wilkinson, Tim",7097,T25,3,Monterey Peninsula CC,769,70,,,,,,-0.118,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Wilkinson, Tim",7097,T25,4,Pebble Beach Golf Links,5,74,-1.078,0.045,1.083,0.377,1.504,0.426,272.4,0.786,0.556,0.333,33.416,32.24
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Baddeley, Aaron",6252,T25,1,Monterey Peninsula CC,769,68,,,,,,2.173,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Baddeley, Aaron",6252,T25,2,Pebble Beach Golf Links,5,69,0.59,0.089,1.965,-0.51,1.545,2.135,263.6,0.643,0.778,0.833,47.632,24.34
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Baddeley, Aaron",6252,T25,3,Spyglass Hill Golf Course,205,71,,,,,,3.059,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Baddeley, Aaron",6252,T25,4,Pebble Beach Golf Links,5,75,-0.851,2.067,-0.156,-1.633,0.277,-0.574,263.1,0.786,0.556,0.556,69.296,40.532
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Reavie, Chez",7961,T25,1,Monterey Peninsula CC,769,67,,,,,,3.173,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Reavie, Chez",7961,T25,2,Pebble Beach Golf Links,5,69,-0.948,3.573,-0.016,-0.475,3.083,2.135,266.6,0.786,0.667,0.571,17.218,27.01
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Reavie, Chez",7961,T25,3,Spyglass Hill Golf Course,205,73,,,,,,1.059,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Reavie, Chez",7961,T25,4,Pebble Beach Golf Links,5,74,-2.454,0.334,2.327,0.22,2.88,0.426,262.2,0.857,0.778,0.5,56.821,32.279
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Chappell, Kevin",13305,T25,1,Spyglass Hill Golf Course,205,68,,,,,,3.923,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Chappell, Kevin",13305,T25,2,Monterey Peninsula CC,769,67,,,,,,2.019,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Chappell, Kevin",13305,T25,3,Pebble Beach Golf Links,5,74,-1.183,1.119,-0.758,-1.219,-0.856,-2.039,268.1,0.643,0.611,0.444,38.617,34.139
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Chappell, Kevin",13305,T25,4,Pebble Beach Golf Links,5,74,0.401,-1.071,0.627,0.47,0.025,0.426,273.2,0.786,0.611,0.417,21.808,38.663
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Merritt, Troy",13367,T25,1,Spyglass Hill Golf Course,205,69,,,,,,2.923,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Merritt, Troy",13367,T25,2,Monterey Peninsula CC,769,70,,,,,,-0.981,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Merritt, Troy",13367,T25,3,Pebble Beach Golf Links,5,73,2.241,-3.837,-0.316,0.871,-3.28,-1.039,269.3,0.857,0.667,0.5,,28.106
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Merritt, Troy",13367,T25,4,Pebble Beach Golf Links,5,71,0.969,1.025,0.902,0.531,2.457,3.426,267.4,0.857,0.778,0.714,28.756,37.67
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Martin, Ben",14007,T25,1,Pebble Beach Golf Links,5,72,-0.351,-0.297,0.222,0.368,0.293,-0.058,270.4,0.786,0.778,0.75,11.1,27.725
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Martin, Ben",14007,T25,2,Spyglass Hill Golf Course,205,68,,,,,,4.667,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Martin, Ben",14007,T25,3,Monterey Peninsula CC,769,70,,,,,,-0.118,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Martin, Ben",14007,T25,4,Pebble Beach Golf Links,5,73,0.788,1.248,-0.782,0.173,0.638,1.426,270.7,0.714,0.5,0.75,31.294,33.663
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Norlander, Henrik",11657,T25,1,Pebble Beach Golf Links,5,69,-0.202,0.647,1.363,1.134,3.144,2.942,276.9,0.857,0.833,0.667,50.544,31.088
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Norlander, Henrik",11657,T25,2,Spyglass Hill Golf Course,205,73,,,,,,-0.333,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Norlander, Henrik",11657,T25,3,Monterey Peninsula CC,769,70,,,,,,-0.118,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Norlander, Henrik",11657,T25,4,Pebble Beach Golf Links,5,71,2.534,1.791,-1.252,0.354,0.892,3.426,271.8,0.714,0.5,0.75,63.234,44.728
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"McCumber, Tyler",17584,T32,1,Pebble Beach Golf Links,5,71,0.988,0.288,0.654,-0.988,-0.046,0.942,284.1,0.571,0.778,0.667,54.126,31.036
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"McCumber, Tyler",17584,T32,2,Spyglass Hill Golf Course,205,70,,,,,,2.667,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"McCumber, Tyler",17584,T32,3,Monterey Peninsula CC,769,69,,,,,,0.882,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"McCumber, Tyler",17584,T32,4,Pebble Beach Golf Links,5,74,1.74,-1.038,0.526,-0.801,-1.314,0.426,278.6,0.571,0.5,0.5,49.445,32.732
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Mitchell, Keith",17365,T32,1,Monterey Peninsula CC,769,69,,,,,,1.173,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Mitchell, Keith",17365,T32,2,Pebble Beach Golf Links,5,67,1.696,0.316,1.847,0.275,2.439,4.135,277.7,0.714,0.722,0.857,38.875,24.857
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Mitchell, Keith",17365,T32,3,Spyglass Hill Golf Course,205,76,,,,,,-1.941,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Mitchell, Keith",17365,T32,4,Pebble Beach Golf Links,5,72,1.806,-2.54,2.63,0.531,0.62,2.426,284.5,0.643,0.611,0.333,29.381,29.944
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Every, Matt",10185,T32,1,Pebble Beach Golf Links,5,70,2.166,-1.013,-0.336,1.125,-0.224,1.942,269.2,0.929,0.778,0.667,12.793,30.424
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Every, Matt",10185,T32,2,Spyglass Hill Golf Course,205,66,,,,,,6.667,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Every, Matt",10185,T32,3,Monterey Peninsula CC,769,68,,,,,,1.882,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Every, Matt",10185,T32,4,Pebble Beach Golf Links,5,80,-0.935,-3.541,-1.573,0.476,-4.639,-5.574,280.4,0.714,0.556,0.286,65.09,41.194
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Johnson, Dustin",12422,T32,1,Spyglass Hill Golf Course,205,69,,,,,,2.923,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Johnson, Dustin",12422,T32,2,Monterey Peninsula CC,769,65,,,,,,4.019,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Johnson, Dustin",12422,T32,3,Pebble Beach Golf Links,5,72,-0.681,-0.581,1.783,-0.562,0.642,-0.039,276.1,0.643,0.778,0.571,32.937,21.113
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Johnson, Dustin",12422,T32,4,Pebble Beach Golf Links,5,78,-0.68,-1.651,-2.226,0.984,-2.894,-3.574,283.1,0.786,0.5,0.455,31.233,35.724
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Noren, Alex",10419,T32,1,Monterey Peninsula CC,769,69,,,,,,1.173,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Noren, Alex",10419,T32,2,Pebble Beach Golf Links,5,67,3.258,0.367,0.254,0.255,0.877,4.135,268.4,0.929,0.722,0.333,67.198,30.707
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Noren, Alex",10419,T32,3,Spyglass Hill Golf Course,205,74,,,,,,0.059,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Noren, Alex",10419,T32,4,Pebble Beach Golf Links,5,74,0.956,1.274,-2.101,0.298,-0.53,0.426,271.3,0.786,0.444,0.583,18.785,37.23
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Cejka, Alex",4425,T32,1,Pebble Beach Golf Links,5,69,0.09,1.013,1.983,-0.144,2.852,2.942,263.1,0.786,0.667,0.6,24.916,22.288
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Cejka, Alex",4425,T32,2,Spyglass Hill Golf Course,205,73,,,,,,-0.333,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Cejka, Alex",4425,T32,3,Monterey Peninsula CC,769,70,,,,,,-0.118,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Cejka, Alex",4425,T32,4,Pebble Beach Golf Links,5,72,0.792,2.848,-1.564,0.351,1.634,2.426,269.0,0.786,0.333,0.6,45.123,41.624
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Cink, Stewart",5665,T38,1,Pebble Beach Golf Links,5,69,0.699,0.747,1.518,-0.022,2.243,2.942,280.8,0.714,0.778,0.6,19.783,23.55
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Cink, Stewart",5665,T38,2,Spyglass Hill Golf Course,205,72,,,,,,0.667,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Cink, Stewart",5665,T38,3,Monterey Peninsula CC,769,70,,,,,,-0.118,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Cink, Stewart",5665,T38,4,Pebble Beach Golf Links,5,74,-1.485,0.777,1.276,-0.141,1.911,0.426,271.5,0.643,0.667,0.636,36.475,32.82
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Oppenheim, Rob",8002,T38,1,Monterey Peninsula CC,769,68,,,,,,2.173,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Oppenheim, Rob",8002,T38,2,Pebble Beach Golf Links,5,74,-4.28,1.706,0.073,-0.365,1.415,-2.865,260.2,0.786,0.833,0.333,46.119,28.882
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Oppenheim, Rob",8002,T38,3,Spyglass Hill Golf Course,205,70,,,,,,4.059,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Oppenheim, Rob",8002,T38,4,Pebble Beach Golf Links,5,73,-0.978,0.842,0.517,1.046,2.404,1.426,277.4,0.857,0.722,0.667,66.002,34.222
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Kisner, Kevin",11328,T38,1,Spyglass Hill Golf Course,205,72,,,,,,-0.077,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Kisner, Kevin",11328,T38,2,Monterey Peninsula CC,769,68,,,,,,1.019,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Kisner, Kevin",11328,T38,3,Pebble Beach Golf Links,5,70,0.788,0.929,0.096,0.146,1.173,1.961,265.2,0.786,0.778,0.75,52.442,32.779
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Kisner, Kevin",11328,T38,4,Pebble Beach Golf Links,5,75,0.217,-1.041,-0.522,0.773,-0.791,-0.574,274.0,0.857,0.611,0.444,28.693,39.863
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Kuchar, Matt",6169,T38,1,Pebble Beach Golf Links,5,70,1.621,0.289,0.092,-0.06,0.321,1.942,264.5,0.786,0.667,0.5,19.917,37.226
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Kuchar, Matt",6169,T38,2,Spyglass Hill Golf Course,205,71,,,,,,1.667,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Kuchar, Matt",6169,T38,3,Monterey Peninsula CC,769,68,,,,,,1.882,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Kuchar, Matt",6169,T38,4,Pebble Beach Golf Links,5,76,-1.441,-0.991,0.101,0.758,-0.133,-1.574,271.2,0.857,0.611,0.6,55.074,37.423
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Power, Seamus",10104,T38,1,Pebble Beach Golf Links,5,72,2.323,-0.747,-1.155,-0.479,-2.381,-0.058,281.3,0.643,0.611,0.571,45.942,28.187
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Power, Seamus",10104,T38,2,Spyglass Hill Golf Course,205,68,,,,,,4.667,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Power, Seamus",10104,T38,3,Monterey Peninsula CC,769,71,,,,,,-1.118,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Power, Seamus",10104,T38,4,Pebble Beach Golf Links,5,74,-0.475,1.593,-0.549,-0.142,0.901,0.426,275.2,0.714,0.667,0.75,51.934,35.396
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Davis, Cameron",17786,T38,1,Monterey Peninsula CC,769,71,,,,,,-0.827,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Davis, Cameron",17786,T38,2,Pebble Beach Golf Links,5,72,-2.117,-0.856,0.073,2.034,1.252,-0.865,291.5,0.929,0.778,0.375,26.602,35.437
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Davis, Cameron",17786,T38,3,Spyglass Hill Golf Course,205,69,,,,,,5.059,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Davis, Cameron",17786,T38,4,Pebble Beach Golf Links,5,73,-1.529,2.09,1.274,-0.408,2.955,1.426,273.8,0.643,0.611,0.6,44.105,30.774
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Baker, Chris",13971,T38,1,Monterey Peninsula CC,769,69,,,,,,1.173,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Baker, Chris",13971,T38,2,Pebble Beach Golf Links,5,64,3.525,0.168,2.711,0.73,3.61,7.135,269.3,0.929,0.778,0.833,101.696,28.875
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Baker, Chris",13971,T38,3,Spyglass Hill Golf Course,205,76,,,,,,-1.941,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Baker, Chris",13971,T38,4,Pebble Beach Golf Links,5,76,2.533,-1.91,-1.073,-1.123,-4.107,-1.574,268.7,0.857,0.444,0.538,30.242,33.554
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hovland, Viktor",18841,T38,1,Spyglass Hill Golf Course,205,70,,,,,,1.923,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hovland, Viktor",18841,T38,2,Monterey Peninsula CC,769,68,,,,,,1.019,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hovland, Viktor",18841,T38,3,Pebble Beach Golf Links,5,70,0.635,-0.576,0.397,1.503,1.326,1.961,280.0,0.929,0.833,0.333,51.378,29.039
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hovland, Viktor",18841,T38,4,Pebble Beach Golf Links,5,77,-1.905,-1.331,0.647,0.016,-0.669,-2.574,281.8,0.643,0.556,0.385,40.088,35.617
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hossler, Beau",15470,T38,1,Monterey Peninsula CC,769,68,,,,,,2.173,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hossler, Beau",15470,T38,2,Pebble Beach Golf Links,5,72,-0.625,0.576,-1.528,0.711,-0.24,-0.865,275.1,0.786,0.667,0.636,27.015,38.098
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hossler, Beau",15470,T38,3,Spyglass Hill Golf Course,205,70,,,,,,4.059,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hossler, Beau",15470,T38,4,Pebble Beach Golf Links,5,75,1.52,-1.032,-2.025,0.964,-2.094,-0.574,281.6,0.786,0.611,0.5,25.86,46.543
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Gay, Brian",5951,T38,1,Spyglass Hill Golf Course,205,72,,,,,,-0.077,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Gay, Brian",5951,T38,2,Monterey Peninsula CC,769,68,,,,,,1.019,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Gay, Brian",5951,T38,3,Pebble Beach Golf Links,5,68,1.689,1.264,1.393,-0.387,2.272,3.961,271.8,0.643,0.667,0.571,16.982,25.979
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Gay, Brian",5951,T38,4,Pebble Beach Golf Links,5,77,-1.328,-0.367,-0.779,-0.099,-1.246,-2.574,274.1,0.643,0.556,0.4,25.744,35.404
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Wu, Brandon",25213,T38,1,Spyglass Hill Golf Course,205,69,,,,,,2.923,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Wu, Brandon",25213,T38,2,Monterey Peninsula CC,769,66,,,,,,3.019,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Wu, Brandon",25213,T38,3,Pebble Beach Golf Links,5,76,-0.995,1.727,-3.552,-1.221,-3.044,-4.039,268.3,0.714,0.444,0.643,65.8,42.179
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Wu, Brandon",25213,T38,4,Pebble Beach Golf Links,5,74,1.464,-2.242,1.131,0.074,-1.038,0.426,268.3,0.786,0.667,0.25,61.957,33.345
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Whaley, Vincent",25908,T38,1,Pebble Beach Golf Links,5,71,0.642,1.57,-0.091,-1.179,0.3,0.942,282.9,0.643,0.611,0.8,31.791,31.089
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Whaley, Vincent",25908,T38,2,Spyglass Hill Golf Course,205,73,,,,,,-0.333,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Whaley, Vincent",25908,T38,3,Monterey Peninsula CC,769,67,,,,,,2.882,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Whaley, Vincent",25908,T38,4,Pebble Beach Golf Links,5,74,3.726,-2.443,-0.338,-0.518,-3.3,0.426,279.3,0.643,0.556,0.462,73.589,34.374
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Seiffert, Chase",17509,T50,1,Pebble Beach Golf Links,5,66,1.839,-0.363,3.6,0.866,4.103,5.942,278.5,0.786,0.889,0.8,24.373,29.636
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Seiffert, Chase",17509,T50,2,Spyglass Hill Golf Course,205,76,,,,,,-3.333,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Seiffert, Chase",17509,T50,3,Monterey Peninsula CC,769,69,,,,,,0.882,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Seiffert, Chase",17509,T50,4,Pebble Beach Golf Links,5,75,0.314,-1.056,0.109,0.06,-0.888,-0.574,279.8,0.786,0.611,0.6,67.685,33.346
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Glover, Lucas",7399,T50,1,Pebble Beach Golf Links,5,70,2.015,-1.513,1.708,-0.268,-0.073,1.942,278.6,0.643,0.722,0.286,29.418,34.246
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Glover, Lucas",7399,T50,2,Spyglass Hill Golf Course,205,76,,,,,,-3.333,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Glover, Lucas",7399,T50,3,Monterey Peninsula CC,769,66,,,,,,3.882,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Glover, Lucas",7399,T50,4,Pebble Beach Golf Links,5,74,0.896,-0.882,-0.137,0.55,-0.47,0.426,273.2,0.786,0.556,0.636,18.13,37.02
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"O'Hair, Sean",7626,T50,1,Spyglass Hill Golf Course,205,73,,,,,,-1.077,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"O'Hair, Sean",7626,T50,2,Monterey Peninsula CC,769,65,,,,,,4.019,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"O'Hair, Sean",7626,T50,3,Pebble Beach Golf Links,5,71,0.446,-0.44,0.667,0.286,0.515,0.961,272.9,0.786,0.778,0.75,23.754,38.975
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"O'Hair, Sean",7626,T50,4,Pebble Beach Golf Links,5,77,-2.963,-0.708,0.651,0.447,0.389,-2.574,269.1,0.786,0.611,0.4,11.124,36.77
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Redman, Doc",24481,T50,1,Spyglass Hill Golf Course,205,73,,,,,,-1.077,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Redman, Doc",24481,T50,2,Monterey Peninsula CC,769,67,,,,,,2.019,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Redman, Doc",24481,T50,3,Pebble Beach Golf Links,5,72,-2.938,1.79,0.048,1.059,2.899,-0.039,273.0,0.929,0.833,0.571,85.51,30.015
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Redman, Doc",24481,T50,4,Pebble Beach Golf Links,5,74,-0.277,-0.323,0.567,0.46,0.703,0.426,265.1,0.857,0.667,0.615,36.009,40.142
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Schenk, Adam",19477,T50,1,Monterey Peninsula CC,769,68,,,,,,2.173,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Schenk, Adam",19477,T50,2,Pebble Beach Golf Links,5,69,-1.143,-0.605,3.59,0.292,3.278,2.135,273.8,0.786,0.778,0.5,45.646,23.46
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Schenk, Adam",19477,T50,3,Spyglass Hill Golf Course,205,74,,,,,,0.059,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Schenk, Adam",19477,T50,4,Pebble Beach Golf Links,5,75,-1.746,-0.997,1.425,0.745,1.172,-0.574,282.0,0.714,0.667,0.556,31.017,27.814
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Herman, Jim",12846,T55,1,Monterey Peninsula CC,769,67,,,,,,3.173,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Herman, Jim",12846,T55,2,Pebble Beach Golf Links,5,73,-1.124,0.612,-1.392,0.038,-0.741,-1.865,261.2,0.857,0.667,0.556,50.746,40.717
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Herman, Jim",12846,T55,3,Spyglass Hill Golf Course,205,70,,,,,,4.059,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Herman, Jim",12846,T55,4,Pebble Beach Golf Links,5,77,0.18,0.759,-4.273,0.761,-2.754,-2.574,266.4,0.857,0.389,0.5,93.769,46.358
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Roach, Wes",15720,T55,1,Pebble Beach Golf Links,5,69,-0.501,1.069,1.923,0.451,3.443,2.942,283.7,0.714,0.833,0.333,28.326,29.167
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Roach, Wes",15720,T55,2,Spyglass Hill Golf Course,205,73,,,,,,-0.333,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Roach, Wes",15720,T55,3,Monterey Peninsula CC,769,70,,,,,,-0.118,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Roach, Wes",15720,T55,4,Pebble Beach Golf Links,5,75,-1.286,-0.073,0.385,0.401,0.712,-0.574,267.3,0.857,0.722,0.667,36.176,35.405
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Champ, Cameron",23542,T55,1,Monterey Peninsula CC,769,71,,,,,,-0.827,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Champ, Cameron",23542,T55,2,Pebble Beach Golf Links,5,66,2.168,-0.245,2.779,0.432,2.967,5.135,287.8,0.643,0.889,0.571,15.604,24.29
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Champ, Cameron",23542,T55,3,Spyglass Hill Golf Course,205,71,,,,,,3.059,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Champ, Cameron",23542,T55,4,Pebble Beach Golf Links,5,79,-3.199,-1.123,-0.951,0.7,-1.375,-4.574,296.9,0.643,0.556,0.5,24.363,40.333
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Gligic, Michael",13404,T55,1,Spyglass Hill Golf Course,205,72,,,,,,-0.077,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Gligic, Michael",13404,T55,2,Monterey Peninsula CC,769,71,,,,,,-1.981,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Gligic, Michael",13404,T55,3,Pebble Beach Golf Links,5,69,0.332,0.781,2.148,-0.302,2.629,2.961,280.4,0.643,0.833,1.0,19.718,29.685
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Gligic, Michael",13404,T55,4,Pebble Beach Golf Links,5,75,-2.029,0.188,0.328,0.94,1.455,-0.574,283.5,0.786,0.611,0.364,40.816,38.461
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Donald, Luke",4163,T55,1,Spyglass Hill Golf Course,205,72,,,,,,-0.077,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Donald, Luke",4163,T55,2,Monterey Peninsula CC,769,71,,,,,,-1.981,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Donald, Luke",4163,T55,3,Pebble Beach Golf Links,5,69,1.116,0.346,1.348,0.149,1.845,2.961,263.2,0.714,0.722,0.857,56.771,22.492
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Donald, Luke",4163,T55,4,Pebble Beach Golf Links,5,75,2.146,1.062,-2.806,-0.975,-2.72,-0.574,269.6,0.714,0.444,0.571,82.042,44.868
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Fitzpatrick, Matthew",17646,T60,1,Pebble Beach Golf Links,5,71,1.184,0.393,-1.118,0.483,-0.242,0.942,263.5,0.929,0.722,0.75,40.677,33.464
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Fitzpatrick, Matthew",17646,T60,2,Spyglass Hill Golf Course,205,70,,,,,,2.667,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Fitzpatrick, Matthew",17646,T60,3,Monterey Peninsula CC,769,68,,,,,,1.882,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Fitzpatrick, Matthew",17646,T60,4,Pebble Beach Golf Links,5,79,-0.52,-1.511,-2.533,-0.009,-4.054,-4.574,272.7,0.714,0.556,0.438,57.302,41.851
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hoge, Tom",15575,T60,1,Monterey Peninsula CC,769,69,,,,,,1.173,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hoge, Tom",15575,T60,2,Pebble Beach Golf Links,5,73,-1.473,-0.405,-0.592,0.604,-0.392,-1.865,267.3,0.857,0.778,0.429,25.001,25.588
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hoge, Tom",15575,T60,3,Spyglass Hill Golf Course,205,69,,,,,,5.059,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hoge, Tom",15575,T60,4,Pebble Beach Golf Links,5,77,1.037,-2.55,-0.614,-0.446,-3.611,-2.574,270.9,0.5,0.5,0.462,54.159,39.73
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Wise, Aaron",22051,T62,1,Monterey Peninsula CC,769,68,,,,,,2.173,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Wise, Aaron",22051,T62,2,Pebble Beach Golf Links,5,74,-2.408,-0.595,-0.436,0.573,-0.457,-2.865,277.3,0.786,0.833,0.625,27.914,33.624
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Wise, Aaron",22051,T62,3,Spyglass Hill Golf Course,205,70,,,,,,4.059,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Wise, Aaron",22051,T62,4,Pebble Beach Golf Links,5,77,-2.26,0.135,0.045,-0.493,-0.314,-2.574,260.8,0.643,0.667,0.5,36.14,31.616
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Dufner, Jason",7301,T62,1,Spyglass Hill Golf Course,205,73,,,,,,-1.077,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Dufner, Jason",7301,T62,2,Monterey Peninsula CC,769,70,,,,,,-0.981,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Dufner, Jason",7301,T62,3,Pebble Beach Golf Links,5,68,1.946,1.008,1.562,-0.557,2.015,3.961,261.8,0.714,0.722,0.75,26.032,26.907
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Dufner, Jason",7301,T62,4,Pebble Beach Golf Links,5,78,-2.933,0.408,-1.112,0.064,-0.641,-3.574,269.3,0.786,0.5,0.5,56.051,40.985
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Casey, Paul",7108,T64,1,Spyglass Hill Golf Course,205,71,,,,,,0.923,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Casey, Paul",7108,T64,2,Monterey Peninsula CC,769,65,,,,,,4.019,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Casey, Paul",7108,T64,3,Pebble Beach Golf Links,5,73,-1.259,-1.159,1.173,0.204,0.22,-1.039,274.4,0.857,0.611,0.444,73.916,33.761
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Casey, Paul",7108,T64,4,Pebble Beach Golf Links,5,81,-4.55,-0.406,-2.206,0.589,-2.024,-6.574,265.2,0.857,0.611,0.333,43.799,34.17
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Tringale, Cameron",14013,T64,1,Monterey Peninsula CC,769,71,,,,,,-0.827,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Tringale, Cameron",14013,T64,2,Pebble Beach Golf Links,5,69,1.46,-0.519,-0.115,1.308,0.675,2.135,286.5,0.786,0.833,0.5,13.085,35.982
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Tringale, Cameron",14013,T64,3,Spyglass Hill Golf Course,205,71,,,,,,3.059,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Tringale, Cameron",14013,T64,4,Pebble Beach Golf Links,5,79,-0.659,0.686,-1.226,-3.374,-3.915,-4.574,274.6,0.5,0.5,0.533,53.019,45.674
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Zhang, Xinjun",13026,T64,1,Pebble Beach Golf Links,5,71,2.447,-0.271,-0.352,-0.882,-1.505,0.942,270.6,0.714,0.667,0.429,41.994,29.622
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Zhang, Xinjun",13026,T64,2,Spyglass Hill Golf Course,205,74,,,,,,-1.333,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Zhang, Xinjun",13026,T64,3,Monterey Peninsula CC,769,67,,,,,,2.882,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Zhang, Xinjun",13026,T64,4,Pebble Beach Golf Links,5,78,-1.308,-2.174,-0.87,0.779,-2.266,-3.574,268.5,0.929,0.667,0.3,38.833,35.819
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Senden, John",5207,67,1,Spyglass Hill Golf Course,205,71,,,,,,0.923,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Senden, John",5207,67,2,Monterey Peninsula CC,769,71,,,,,,-1.981,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Senden, John",5207,67,3,Pebble Beach Golf Links,5,67,3.326,0.589,-0.269,1.313,1.635,4.961,274.5,0.929,0.722,0.9,53.471,33.421
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Senden, John",5207,67,4,Pebble Beach Golf Links,5,83,-4.029,-0.756,-1.504,-2.284,-4.545,-8.574,264.8,0.714,0.444,0.286,44.784,41.316
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Brehm, Ryan",10423,68,1,Spyglass Hill Golf Course,205,73,,,,,,-1.077,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Brehm, Ryan",10423,68,2,Monterey Peninsula CC,769,69,,,,,,0.019,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Brehm, Ryan",10423,68,3,Pebble Beach Golf Links,5,68,0.704,2.571,1.317,-0.633,3.257,3.961,287.5,0.643,0.722,0.857,44.623,28.738
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Brehm, Ryan",10423,68,4,Pebble Beach Golf Links,5,87,-2.38,-2.975,-3.349,-3.869,-10.194,-12.574,281.5,0.5,0.444,0.333,43.525,47.291
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Werenski, Richy",19364,CUT,1,Monterey Peninsula CC,769,66,,,,,,4.173,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Werenski, Richy",19364,CUT,2,Pebble Beach Golf Links,5,72,1.028,-0.713,-0.311,-0.87,-1.893,-0.865,256.5,0.714,0.667,0.333,39.798,32.223
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Werenski, Richy",19364,CUT,3,Spyglass Hill Golf Course,205,75,,,,,,-0.941,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Taylor, Vaughn",6930,CUT,1,Pebble Beach Golf Links,5,72,-0.032,-0.332,-0.123,0.429,-0.026,-0.058,268.1,0.857,0.722,0.333,44.871,26.898
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Taylor, Vaughn",6930,CUT,2,Spyglass Hill Golf Course,205,71,,,,,,1.667,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Taylor, Vaughn",6930,CUT,3,Monterey Peninsula CC,769,70,,,,,,-0.118,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Furyk, Jim",2881,CUT,1,Spyglass Hill Golf Course,205,74,,,,,,-2.077,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Furyk, Jim",2881,CUT,2,Monterey Peninsula CC,769,70,,,,,,-0.981,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Furyk, Jim",2881,CUT,3,Pebble Beach Golf Links,5,69,1.695,-0.149,1.035,0.378,1.266,2.961,262.2,0.929,0.778,0.4,19.425,32.048
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Streb, Robert",14852,CUT,1,Pebble Beach Golf Links,5,67,-0.627,3.171,0.819,1.579,5.569,4.942,278.5,0.929,0.778,0.75,,23.513
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Streb, Robert",14852,CUT,2,Spyglass Hill Golf Course,205,74,,,,,,-1.333,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Streb, Robert",14852,CUT,3,Monterey Peninsula CC,769,72,,,,,,-2.118,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Atwal, Arjun",5701,CUT,1,Spyglass Hill Golf Course,205,75,,,,,,-3.077,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Atwal, Arjun",5701,CUT,2,Monterey Peninsula CC,769,67,,,,,,2.019,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Atwal, Arjun",5701,CUT,3,Pebble Beach Golf Links,5,71,-2.945,1.598,1.829,0.477,3.906,0.961,265.6,0.857,0.722,0.857,83.835,24.843
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hubbard, Mark",16333,CUT,1,Pebble Beach Golf Links,5,74,-1.356,0.41,-1.42,0.308,-0.702,-2.058,263.5,0.857,0.5,0.455,67.34,34.594
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hubbard, Mark",16333,CUT,2,Spyglass Hill Golf Course,205,72,,,,,,0.667,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hubbard, Mark",16333,CUT,3,Monterey Peninsula CC,769,67,,,,,,2.882,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hoag, Bo",14081,CUT,1,Pebble Beach Golf Links,5,71,0.83,2.288,-2.058,-0.118,0.112,0.942,276.8,0.786,0.556,0.444,,38.67
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hoag, Bo",14081,CUT,2,Spyglass Hill Golf Course,205,75,,,,,,-2.333,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hoag, Bo",14081,CUT,3,Monterey Peninsula CC,769,67,,,,,,2.882,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Watney, Nick",7955,CUT,1,Pebble Beach Golf Links,5,73,-1.208,0.946,1.455,-2.251,0.15,-1.058,269.3,0.643,0.778,0.333,32.621,29.145
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Watney, Nick",7955,CUT,2,Spyglass Hill Golf Course,205,66,,,,,,6.667,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Watney, Nick",7955,CUT,3,Monterey Peninsula CC,769,74,,,,,,-4.118,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Snedeker, Brandt",8820,CUT,1,Spyglass Hill Golf Course,205,73,,,,,,-1.077,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Snedeker, Brandt",8820,CUT,2,Monterey Peninsula CC,769,67,,,,,,2.019,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Snedeker, Brandt",8820,CUT,3,Pebble Beach Golf Links,5,74,-2.202,1.296,0.765,-1.9,0.163,-2.039,261.4,0.643,0.611,0.5,50.275,27.991
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Choi, K.J.",1804,CUT,1,Monterey Peninsula CC,769,74,,,,,,-3.827,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Choi, K.J.",1804,CUT,2,Pebble Beach Golf Links,5,66,0.467,0.818,3.919,-0.07,4.668,5.135,267.2,0.643,0.944,1.0,28.005,19.431
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Choi, K.J.",1804,CUT,3,Spyglass Hill Golf Course,205,74,,,,,,0.059,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Suh, Justin",22050,CUT,1,Monterey Peninsula CC,769,67,,,,,,3.173,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Suh, Justin",22050,CUT,2,Pebble Beach Golf Links,5,70,2.641,0.301,-0.525,-1.283,-1.506,1.135,270.9,0.571,0.556,0.818,33.161,36.075
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Suh, Justin",22050,CUT,3,Spyglass Hill Golf Course,205,77,,,,,,-2.941,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Varner III, Harold",16602,CUT,1,Pebble Beach Golf Links,5,67,0.913,-0.063,2.722,1.37,4.029,4.942,278.7,0.929,0.833,0.571,64.309,29.796
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Varner III, Harold",16602,CUT,2,Spyglass Hill Golf Course,205,76,,,,,,-3.333,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Varner III, Harold",16602,CUT,3,Monterey Peninsula CC,769,71,,,,,,-1.118,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Kaufman, Smylie",18631,CUT,1,Spyglass Hill Golf Course,205,75,,,,,,-3.077,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Kaufman, Smylie",18631,CUT,2,Monterey Peninsula CC,769,66,,,,,,3.019,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Kaufman, Smylie",18631,CUT,3,Pebble Beach Golf Links,5,73,-0.922,1.467,1.354,-2.94,-0.117,-1.039,282.2,0.357,0.611,0.857,22.907,41.345
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hadwin, Adam",13965,CUT,1,Spyglass Hill Golf Course,205,74,,,,,,-2.077,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hadwin, Adam",13965,CUT,2,Monterey Peninsula CC,769,69,,,,,,0.019,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hadwin, Adam",13965,CUT,3,Pebble Beach Golf Links,5,71,0.51,-0.988,1.095,0.342,0.451,0.961,276.2,0.786,0.611,0.571,49.16,26.117
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Landry, Andrew",14000,CUT,1,Pebble Beach Golf Links,5,76,-3.323,-0.532,0.282,-0.485,-0.735,-4.058,263.0,0.643,0.667,0.375,59.177,29.637
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Landry, Andrew",14000,CUT,2,Spyglass Hill Golf Course,205,69,,,,,,3.667,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Landry, Andrew",14000,CUT,3,Monterey Peninsula CC,769,69,,,,,,0.882,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Thompson, Michael",12946,CUT,1,Pebble Beach Golf Links,5,73,-0.401,0.091,1.201,-1.949,-0.657,-1.058,265.8,0.5,0.833,0.6,41.152,29.938
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Thompson, Michael",12946,CUT,2,Spyglass Hill Golf Course,205,74,,,,,,-1.333,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Thompson, Michael",12946,CUT,3,Monterey Peninsula CC,769,67,,,,,,2.882,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Ghim, Doug",24550,CUT,1,Monterey Peninsula CC,769,68,,,,,,2.173,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Ghim, Doug",24550,CUT,2,Pebble Beach Golf Links,5,72,0.039,-0.271,-0.419,-0.215,-0.904,-0.865,265.6,0.714,0.611,0.429,61.634,23.703
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Ghim, Doug",24550,CUT,3,Spyglass Hill Golf Course,205,74,,,,,,0.059,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hoffman, Charley",5768,CUT,1,Spyglass Hill Golf Course,205,67,,,,,,4.923,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hoffman, Charley",5768,CUT,2,Monterey Peninsula CC,769,72,,,,,,-2.981,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hoffman, Charley",5768,CUT,3,Pebble Beach Golf Links,5,75,-1.885,-1.004,-0.943,0.791,-1.154,-3.039,277.2,0.786,0.611,0.385,53.837,37.397
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Lahiri, Anirban",12669,CUT,1,Pebble Beach Golf Links,5,73,-1.576,0.402,-0.907,1.023,0.518,-1.058,286.3,0.786,0.667,0.455,42.729,32.822
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Lahiri, Anirban",12669,CUT,2,Spyglass Hill Golf Course,205,71,,,,,,1.667,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Lahiri, Anirban",12669,CUT,3,Monterey Peninsula CC,769,70,,,,,,-0.118,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Kirk, Chris",12423,CUT,1,Pebble Beach Golf Links,5,72,-1.142,0.449,0.446,0.189,1.084,-0.058,268.3,0.714,0.722,0.571,35.279,32.935
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Kirk, Chris",12423,CUT,2,Spyglass Hill Golf Course,205,72,,,,,,0.667,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Kirk, Chris",12423,CUT,3,Monterey Peninsula CC,769,70,,,,,,-0.118,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Stallings, Scott",12359,CUT,1,Pebble Beach Golf Links,5,73,-2.737,-0.268,2.188,-0.241,1.679,-1.058,269.1,0.643,0.611,0.545,37.442,30.767
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Stallings, Scott",12359,CUT,2,Spyglass Hill Golf Course,205,73,,,,,,-0.333,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Stallings, Scott",12359,CUT,3,Monterey Peninsula CC,769,68,,,,,,1.882,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Grace, Branden",11952,CUT,1,Spyglass Hill Golf Course,205,73,,,,,,-1.077,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Grace, Branden",11952,CUT,2,Monterey Peninsula CC,769,70,,,,,,-0.981,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Grace, Branden",11952,CUT,3,Pebble Beach Golf Links,5,72,0.765,0.565,-1.289,-0.082,-0.804,-0.039,280.9,0.5,0.611,0.75,45.075,30.513
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Brown, Scott",11330,CUT,1,Pebble Beach Golf Links,5,77,0.281,-2.145,-2.709,-0.485,-5.339,-5.058,266.3,0.786,0.667,0.333,50.053,42.186
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Brown, Scott",11330,CUT,2,Spyglass Hill Golf Course,205,72,,,,,,0.667,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Brown, Scott",11330,CUT,3,Monterey Peninsula CC,769,66,,,,,,3.882,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Uihlein, Peter",11357,CUT,1,Spyglass Hill Golf Course,205,73,,,,,,-1.077,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Uihlein, Peter",11357,CUT,2,Monterey Peninsula CC,769,70,,,,,,-0.981,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Uihlein, Peter",11357,CUT,3,Pebble Beach Golf Links,5,72,0.276,-0.604,0.788,-0.501,-0.315,-0.039,270.8,0.643,0.722,0.375,27.216,28.485
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Wagner, Johnson",7927,CUT,1,Monterey Peninsula CC,769,70,,,,,,0.173,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Wagner, Johnson",7927,CUT,2,Pebble Beach Golf Links,5,74,-1.218,-0.477,-1.891,0.72,-1.647,-2.865,272.1,0.857,0.778,0.4,33.987,27.288
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Wagner, Johnson",7927,CUT,3,Spyglass Hill Golf Course,205,71,,,,,,3.059,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Ventura, Kristoffer",15651,CUT,1,Pebble Beach Golf Links,5,71,1.2,-1.945,0.183,1.504,-0.258,0.942,285.9,0.786,0.722,0.333,49.38,35.013
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Ventura, Kristoffer",15651,CUT,2,Spyglass Hill Golf Course,205,76,,,,,,-3.333,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Ventura, Kristoffer",15651,CUT,3,Monterey Peninsula CC,769,68,,,,,,1.882,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Rodgers, Patrick",16283,CUT,1,Spyglass Hill Golf Course,205,76,,,,,,-4.077,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Rodgers, Patrick",16283,CUT,2,Monterey Peninsula CC,769,68,,,,,,1.019,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Rodgers, Patrick",16283,CUT,3,Pebble Beach Golf Links,5,71,1.004,0.267,0.342,-0.654,-0.043,0.961,283.2,0.643,0.722,0.625,34.849,42.343
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Anderson, Mark",12131,CUT,1,Monterey Peninsula CC,769,73,,,,,,-2.827,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Anderson, Mark",12131,CUT,2,Pebble Beach Golf Links,5,70,0.73,0.078,-0.308,0.634,0.405,1.135,274.9,0.929,0.667,0.7,21.828,34.335
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Anderson, Mark",12131,CUT,3,Spyglass Hill Golf Course,205,72,,,,,,2.059,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Knox, Russell",13831,CUT,1,Spyglass Hill Golf Course,205,74,,,,,,-2.077,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Knox, Russell",13831,CUT,2,Monterey Peninsula CC,769,65,,,,,,4.019,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Knox, Russell",13831,CUT,3,Pebble Beach Golf Links,5,76,-3.347,-1.052,-0.724,1.082,-0.692,-4.039,288.5,0.643,0.667,0.444,48.457,29.038
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Stricker, Steve",4818,CUT,1,Spyglass Hill Golf Course,205,74,,,,,,-2.077,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Stricker, Steve",4818,CUT,2,Monterey Peninsula CC,769,68,,,,,,1.019,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Stricker, Steve",4818,CUT,3,Pebble Beach Golf Links,5,73,0.46,-0.287,-1.482,0.268,-1.499,-1.039,269.3,0.857,0.556,0.444,29.895,30.471
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Harrington, Scott",8479,CUT,1,Monterey Peninsula CC,769,68,,,,,,2.173,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Harrington, Scott",8479,CUT,2,Pebble Beach Golf Links,5,72,-0.597,-0.714,-0.251,0.696,-0.268,-0.865,276.9,0.857,0.722,0.5,22.17,44.303
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Harrington, Scott",8479,CUT,3,Spyglass Hill Golf Course,205,75,,,,,,-0.941,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Potter, Jr., Ted",8769,CUT,1,Pebble Beach Golf Links,5,72,-0.863,0.065,2.38,-1.64,0.805,-0.058,276.2,0.286,0.778,0.333,31.481,23.828
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Potter, Jr., Ted",8769,CUT,2,Spyglass Hill Golf Course,205,74,,,,,,-1.333,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Potter, Jr., Ted",8769,CUT,3,Monterey Peninsula CC,769,69,,,,,,0.882,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hughes, Mackenzie",15556,CUT,1,Pebble Beach Golf Links,5,74,0.518,-0.433,-2.016,-0.127,-2.576,-2.058,281.3,0.714,0.611,0.556,64.479,34.724
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hughes, Mackenzie",15556,CUT,2,Spyglass Hill Golf Course,205,72,,,,,,0.667,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hughes, Mackenzie",15556,CUT,3,Monterey Peninsula CC,769,69,,,,,,0.882,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Aphibarnrat, Kiradech",12321,CUT,1,Pebble Beach Golf Links,5,73,-1.73,0.449,0.297,-0.074,0.672,-1.058,275.4,0.786,0.667,0.556,39.817,32.872
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Aphibarnrat, Kiradech",12321,CUT,2,Spyglass Hill Golf Course,205,79,,,,,,-6.333,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Aphibarnrat, Kiradech",12321,CUT,3,Monterey Peninsula CC,769,64,,,,,,5.882,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Gomez, Fabian",8571,CUT,1,Monterey Peninsula CC,769,73,,,,,,-2.827,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Gomez, Fabian",8571,CUT,2,Pebble Beach Golf Links,5,66,-0.253,1.719,2.63,1.038,5.388,5.135,278.0,0.857,0.722,0.667,22.89,31.912
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Gomez, Fabian",8571,CUT,3,Spyglass Hill Golf Course,205,77,,,,,,-2.941,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Barnes, Ricky",6846,CUT,1,Monterey Peninsula CC,769,66,,,,,,4.173,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Barnes, Ricky",6846,CUT,2,Pebble Beach Golf Links,5,72,0.738,-0.16,1.11,-2.554,-1.603,-0.865,270.0,0.5,0.556,0.556,35.278,30.242
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Barnes, Ricky",6846,CUT,3,Spyglass Hill Golf Course,205,78,,,,,,-3.941,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Chalmers, Greg",5625,CUT,1,Monterey Peninsula CC,769,67,,,,,,3.173,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Chalmers, Greg",5625,CUT,2,Pebble Beach Golf Links,5,73,-0.145,2.495,-4.518,0.302,-1.72,-1.865,265.9,0.857,0.611,0.889,16.41,41.732
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Chalmers, Greg",5625,CUT,3,Spyglass Hill Golf Course,205,76,,,,,,-1.941,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Sucher, Zack",14036,CUT,1,Pebble Beach Golf Links,5,72,0.529,-0.422,-1.219,1.054,-0.587,-0.058,281.5,0.714,0.611,0.455,55.436,41.795
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Sucher, Zack",14036,CUT,2,Spyglass Hill Golf Course,205,74,,,,,,-1.333,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Sucher, Zack",14036,CUT,3,Monterey Peninsula CC,769,70,,,,,,-0.118,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"McNeill, George",6419,CUT,1,Monterey Peninsula CC,769,68,,,,,,2.173,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"McNeill, George",6419,CUT,2,Pebble Beach Golf Links,5,71,0.649,-1.147,0.433,0.199,-0.514,0.135,271.5,0.786,0.778,0.286,51.234,29.95
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"McNeill, George",6419,CUT,3,Spyglass Hill Golf Course,205,77,,,,,,-2.941,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hahn, James",11374,CUT,1,Monterey Peninsula CC,769,71,,,,,,-0.827,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hahn, James",11374,CUT,2,Pebble Beach Golf Links,5,70,0.721,-0.093,0.261,0.245,0.414,1.135,256.1,1.0,0.722,0.6,,31.246
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hahn, James",11374,CUT,3,Spyglass Hill Golf Course,205,75,,,,,,-0.941,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Cappelen, Sebastian",14776,CUT,1,Spyglass Hill Golf Course,205,72,,,,,,-0.077,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Cappelen, Sebastian",14776,CUT,2,Monterey Peninsula CC,769,70,,,,,,-0.981,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Cappelen, Sebastian",14776,CUT,3,Pebble Beach Golf Links,5,75,0.346,-0.768,-2.668,0.049,-3.385,-3.039,273.8,0.571,0.5,0.615,58.901,27.343
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Harrington, Padraig",5716,CUT,1,Monterey Peninsula CC,769,70,,,,,,0.173,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Harrington, Padraig",5716,CUT,2,Pebble Beach Golf Links,5,73,-1.854,0.613,-0.963,0.338,-0.011,-1.865,272.5,0.786,0.667,0.6,126.567,32.611
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Harrington, Padraig",5716,CUT,3,Spyglass Hill Golf Course,205,74,,,,,,0.059,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Bozzelli, Dominic",17564,CUT,1,Pebble Beach Golf Links,5,76,-1.8,-0.035,-1.182,-1.041,-2.258,-4.058,272.4,0.357,0.556,0.333,39.511,38.294
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Bozzelli, Dominic",17564,CUT,2,Spyglass Hill Golf Course,205,71,,,,,,1.667,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Bozzelli, Dominic",17564,CUT,3,Monterey Peninsula CC,769,70,,,,,,-0.118,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Byrd, Jonathan",6931,CUT,1,Monterey Peninsula CC,769,67,,,,,,3.173,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Byrd, Jonathan",6931,CUT,2,Pebble Beach Golf Links,5,72,-2.605,0.48,1.478,-0.219,1.74,-0.865,262.0,0.714,0.889,0.333,9.543,30.393
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Byrd, Jonathan",6931,CUT,3,Spyglass Hill Golf Course,205,78,,,,,,-3.941,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Garnett, Brice",11451,CUT,1,Monterey Peninsula CC,769,70,,,,,,0.173,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Garnett, Brice",11451,CUT,2,Pebble Beach Golf Links,5,70,0.289,-0.497,1.178,0.164,0.846,1.135,274.6,0.714,0.833,0.2,46.174,22.986
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Garnett, Brice",11451,CUT,3,Spyglass Hill Golf Course,205,77,,,,,,-2.941,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Martin, Patrick",26664,CUT,1,Monterey Peninsula CC,769,73,,,,,,-2.827,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Martin, Patrick",26664,CUT,2,Pebble Beach Golf Links,5,71,-0.526,0.942,-0.638,0.356,0.661,0.135,277.3,0.714,0.778,0.5,45.584,42.678
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Martin, Patrick",26664,CUT,3,Spyglass Hill Golf Course,205,73,,,,,,1.059,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Ledesma, Nelson",15239,CUT,1,Pebble Beach Golf Links,5,73,1.511,-0.97,-2.583,0.984,-2.569,-1.058,275.1,0.857,0.667,0.545,50.816,34.738
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Ledesma, Nelson",15239,CUT,2,Spyglass Hill Golf Course,205,70,,,,,,2.667,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Ledesma, Nelson",15239,CUT,3,Monterey Peninsula CC,769,74,,,,,,-4.118,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Gellerman, Michael",19909,CUT,1,Pebble Beach Golf Links,5,73,-1.281,0.684,-0.271,-0.19,0.223,-1.058,276.7,0.714,0.611,0.556,44.352,32.209
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Gellerman, Michael",19909,CUT,2,Spyglass Hill Golf Course,205,73,,,,,,-0.333,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Gellerman, Michael",19909,CUT,3,Monterey Peninsula CC,769,71,,,,,,-1.118,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hagy, Brandon",18695,CUT,1,Pebble Beach Golf Links,5,73,0.681,-1.408,0.125,-0.456,-1.739,-1.058,292.9,0.5,0.667,0.556,41.997,38.005
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hagy, Brandon",18695,CUT,2,Spyglass Hill Golf Course,205,68,,,,,,4.667,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hagy, Brandon",18695,CUT,3,Monterey Peninsula CC,769,76,,,,,,-6.118,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Campbell, Chad",6248,CUT,1,Spyglass Hill Golf Course,205,74,,,,,,-2.077,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Campbell, Chad",6248,CUT,2,Monterey Peninsula CC,769,72,,,,,,-2.981,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Campbell, Chad",6248,CUT,3,Pebble Beach Golf Links,5,71,0.732,0.61,-0.996,0.613,0.229,0.961,271.7,0.786,0.611,0.778,11.485,33.901
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Taylor, Ben",19948,CUT,1,Spyglass Hill Golf Course,205,73,,,,,,-1.077,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Taylor, Ben",19948,CUT,2,Monterey Peninsula CC,769,67,,,,,,2.019,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Taylor, Ben",19948,CUT,3,Pebble Beach Golf Links,5,77,-0.869,0.307,-1.728,-2.751,-4.17,-5.039,271.2,0.786,0.611,0.625,,27.194
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Stuard, Brian",13022,CUT,1,Pebble Beach Golf Links,5,73,0.616,-2.116,0.258,0.184,-1.674,-1.058,258.9,0.857,0.667,0.545,20.047,32.027
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Stuard, Brian",13022,CUT,2,Spyglass Hill Golf Course,205,77,,,,,,-4.333,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Stuard, Brian",13022,CUT,3,Monterey Peninsula CC,769,68,,,,,,1.882,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Long, Adam",15473,CUT,1,Spyglass Hill Golf Course,205,74,,,,,,-2.077,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Long, Adam",15473,CUT,2,Monterey Peninsula CC,769,66,,,,,,3.019,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Long, Adam",15473,CUT,3,Pebble Beach Golf Links,5,78,-0.934,-3.37,-0.578,-1.159,-5.105,-6.039,274.3,0.643,0.667,0.182,54.854,39.319
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"McDowell, Graeme",7548,CUT,1,Spyglass Hill Golf Course,205,70,,,,,,1.923,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"McDowell, Graeme",7548,CUT,2,Monterey Peninsula CC,769,75,,,,,,-5.981,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"McDowell, Graeme",7548,CUT,3,Pebble Beach Golf Links,5,73,-0.657,-0.777,-0.233,0.626,-0.382,-1.039,272.7,0.786,0.722,0.375,27.968,33.719
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Lingmerth, David",14815,CUT,1,Pebble Beach Golf Links,5,72,-3.241,0.039,2.992,0.152,3.183,-0.058,273.6,0.643,0.833,0.333,32.008,16.266
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Lingmerth, David",14815,CUT,2,Spyglass Hill Golf Course,205,74,,,,,,-1.333,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Lingmerth, David",14815,CUT,3,Monterey Peninsula CC,769,73,,,,,,-3.118,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Cabrera Bello, Rafa",7457,CUT,1,Monterey Peninsula CC,769,70,,,,,,0.173,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Cabrera Bello, Rafa",7457,CUT,2,Pebble Beach Golf Links,5,74,-0.86,-1.749,0.014,-0.271,-2.005,-2.865,267.9,0.643,0.722,0.5,29.688,28.618
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Cabrera Bello, Rafa",7457,CUT,3,Spyglass Hill Golf Course,205,75,,,,,,-0.941,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Points, D.A.",6761,CUT,1,Spyglass Hill Golf Course,205,77,,,,,,-5.077,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Points, D.A.",6761,CUT,2,Monterey Peninsula CC,769,70,,,,,,-0.981,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Points, D.A.",6761,CUT,3,Pebble Beach Golf Links,5,72,0.502,-1.544,0.523,0.478,-0.541,-0.039,264.0,0.857,0.667,0.333,39.814,39.928
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Teater, Josh",8085,CUT,1,Monterey Peninsula CC,769,70,,,,,,0.173,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Teater, Josh",8085,CUT,2,Pebble Beach Golf Links,5,72,-0.04,-0.229,-0.827,0.23,-0.825,-0.865,271.5,0.786,0.667,0.6,48.215,36.607
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Teater, Josh",8085,CUT,3,Spyglass Hill Golf Course,205,77,,,,,,-2.941,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Walker, Jimmy",7293,CUT,1,Spyglass Hill Golf Course,205,73,,,,,,-1.077,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Walker, Jimmy",7293,CUT,2,Monterey Peninsula CC,769,68,,,,,,1.019,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Walker, Jimmy",7293,CUT,3,Pebble Beach Golf Links,5,79,-0.3,-2.668,-3.113,-0.96,-6.739,-7.039,274.8,0.571,0.444,0.5,50.858,35.287
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Perez, Pat",6762,CUT,1,Spyglass Hill Golf Course,205,71,,,,,,0.923,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Perez, Pat",6762,CUT,2,Monterey Peninsula CC,769,75,,,,,,-5.981,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Perez, Pat",6762,CUT,3,Pebble Beach Golf Links,5,74,-1.091,-0.92,-0.353,0.323,-0.948,-2.039,263.2,0.786,0.667,0.375,29.264,37.934
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Duncan, Tyler",18187,CUT,1,Pebble Beach Golf Links,5,73,-1.1,0.213,-0.878,0.707,0.042,-1.058,268.8,0.786,0.611,0.125,16.956,33.074
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Duncan, Tyler",18187,CUT,2,Spyglass Hill Golf Course,205,73,,,,,,-0.333,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Duncan, Tyler",18187,CUT,3,Monterey Peninsula CC,769,74,,,,,,-4.118,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Henry, J.J.",6222,CUT,1,Pebble Beach Golf Links,5,74,0.587,0.482,-1.647,-1.48,-2.645,-2.058,264.5,0.571,0.667,0.714,27.208,45.665
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Henry, J.J.",6222,CUT,2,Spyglass Hill Golf Course,205,76,,,,,,-3.333,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Henry, J.J.",6222,CUT,3,Monterey Peninsula CC,769,71,,,,,,-1.118,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Stroud, Chris",9604,CUT,1,Spyglass Hill Golf Course,205,76,,,,,,-4.077,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Stroud, Chris",9604,CUT,2,Monterey Peninsula CC,769,70,,,,,,-0.981,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Stroud, Chris",9604,CUT,3,Pebble Beach Golf Links,5,75,-0.289,-1.343,0.757,-2.166,-2.75,-3.039,266.8,0.5,0.556,0.538,45.47,25.881
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Armour, Ryan",8469,CUT,1,Pebble Beach Golf Links,5,70,-1.051,1.371,0.864,0.758,2.993,1.942,265.7,0.929,0.889,0.25,4.062,29.887
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Armour, Ryan",8469,CUT,2,Spyglass Hill Golf Course,205,74,,,,,,-1.333,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Armour, Ryan",8469,CUT,3,Monterey Peninsula CC,769,77,,,,,,-7.118,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Trainer, Martin",15634,CUT,1,Spyglass Hill Golf Course,205,73,,,,,,-1.077,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Trainer, Martin",15634,CUT,2,Monterey Peninsula CC,769,75,,,,,,-5.981,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Trainer, Martin",15634,CUT,3,Pebble Beach Golf Links,5,74,-1.978,1.986,-1.552,-0.497,-0.061,-2.039,281.1,0.429,0.667,0.667,51.607,23.118
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Kodaira, Satoshi",13531,CUT,1,Monterey Peninsula CC,769,76,,,,,,-5.827,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Kodaira, Satoshi",13531,CUT,2,Pebble Beach Golf Links,5,73,-2.217,-0.847,0.373,0.825,0.352,-1.865,267.6,0.929,0.722,0.429,5.002,30.036
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Kodaira, Satoshi",13531,CUT,3,Spyglass Hill Golf Course,205,73,,,,,,1.059,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Kim, Si Woo",14609,CUT,1,Spyglass Hill Golf Course,205,77,,,,,,-5.077,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Kim, Si Woo",14609,CUT,2,Monterey Peninsula CC,769,71,,,,,,-1.981,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Kim, Si Woo",14609,CUT,3,Pebble Beach Golf Links,5,74,-0.233,0.136,-1.783,-0.161,-1.806,-2.039,275.7,0.714,0.611,0.364,34.154,45.659
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Pampling, Rod",5668,CUT,1,Monterey Peninsula CC,769,73,,,,,,-2.827,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Pampling, Rod",5668,CUT,2,Pebble Beach Golf Links,5,73,-1.044,-0.292,1.018,-1.548,-0.821,-1.865,248.5,0.786,0.722,0.5,64.141,34.799
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Pampling, Rod",5668,CUT,3,Spyglass Hill Golf Course,205,76,,,,,,-1.941,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Haas, Bill",7900,CUT,1,Monterey Peninsula CC,769,71,,,,,,-0.827,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Haas, Bill",7900,CUT,2,Pebble Beach Golf Links,5,75,-3.588,-0.4,0.352,-0.23,-0.277,-3.865,276.3,0.643,0.722,0.0,32.616,32.554
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Haas, Bill",7900,CUT,3,Spyglass Hill Golf Course,205,76,,,,,,-1.941,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Gibson, Rhein",13342,CUT,1,Monterey Peninsula CC,769,74,,,,,,-3.827,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Gibson, Rhein",13342,CUT,2,Pebble Beach Golf Links,5,69,2.044,-0.178,1.515,-1.247,0.091,2.135,270.8,0.643,0.722,0.571,42.875,27.842
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Gibson, Rhein",13342,CUT,3,Spyglass Hill Golf Course,205,79,,,,,,-4.941,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Trahan, D.J.",7236,CUT,1,Monterey Peninsula CC,769,71,,,,,,-0.827,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Trahan, D.J.",7236,CUT,2,Pebble Beach Golf Links,5,75,-0.981,-2.974,0.118,-0.029,-2.884,-3.865,283.9,0.5,0.722,0.25,38.125,40.73
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Trahan, D.J.",7236,CUT,3,Spyglass Hill Golf Course,205,76,,,,,,-1.941,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Van Pelt, Bo",6457,CUT,1,Pebble Beach Golf Links,5,75,0.063,-1.033,-1.905,-0.183,-3.121,-3.058,272.7,0.714,0.722,0.5,50.309,33.399
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Van Pelt, Bo",6457,CUT,2,Spyglass Hill Golf Course,205,74,,,,,,-1.333,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Van Pelt, Bo",6457,CUT,3,Monterey Peninsula CC,769,74,,,,,,-4.118,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Cook, Austin",18579,CUT,1,Spyglass Hill Golf Course,205,78,,,,,,-6.077,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Cook, Austin",18579,CUT,2,Monterey Peninsula CC,769,71,,,,,,-1.981,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Cook, Austin",18579,CUT,3,Pebble Beach Golf Links,5,74,-0.192,-1.543,-0.806,0.5,-1.847,-2.039,273.2,0.714,0.5,0.667,16.336,35.304
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hearn, David",7340,CUT,1,Spyglass Hill Golf Course,205,75,,,,,,-3.077,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hearn, David",7340,CUT,2,Monterey Peninsula CC,769,73,,,,,,-3.981,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hearn, David",7340,CUT,3,Pebble Beach Golf Links,5,75,0.25,-2.082,-0.722,-0.487,-3.289,-3.039,260.7,0.857,0.5,0.545,19.173,34.877
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Castro, Roberto",12643,CUT,1,Pebble Beach Golf Links,5,74,-1.393,-0.441,-0.56,0.336,-0.665,-2.058,269.6,0.786,0.722,0.429,41.953,36.081
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Castro, Roberto",12643,CUT,2,Spyglass Hill Golf Course,205,74,,,,,,-1.333,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Castro, Roberto",12643,CUT,3,Monterey Peninsula CC,769,75,,,,,,-5.118,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Salinda, Isaiah",27183,CUT,1,Monterey Peninsula CC,769,74,,,,,,-3.827,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Salinda, Isaiah",27183,CUT,2,Pebble Beach Golf Links,5,73,0.359,0.561,-2.616,-0.17,-2.224,-1.865,280.0,0.786,0.5,0.571,55.144,41.053
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Salinda, Isaiah",27183,CUT,3,Spyglass Hill Golf Course,205,76,,,,,,-1.941,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Lebioda, Hank",21943,CUT,1,Pebble Beach Golf Links,5,74,-0.728,0.206,0.178,-1.714,-1.33,-2.058,279.1,0.571,0.556,0.333,40.413,32.937
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Lebioda, Hank",21943,CUT,2,Spyglass Hill Golf Course,205,77,,,,,,-4.333,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Lebioda, Hank",21943,CUT,3,Monterey Peninsula CC,769,74,,,,,,-4.118,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Mahan, Hunter",7636,CUT,1,Monterey Peninsula CC,769,74,,,,,,-3.827,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Mahan, Hunter",7636,CUT,2,Pebble Beach Golf Links,5,77,-4.891,0.44,-1.99,0.575,-0.974,-5.865,277.6,0.786,0.611,0.556,39.412,29.401
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Mahan, Hunter",7636,CUT,3,Spyglass Hill Golf Course,205,74,,,,,,0.059,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Kang, Sung",7881,CUT,1,Monterey Peninsula CC,769,74,,,,,,-3.827,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Kang, Sung",7881,CUT,2,Pebble Beach Golf Links,5,73,0.369,0.556,-1.992,-0.799,-2.234,-1.865,277.9,0.857,0.722,0.444,78.218,37.575
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Kang, Sung",7881,CUT,3,Spyglass Hill Golf Course,205,79,,,,,,-4.941,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Spaun, J.J.",17536,CUT,1,Monterey Peninsula CC,769,69,,,,,,1.173,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Spaun, J.J.",17536,CUT,2,Pebble Beach Golf Links,5,78,-3.869,-0.725,-3.279,1.007,-2.996,-6.865,277.0,0.786,0.556,0.429,49.371,38.002
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Spaun, J.J.",17536,CUT,3,Spyglass Hill Golf Course,205,79,,,,,,-4.941,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Herron, Tim",5621,CUT,1,Monterey Peninsula CC,769,78,,,,,,-7.827,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Herron, Tim",5621,CUT,2,Pebble Beach Golf Links,5,74,-0.837,-0.464,-1.504,-0.061,-2.028,-2.865,264.4,0.786,0.556,0.636,41.488,27.608
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Herron, Tim",5621,CUT,3,Spyglass Hill Golf Course,205,74,,,,,,0.059,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"de Borba, Scott",27442,CUT,1,Pebble Beach Golf Links,5,75,1.661,0.584,-5.474,0.171,-4.719,-3.058,278.4,0.643,0.444,0.545,35.654,38.069
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"de Borba, Scott",27442,CUT,2,Spyglass Hill Golf Course,205,78,,,,,,-5.333,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"de Borba, Scott",27442,CUT,3,Monterey Peninsula CC,769,74,,,,,,-4.118,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Garrigus, Robert",6789,CUT,1,Pebble Beach Golf Links,5,74,-0.683,1.45,-1.707,-1.118,-1.375,-2.058,268.4,0.571,0.611,0.75,41.581,37.666
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Garrigus, Robert",6789,CUT,2,Spyglass Hill Golf Course,205,77,,,,,,-4.333,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Garrigus, Robert",6789,CUT,3,Monterey Peninsula CC,769,76,,,,,,-6.118,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Saunders, Sam",11048,CUT,1,Monterey Peninsula CC,769,77,,,,,,-6.827,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Saunders, Sam",11048,CUT,2,Pebble Beach Golf Links,5,78,-0.231,0.18,-3.952,-2.863,-6.634,-6.865,265.5,0.5,0.556,0.5,56.274,45.913
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Saunders, Sam",11048,CUT,3,Spyglass Hill Golf Course,205,80,,,,,,-5.941,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Stadler, Kevin",7602,CUT,1,Monterey Peninsula CC,769,77,,,,,,-6.827,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Stadler, Kevin",7602,CUT,2,Pebble Beach Golf Links,5,76,0.838,-1.296,-1.231,-3.177,-5.703,-4.865,270.0,0.571,0.556,0.636,39.422,34.526
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Stadler, Kevin",7602,CUT,3,Spyglass Hill Golf Course,205,82,,,,,,-7.941,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Duval, David",4761,WD,1,Pebble Beach Golf Links,5,84,-2.84,-0.672,-7.012,-1.534,-9.218,-12.058,241.6,0.714,0.389,0.417,67.447,49.603
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Lashley, Nate",10943,WD,1,Spyglass Hill Golf Course,205,73,,,,,,-1.077,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Lashley, Nate",10943,WD,2,Monterey Peninsula CC,769,73,,,,,,-3.981,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hickok, Kramer",21237,WD,1,Monterey Peninsula CC,769,74,,,,,,-3.827,,,,,,
+pga,2020,2020,AT&T Pebble Beach Pro-Am,5,"Hickok, Kramer",21237,WD,2,Pebble Beach Golf Links,5,73,-1.142,0.564,-1.107,-0.181,-0.723,-1.865,283.9,0.714,0.556,0.636,45.06,34.203

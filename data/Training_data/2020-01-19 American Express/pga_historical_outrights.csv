@@ -1,0 +1,60 @@
+bet_outcome_numeric,bet_outcome_text,close_odds,close_time,dg_id,open_odds,open_time,outcome,player_name,book,event_completed,event_name,market,season,year,event_id
+0,loss,+1202,2020-01-15 18:02,12965,+1202,2020-01-15 18:02,T10,"Fowler, Rickie",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+1745,2020-01-15 18:02,17488,+1745,2020-01-15 18:02,T10,"Im, Sungjae",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+2180,2020-01-15 18:02,7108,+2180,2020-01-15 18:02,T21,"Casey, Paul",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+2397,2020-01-15 18:02,11676,+2397,2020-01-15 18:02,T14,"Finau, Tony",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+3048,2020-01-15 18:02,6892,+3048,2020-01-15 18:02,CUT,"Howell III, Charles",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+3048,2020-01-15 18:02,14459,+3048,2020-01-15 18:02,CUT,"An, Byeong Hun",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+3048,2020-01-15 18:02,11328,+3048,2020-01-15 18:02,CUT,"Kisner, Kevin",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+3266,2020-01-15 18:02,18417,+3266,2020-01-15 18:02,3,"Scheffler, Scottie",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+3591,2020-01-15 18:02,23542,+3591,2020-01-15 18:02,T21,"Champ, Cameron",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+3591,2020-01-15 18:02,11276,+3591,2020-01-15 18:02,CUT,"Horschel, Billy",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+3809,2020-01-15 18:02,25919,+3809,2020-01-15 18:02,T61,"Wolff, Matthew",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+4351,2020-01-15 18:02,8825,+4351,2020-01-15 18:02,T21,"Harman, Brian",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+4351,2020-01-15 18:02,18238,+4351,2020-01-15 18:02,2,"Ancer, Abraham",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+4351,2020-01-15 18:02,12425,+4351,2020-01-15 18:02,T37,"Todd, Brendon",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+4351,2020-01-15 18:02,12337,+4351,2020-01-15 18:02,CUT,"Kokrak, Jason",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+4351,2020-01-15 18:02,1547,+4351,2020-01-15 18:02,CUT,"Mickelson, Phil",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+4351,2020-01-15 18:02,7655,+4351,2020-01-15 18:02,CUT,"Molinari, Francesco",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+4894,2020-01-15 18:02,10419,+4894,2020-01-15 18:02,T14,"Noren, Alex",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+4894,2020-01-15 18:02,6930,+4894,2020-01-15 18:02,T43,"Taylor, Vaughn",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+5437,2020-01-15 18:02,7399,+5437,2020-01-15 18:02,CUT,"Glover, Lucas",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+5437,2020-01-15 18:02,14577,+5437,2020-01-15 18:02,T48,"English, Harris",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+5437,2020-01-15 18:02,7489,+5437,2020-01-15 18:02,T6,"Moore, Ryan",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+5437,2020-01-15 18:02,13831,+5437,2020-01-15 18:02,T37,"Knox, Russell",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+5979,2020-01-15 18:02,7452,+5979,2020-01-15 18:02,T17,"Na, Kevin",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+6522,2020-01-15 18:02,14704,+6522,2020-01-15 18:02,T10,"Putnam, Andrew",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+6522,2020-01-15 18:02,6283,+6522,2020-01-15 18:02,T48,"Sabbatini, Rory",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+6522,2020-01-15 18:02,17606,+6522,2020-01-15 18:02,T29,"Berger, Daniel",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+6522,2020-01-15 18:02,11019,+6522,2020-01-15 18:02,T43,"Steele, Brendan",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+6522,2020-01-15 18:02,7961,+6522,2020-01-15 18:02,CUT,"Reavie, Chez",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+7112,2020-01-15 18:02,14735,+7112,2020-01-15 18:02,T48,"Ortiz, Carlos",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+7149,2020-01-15 18:02,22051,+7149,2020-01-15 18:02,CUT,"Wise, Aaron",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+7174,2020-01-15 18:02,14502,+7174,2020-01-15 18:02,T4,"Cauley, Bud",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+7174,2020-01-15 18:02,20770,+7174,2020-01-15 18:02,T21,"Munoz, Sebastian",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+7174,2020-01-15 18:02,19870,+7174,2020-01-15 18:02,T48,"McCarthy, Denny",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+7174,2020-01-15 18:02,6986,+7174,2020-01-15 18:02,CUT,"Johnson, Zach",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+8694,2020-01-15 18:02,7899,+8694,2020-01-15 18:02,T61,"Piercy, Scott",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+8694,2020-01-15 18:02,14013,+8694,2020-01-15 18:02,T43,"Tringale, Cameron",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+8694,2020-01-15 18:02,11826,+8694,2020-01-15 18:02,CUT,"Lee, Danny",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+9780,2020-01-15 18:02,13022,+9780,2020-01-15 18:02,72,"Stuard, Brian",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+9780,2020-01-15 18:02,10943,+9780,2020-01-15 18:02,WD,"Lashley, Nate",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+9780,2020-01-15 18:02,15473,+9780,2020-01-15 18:02,CUT,"Long, Adam",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+10865,2020-01-15 18:02,18580,+10865,2020-01-15 18:02,T17,"Gooch, Talor",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+10865,2020-01-15 18:02,17786,+10865,2020-01-15 18:02,T29,"Davis, Cameron",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+10865,2020-01-15 18:02,18579,+10865,2020-01-15 18:02,CUT,"Cook, Austin",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+10865,2020-01-15 18:02,13126,+10865,2020-01-15 18:02,CUT,"Taylor, Nick",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+10865,2020-01-15 18:02,16602,+10865,2020-01-15 18:02,CUT,"Varner III, Harold",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+10865,2020-01-15 18:02,7955,+10865,2020-01-15 18:02,T29,"Watney, Nick",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+10865,2020-01-15 18:02,12069,+10865,2020-01-15 18:02,CUT,"Stanley, Kyle",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+10865,2020-01-15 18:02,11657,+10865,2020-01-15 18:02,T68,"Norlander, Henrik",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+13580,2020-01-15 18:02,15470,+13580,2020-01-15 18:02,CUT,"Hossler, Beau",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+13580,2020-01-15 18:02,14609,+13580,2020-01-15 18:02,WD,"Kim, Si Woo",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+13580,2020-01-15 18:02,14140,+13580,2020-01-15 18:02,CUT,"Higgs, Harry",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+13580,2020-01-15 18:02,8469,+13580,2020-01-15 18:02,CUT,"Armour, Ryan",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+13580,2020-01-15 18:02,8480,+13580,2020-01-15 18:02,CUT,"Streelman, Kevin",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+13580,2020-01-15 18:02,23604,+13580,2020-01-15 18:02,CUT,"Clark, Wyndham",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+13580,2020-01-15 18:02,14578,+13580,2020-01-15 18:02,CUT,"Henley, Russell",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+16293,2020-01-15 18:02,17538,+16293,2020-01-15 18:02,T48,"Homa, Max",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+16293,2020-01-15 18:02,17564,+16293,2020-01-15 18:02,CUT,"Bozzelli, Dominic",pinnacle,2020-01-19,The American Express,win,2020,2020,2
+0,loss,+16293,2020-01-15 18:02,13508,+16293,2020-01-15 18:02,T55,"Vegas, Jhonattan",pinnacle,2020-01-19,The American Express,win,2020,2020,2

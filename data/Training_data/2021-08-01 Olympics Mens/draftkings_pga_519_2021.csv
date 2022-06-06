@@ -1,0 +1,61 @@
+tour,year,season,event_name,event_id,site,ownerships_from,player_name,dg_id,salary,ownership,fin_text,streak_pts,bogey_free_pts,hole_in_one_pts,sub_70_pts,hole_score_pts,finish_pts,total_pts
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Schauffele, Xander",19895,10700,0.1748,1,3,0,0,5,96.5,30,134.5
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Sabbatini, Rory",6283,6800,0.0394,2,6,0,0,0,94.5,20,120.5
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Pereira, Mito",19455,7200,0.3583,T4,3,0,0,5,90.5,16,114.5
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"McIlroy, Rory",10091,10300,0.1123,T4,3,0,0,5,88.0,16,112.0
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Munoz, Sebastian",20770,7700,0.1233,T4,3,0,0,5,85.5,16,109.5
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Pan, C.T.",15475,7100,0.0576,3,0,3,0,0,88.0,18,109.0
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Matsuyama, Hideki",13562,10500,0.1447,T4,0,3,0,5,82.5,16,106.5
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Casey, Paul",7108,9500,0.195,T4,0,3,0,5,82.5,16,106.5
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Morikawa, Collin",22085,11200,0.2155,T4,0,3,0,0,85.0,16,104.0
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Smith, Cameron",15856,8900,0.1749,T10,3,3,0,0,85.0,7,98.0
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Pieters, Thomas",13944,8100,0.1796,T16,3,3,0,0,86.0,5,97.0
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Straka, Sepp",17511,6400,0.1411,T10,3,3,0,0,83.5,7,96.5
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Fleetwood, Tommy",12294,8600,0.124,T16,3,0,0,0,87.5,5,95.5
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Hovland, Viktor",18841,9900,0.2661,T14,3,3,0,0,80.5,6,92.5
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Conners, Corey",17576,8800,0.2294,13,3,3,0,0,78.0,6,90.0
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Niemann, Joaquin",18079,9200,0.1757,T10,0,0,0,0,81.5,7,88.5
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Im, Sungjae",17488,9000,0.1633,T22,3,3,0,0,75.0,4,85.0
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Ancer, Abraham",18238,9300,0.1238,T14,0,0,0,5,73.5,6,84.5
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Hansen, Joachim B",14284,6300,0.0149,T27,0,0,0,0,81.0,3,84.0
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Noren, Alex",10419,8200,0.0546,T16,3,3,0,0,72.5,5,83.5
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Vincent, Scott",14559,6400,0.0381,T16,0,3,0,0,74.0,5,82.0
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Paratore, Renato",16549,6900,0.0079,T27,3,0,0,0,76.0,3,82.0
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Thomas, Justin",14139,10900,0.1588,T22,0,3,0,0,74.5,4,81.5
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Vegas, Jhonattan",13508,7400,0.3406,T16,3,0,0,0,73.0,5,81.0
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Kieffer, Maximilian",12317,6200,0.0247,T45,9,0,0,0,71.0,1,81.0
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Zanotti, Fabrizio",9842,6400,0.0565,T35,6,0,0,0,72.0,2,80.0
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Ortiz, Carlos",14735,7900,0.0815,T42,3,0,0,0,76.0,1,80.0
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Reed, Patrick",14838,10100,0.0727,T22,0,3,0,0,73.0,4,80.0
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Bezuidenhout, Christiaan",18103,8700,0.0934,T16,0,3,0,0,71.0,5,79.0
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Lowry, Shane",13900,9600,0.0711,T22,3,0,0,0,72.0,4,79.0
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Detry, Thomas",14181,7500,0.0953,T22,3,0,0,0,71.5,4,78.5
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Schwab, Matthias",15016,7000,0.143,T27,0,0,0,0,75.0,3,78.0
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Janewattananond, Jazz",14368,7000,0.0567,T27,3,3,0,0,67.5,3,76.5
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Samooja, Kalle",14120,6300,0.0379,T45,3,0,0,0,72.0,1,76.0
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Wu, Ashun",11763,6500,0.0582,T32,0,3,0,0,70.5,2,75.5
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Arnaus, Adri",23236,6600,0.0638,T38,0,0,0,0,73.0,2,75.0
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Valimaki, Sami",23816,6500,0.0053,T27,0,0,0,0,72.0,3,75.0
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Johannessen, Kristian K.",16421,6100,0.0225,T53,3,0,0,0,71.5,0,74.5
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Hojgaard, Rasmus",23838,7100,0.0436,T38,0,0,0,0,72.0,2,74.0
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Migliozzi, Guido",17357,8400,0.1287,T32,0,3,0,0,66.5,2,71.5
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Hoshino, Rikuya",19190,7300,0.0609,T38,0,3,0,0,65.5,2,70.5
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Long, Hurly",25138,6200,0.0047,T35,3,0,0,0,65.5,2,70.5
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Kim, Si Woo",14609,7800,0.1784,T32,0,3,0,0,65.0,2,70.0
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Lahiri, Anirban",12669,6700,0.0967,T42,3,0,0,0,66.0,1,70.0
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Hughes, Mackenzie",15556,8000,0.1708,50,3,0,0,0,65.0,1,69.0
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Rozner, Antoine",18770,7600,0.1041,T45,0,0,0,0,68.0,1,69.0
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Yuan, Yechun",17266,6700,0.0954,T38,0,0,0,0,66.0,2,68.0
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Langasque, Romain",16652,6600,0.0157,T35,0,0,0,0,65.5,2,67.5
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Fox, Ryan",11889,6900,0.0992,T42,3,0,0,0,62.5,1,66.5
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Norlander, Henrik",11657,6800,0.2038,T45,3,0,0,0,62.5,1,66.5
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Leishman, Marc",7649,8500,0.0812,T51,3,0,0,0,61.0,0,64.0
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Meronk, Adrian",14196,6300,0.0292,T51,0,0,0,0,61.5,0,61.5
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Higgo, Garrick",24342,8300,0.0814,T53,0,0,0,0,59.0,0,59.0
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Charoenkul, Gunn",14128,6200,0.0231,T45,0,0,0,0,58.0,1,59.0
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Mane, Udayan",16818,6000,0.004,56,0,0,0,0,56.5,0,56.5
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Green, Gavin Kyle",12530,6100,0.0042,T57,0,0,0,0,55.0,0,55.0
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Pagunsan, Juvic",8615,6000,0.0072,55,0,0,0,0,51.5,0,51.5
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Campos, Rafael",12909,6000,0.0417,T57,0,0,0,0,50.5,0,50.5
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Lieser, Ondrej",13390,6100,0.0035,60,0,0,0,0,49.5,0,49.5
+pga,2021,2021,Olympic Men's Golf Competition,519,draftkings,INTL GOLF $700K Gold Golfer [$200K to 1st],"Campillo, Jorge",14016,6400,0.0089,59,0,0,0,0,48.0,0,48.0

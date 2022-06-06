@@ -1,0 +1,31 @@
+bet_outcome_numeric,bet_outcome_text,close_odds,close_time,dg_id,open_odds,open_time,outcome,player_name,book,event_completed,event_name,market,season,year,event_id
+1,paid in full,+209,2020-09-02 18:15,12422,+208,2020-09-01 09:10,1,"Johnson, Dustin",pinnacle,2020-09-07,TOUR Championship,win,2020,2020,60
+0,loss,+261,2020-09-02 18:15,19195,+260,2020-09-01 09:10,4,"Rahm, Jon",pinnacle,2020-09-07,TOUR Championship,win,2020,2020,60
+0,loss,+547,2020-09-02 18:15,14139,+544,2020-09-01 09:10,T2,"Thomas, Justin",pinnacle,2020-09-07,TOUR Championship,win,2020,2020,60
+0,loss,+935,2020-09-02 18:15,11049,+931,2020-09-01 09:10,T12,"Simpson, Webb",pinnacle,2020-09-07,TOUR Championship,win,2020,2020,60
+0,loss,+1960,2020-09-02 18:15,22085,+2222,2020-09-01 09:10,6,"Morikawa, Collin",pinnacle,2020-09-07,TOUR Championship,win,2020,2020,60
+0,loss,+2049,2020-09-02 18:15,10091,+2040,2020-09-01 09:10,T8,"McIlroy, Rory",pinnacle,2020-09-07,TOUR Championship,win,2020,2020,60
+0,loss,+2049,2020-09-02 18:15,19841,+2040,2020-09-01 09:10,22,"DeChambeau, Bryson",pinnacle,2020-09-07,TOUR Championship,win,2020,2020,60
+0,loss,+2049,2020-09-02 18:15,19895,+2040,2020-09-01 09:10,T2,"Schauffele, Xander",pinnacle,2020-09-07,TOUR Championship,win,2020,2020,60
+0,loss,+2610,2020-09-02 18:15,17606,+2598,2020-09-01 09:10,T15,"Berger, Daniel",pinnacle,2020-09-07,TOUR Championship,win,2020,2020,60
+0,loss,+3078,2020-09-02 18:15,13562,+3063,2020-09-01 09:10,T15,"Matsuyama, Hideki",pinnacle,2020-09-07,TOUR Championship,win,2020,2020,60
+0,loss,+4667,2020-09-02 18:15,11676,+4645,2020-09-01 09:10,17,"Finau, Tony",pinnacle,2020-09-07,TOUR Championship,win,2020,2020,60
+0,loss,+6162,2020-09-02 18:15,14838,+6134,2020-09-01 09:10,T8,"Reed, Patrick",pinnacle,2020-09-07,TOUR Championship,win,2020,2020,60
+0,loss,+6162,2020-09-02 18:15,14577,+6134,2020-09-01 09:10,T12,"English, Harris",pinnacle,2020-09-07,TOUR Championship,win,2020,2020,60
+0,loss,+8652,2020-09-02 18:15,18417,+8613,2020-09-01 09:10,5,"Scheffler, Scottie",pinnacle,2020-09-07,TOUR Championship,win,2020,2020,60
+0,loss,+9340,2020-09-02 18:15,14796,+9297,2020-09-01 09:10,7,"Hatton, Tyrrell",pinnacle,2020-09-07,TOUR Championship,win,2020,2020,60
+0,loss,+9815,2020-09-02 18:15,17488,+9770,2020-09-01 09:10,11,"Im, Sungjae",pinnacle,2020-09-07,TOUR Championship,win,2020,2020,60
+0,loss,+11676,2020-09-02 18:15,12425,+11622,2020-09-01 09:10,T20,"Todd, Brendon",pinnacle,2020-09-07,TOUR Championship,win,2020,2020,60
+0,loss,+11676,2020-09-02 18:15,18079,+11622,2020-09-01 09:10,T27,"Niemann, Joaquin",pinnacle,2020-09-07,TOUR Championship,win,2020,2020,60
+0,loss,+14947,2020-09-02 18:15,20770,+14879,2020-09-01 09:10,T8,"Munoz, Sebastian",pinnacle,2020-09-07,TOUR Championship,win,2020,2020,60
+0,loss,+17253,2020-09-02 18:15,18238,+17175,2020-09-01 09:10,T18,"Ancer, Abraham",pinnacle,2020-09-07,TOUR Championship,win,2020,2020,60
+0,loss,+18686,2020-09-02 18:15,11328,+18601,2020-09-01 09:10,23,"Kisner, Kevin",pinnacle,2020-09-07,TOUR Championship,win,2020,2020,60
+0,loss,+18686,2020-09-02 18:15,11276,+18601,2020-09-01 09:10,30,"Horschel, Billy",pinnacle,2020-09-07,TOUR Championship,win,2020,2020,60
+0,loss,+23358,2020-09-02 18:15,7452,+23252,2020-09-01 09:10,T27,"Na, Kevin",pinnacle,2020-09-07,TOUR Championship,win,2020,2020,60
+0,loss,+23358,2020-09-02 18:15,18841,+23252,2020-09-01 09:10,T20,"Hovland, Viktor",pinnacle,2020-09-07,TOUR Championship,win,2020,2020,60
+0,loss,+32704,2020-09-02 18:15,15330,+32556,2020-09-01 09:10,T18,"Griffin, Lanto",pinnacle,2020-09-07,TOUR Championship,win,2020,2020,60
+0,loss,+32704,2020-09-02 18:15,7820,+32556,2020-09-01 09:10,T24,"Palmer, Ryan",pinnacle,2020-09-07,TOUR Championship,win,2020,2020,60
+0,loss,+39444,2020-09-02 18:15,15556,+39265,2020-09-01 09:10,14,"Hughes, Mackenzie",pinnacle,2020-09-07,TOUR Championship,win,2020,2020,60
+0,loss,+39444,2020-09-02 18:15,23542,+39265,2020-09-01 09:10,T24,"Champ, Cameron",pinnacle,2020-09-07,TOUR Championship,win,2020,2020,60
+0,loss,+46721,2020-09-02 18:15,15856,+46510,2020-09-01 09:10,T24,"Smith, Cameron",pinnacle,2020-09-07,TOUR Championship,win,2020,2020,60
+0,loss,+46721,2020-09-02 18:15,7649,+46510,2020-09-01 09:10,29,"Leishman, Marc",pinnacle,2020-09-07,TOUR Championship,win,2020,2020,60

@@ -1,0 +1,60 @@
+bet_outcome_numeric,bet_outcome_text,close_odds,close_time,dg_id,open_odds,open_time,outcome,player_name,book,event_completed,event_name,market,season,year,event_id
+0,loss,+1215,2021-01-21 11:41,15466,+1268,2021-01-19 07:22,2,"Cantlay, Patrick",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+1474,2021-01-21 11:41,14838,+1577,2021-01-19 07:22,CUT,"Reed, Patrick",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+1494,2021-01-21 11:41,16243,+1688,2021-01-19 07:22,CUT,"Koepka, Brooks",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+1550,2021-01-21 11:41,18417,+1688,2021-01-19 07:22,CUT,"Scheffler, Scottie",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+1772,2021-01-21 11:41,17488,+2109,2021-01-19 07:22,T12,"Im, Sungjae",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+1879,2021-01-21 11:41,11676,+1899,2021-01-19 07:22,4,"Finau, Tony",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+1888,2021-01-21 11:41,25919,+2109,2021-01-19 07:22,T40,"Wolff, Matthew",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+2158,2021-01-21 11:41,18238,+2951,2021-01-19 07:22,T5,"Ancer, Abraham",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+3350,2021-01-21 11:41,23542,+4213,2021-01-19 07:22,CUT,"Champ, Cameron",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+3433,2021-01-21 11:41,7452,+3161,2021-01-19 07:22,CUT,"Na, Kevin",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+3772,2021-01-21 11:41,12965,+4213,2021-01-19 07:22,T21,"Fowler, Rickie",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+3778,2021-01-21 11:41,14578,+3477,2021-01-19 07:22,CUT,"Henley, Russell",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+4842,2021-01-21 11:41,7108,+4461,2021-01-19 07:22,T8,"Casey, Paul",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+4865,2021-01-21 11:41,1547,+5265,2021-01-19 07:22,CUT,"Mickelson, Phil",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+1,paid in full,+5195,2021-01-21 11:41,14609,+5791,2021-01-19 07:22,1,"Kim, Si Woo",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+5412,2021-01-21 11:41,15473,+4988,2021-01-19 07:22,69,"Long, Adam",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+5412,2021-01-21 11:41,19483,+4988,2021-01-19 07:22,CUT,"Burns, Sam",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+5914,2021-01-21 11:41,17786,+7369,2021-01-19 07:22,3,"Davis, Cameron",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+5987,2021-01-21 11:41,15330,+5516,2021-01-19 07:22,CUT,"Griffin, Lanto",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+6283,2021-01-21 11:41,8825,+5791,2021-01-19 07:22,T8,"Harman, Brian",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+6283,2021-01-21 11:41,13470,+5791,2021-01-19 07:22,53,"Kizzire, Patton",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+6283,2021-01-21 11:41,13965,+5791,2021-01-19 07:22,T32,"Hadwin, Adam",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+6557,2021-01-21 11:41,12808,+6043,2021-01-19 07:22,T37,"Grillo, Emiliano",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+6557,2021-01-21 11:41,7489,+6043,2021-01-19 07:22,CUT,"Moore, Ryan",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+6757,2021-01-21 11:41,14013,+8421,2021-01-19 07:22,T56,"Tringale, Cameron",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+6798,2021-01-21 11:41,17550,+7369,2021-01-19 07:22,T56,"Van Rooyen, Erik",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+6855,2021-01-21 11:41,22051,+6317,2021-01-19 07:22,CUT,"Wise, Aaron",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+6855,2021-01-21 11:41,6986,+6317,2021-01-19 07:22,T62,"Johnson, Zach",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+6855,2021-01-21 11:41,6892,+6317,2021-01-19 07:22,CUT,"Howell III, Charles",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+7536,2021-01-21 11:41,18580,+6948,2021-01-19 07:22,T21,"Gooch, Talor",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+7560,2021-01-21 11:41,17511,+8421,2021-01-19 07:22,CUT,"Straka, Sepp",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+7616,2021-01-21 11:41,13872,+9473,2021-01-19 07:22,CUT,"Bradley, Keegan",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+7759,2021-01-21 11:41,12423,+7152,2021-01-19 07:22,T16,"Kirk, Chris",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+7992,2021-01-21 11:41,12577,+7369,2021-01-19 07:22,T16,"Woodland, Gary",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+8751,2021-01-21 11:41,23604,+10539,2021-01-19 07:22,T54,"Clark, Wyndham",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+9134,2021-01-21 11:41,14509,+8421,2021-01-19 07:22,CUT,"Dahmen, Joel",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+9134,2021-01-21 11:41,11019,+8421,2021-01-19 07:22,T21,"Steele, Brendan",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+9134,2021-01-21 11:41,24481,+8421,2021-01-19 07:22,70,"Redman, Doc",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+9134,2021-01-21 11:41,7399,+8421,2021-01-19 07:22,CUT,"Glover, Lucas",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+9134,2021-01-21 11:41,10419,+8421,2021-01-19 07:22,T40,"Noren, Alex",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+9145,2021-01-21 11:41,5768,+8432,2021-01-19 07:22,WD,"Hoffman, Charley",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+10274,2021-01-21 11:41,13831,+9473,2021-01-19 07:22,T16,"Knox, Russell",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+10813,2021-01-21 11:41,15575,+9971,2021-01-19 07:22,CUT,"Hoge, Tom",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+10813,2021-01-21 11:41,8605,+9971,2021-01-19 07:22,T21,"Jones, Matt",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+10828,2021-01-21 11:41,8480,+9985,2021-01-19 07:22,CUT,"Streelman, Kevin",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+11412,2021-01-21 11:41,7655,+10525,2021-01-19 07:22,T8,"Molinari, Francesco",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+11412,2021-01-21 11:41,11374,+10525,2021-01-19 07:22,T32,"Hahn, James",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+11412,2021-01-21 11:41,18634,+10525,2021-01-19 07:22,71,"McNealy, Maverick",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+11412,2021-01-21 11:41,14926,+10525,2021-01-19 07:22,CUT,"Malnati, Peter",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+11412,2021-01-21 11:41,21554,+10525,2021-01-19 07:22,CUT,"Poston, J.T.",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+11427,2021-01-21 11:41,7961,+10539,2021-01-19 07:22,CUT,"Reavie, Chez",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+11427,2021-01-21 11:41,14606,+10539,2021-01-19 07:22,T21,"Huh, John",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+11970,2021-01-21 11:41,7899,+11040,2021-01-19 07:22,CUT,"Piercy, Scott",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+14280,2021-01-21 11:41,14459,+13172,2021-01-19 07:22,T8,"An, Byeong Hun",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+14280,2021-01-21 11:41,19870,+13172,2021-01-19 07:22,CUT,"McCarthy, Denny",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+14280,2021-01-21 11:41,17538,+13172,2021-01-19 07:22,T21,"Homa, Max",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+14280,2021-01-21 11:41,16433,+13172,2021-01-19 07:22,CUT,"NeSmith, Matthew",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+14280,2021-01-21 11:41,12946,+13172,2021-01-19 07:22,T5,"Thompson, Michael",pinnacle,2021-01-24,The American Express,win,2021,2021,2
+0,loss,+15581,2021-01-21 11:41,9586,+14370,2021-01-19 07:22,T47,"Laird, Martin",pinnacle,2021-01-24,The American Express,win,2021,2021,2

@@ -1,0 +1,59 @@
+bet_outcome_numeric,bet_outcome_text,close_odds,close_time,dg_id,open_odds,open_time,outcome,player_name,book,event_completed,event_name,market,season,year,event_id
+0,loss,+1971,2020-09-09 09:31,14609,+1968,2020-09-08 11:38,T44,"Kim, Si Woo",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+2189,2020-09-09 09:31,1547,+2185,2020-09-08 11:38,T44,"Mickelson, Phil",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+2407,2020-09-09 09:31,11019,+2403,2020-09-08 11:38,T29,"Steele, Brendan",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+2560,2020-09-09 09:31,13900,+2556,2020-09-08 11:38,CUT,"Lowry, Shane",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+2734,2020-09-09 09:31,14509,+2729,2020-09-08 11:38,T52,"Dahmen, Joel",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+2734,2020-09-09 09:31,5689,+2729,2020-09-08 11:38,CUT,"Garcia, Sergio",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+3061,2020-09-09 09:31,16602,+3056,2020-09-08 11:38,T29,"Varner III, Harold",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+3061,2020-09-09 09:31,12808,+3056,2020-09-08 11:38,T29,"Grillo, Emiliano",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+3061,2020-09-09 09:31,14636,+3056,2020-09-08 11:38,CUT,"Spieth, Jordan",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+3606,2020-09-09 09:31,8480,+3600,2020-09-08 11:38,T3,"Streelman, Kevin",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+3606,2020-09-09 09:31,17550,+3600,2020-09-08 11:38,CUT,"Van Rooyen, Erik",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+3606,2020-09-09 09:31,7961,+3600,2020-09-08 11:38,T3,"Reavie, Chez",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+3713,2020-09-09 09:31,24481,+3706,2020-09-08 11:38,T3,"Redman, Doc",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+3825,2020-09-09 09:31,8820,+3818,2020-09-08 11:38,CUT,"Snedeker, Brandt",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+3825,2020-09-09 09:31,17786,+3818,2020-09-08 11:38,T36,"Davis, Cameron",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+4914,2020-09-09 09:31,19483,+4906,2020-09-08 11:38,T7,"Burns, Sam",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+5173,2020-09-09 09:31,16333,+5164,2020-09-08 11:38,CUT,"Hubbard, Mark",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+5459,2020-09-09 09:31,13872,+5450,2020-09-08 11:38,CUT,"Bradley, Keegan",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+5459,2020-09-09 09:31,14502,+5450,2020-09-08 11:38,T14,"Cauley, Bud",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+5956,2020-09-09 09:31,11657,+5946,2020-09-08 11:38,CUT,"Norlander, Henrik",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+5956,2020-09-09 09:31,18580,+5946,2020-09-08 11:38,CUT,"Gooch, Talor",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+6004,2020-09-09 09:31,7960,+5994,2020-09-08 11:38,T65,"List, Luke",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+6004,2020-09-09 09:31,18187,+5994,2020-09-08 11:38,CUT,"Duncan, Tyler",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+6004,2020-09-09 09:31,19870,+5994,2020-09-08 11:38,CUT,"McCarthy, Denny",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+6265,2020-09-09 09:31,14013,+6255,2020-09-08 11:38,CUT,"Tringale, Cameron",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+6265,2020-09-09 09:31,5768,+6255,2020-09-08 11:38,T56,"Hoffman, Charley",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+6549,2020-09-09 09:31,26660,+6538,2020-09-08 11:38,T61,"Gordon, Will",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+6549,2020-09-09 09:31,14735,+6538,2020-09-08 11:38,T46,"Ortiz, Carlos",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+6860,2020-09-09 09:31,7399,+6849,2020-09-08 11:38,T65,"Glover, Lucas",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+7203,2020-09-09 09:31,2881,+7191,2020-09-08 11:38,T46,"Furyk, Jim",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+7203,2020-09-09 09:31,11952,+7191,2020-09-08 11:38,T29,"Grace, Branden",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+7203,2020-09-09 09:31,18634,+7191,2020-09-08 11:38,CUT,"McNealy, Maverick",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+7203,2020-09-09 09:31,16283,+7191,2020-09-08 11:38,T46,"Rodgers, Patrick",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+7203,2020-09-09 09:31,13367,+7191,2020-09-08 11:38,CUT,"Merritt, Troy",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+7203,2020-09-09 09:31,7398,+7191,2020-09-08 11:38,T23,"Schwartzel, Charl",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+7415,2020-09-09 09:31,14967,+7403,2020-09-08 11:38,T14,"Hadley, Chesson",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+7893,2020-09-09 09:31,19477,+7881,2020-09-08 11:38,T61,"Schenk, Adam",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+7893,2020-09-09 09:31,14140,+7881,2020-09-08 11:38,2,"Higgs, Harry",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+8020,2020-09-09 09:31,12069,+8715,2020-09-08 11:38,T46,"Stanley, Kyle",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+8729,2020-09-09 09:31,7457,+8715,2020-09-08 11:38,CUT,"Cabrera Bello, Rafa",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+8729,2020-09-09 09:31,23604,+8715,2020-09-08 11:38,CUT,"Clark, Wyndham",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+8729,2020-09-09 09:31,15575,+8715,2020-09-08 11:38,T29,"Hoge, Tom",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+8729,2020-09-09 09:31,15651,+8715,2020-09-08 11:38,T7,"Ventura, Kristoffer",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+8729,2020-09-09 09:31,21236,+8715,2020-09-08 11:38,CUT,"Bryan, Wesley",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+8729,2020-09-09 09:31,18635,+8715,2020-09-08 11:38,CUT,"Shelton, Robby",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+8729,2020-09-09 09:31,17511,+8715,2020-09-08 11:38,T14,"Straka, Sepp",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+9056,2020-09-09 09:31,13508,+10319,2020-09-08 11:38,T52,"Vegas, Jhonattan",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+9242,2020-09-09 09:31,7899,+9227,2020-09-08 11:38,CUT,"Piercy, Scott",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+9819,2020-09-09 09:31,8469,+9803,2020-09-08 11:38,CUT,"Armour, Ryan",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+9819,2020-09-09 09:31,11451,+9803,2020-09-08 11:38,T67,"Garnett, Brice",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+9819,2020-09-09 09:31,12359,+9803,2020-09-08 11:38,CUT,"Stallings, Scott",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+9819,2020-09-09 09:31,22051,+9803,2020-09-08 11:38,CUT,"Wise, Aaron",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+10336,2020-09-09 09:31,7959,+10319,2020-09-08 11:38,T46,"Holmes, J.B.",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+10336,2020-09-09 09:31,13026,+10319,2020-09-08 11:38,T14,"Zhang, Xinjun",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+10909,2020-09-09 09:31,7301,+10891,2020-09-08 11:38,T29,"Dufner, Jason",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+11429,2020-09-09 09:31,14050,+11410,2020-09-08 11:38,CUT,"Sloan, Roger",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+13634,2020-09-09 09:31,13831,+13612,2020-09-08 11:38,T9,"Knox, Russell",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464
+0,loss,+13634,2020-09-09 09:31,11357,+13612,2020-09-08 11:38,CUT,"Uihlein, Peter",pinnacle,2020-09-13,Safeway Open,win,2021,2020,464

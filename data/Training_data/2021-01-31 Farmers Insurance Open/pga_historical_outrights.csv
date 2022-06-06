@@ -1,0 +1,61 @@
+bet_outcome_numeric,bet_outcome_text,close_odds,close_time,dg_id,open_odds,open_time,outcome,player_name,book,event_completed,event_name,market,season,year,event_id
+0,loss,+724,2021-01-28 07:48,19195,+678,2021-01-26 08:14,T7,"Rahm, Jon",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+788,2021-01-28 07:48,10091,+792,2021-01-26 08:14,T16,"McIlroy, Rory",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+1204,2021-01-28 07:48,19895,+1275,2021-01-26 08:14,T2,"Schauffele, Xander",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+1883,2021-01-28 07:48,14577,+1769,2021-01-26 08:14,CUT,"English, Harris",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+1939,2021-01-28 07:48,11676,+1965,2021-01-26 08:14,T2,"Finau, Tony",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+1,paid in full,+2081,2021-01-28 07:48,14838,+1956,2021-01-26 08:14,1,"Reed, Patrick",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+2362,2021-01-28 07:48,13562,+2827,2021-01-26 08:14,T53,"Matsuyama, Hideki",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+2788,2021-01-28 07:48,18841,+2622,2021-01-26 08:14,T2,"Hovland, Viktor",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+2968,2021-01-28 07:48,17488,+2793,2021-01-26 08:14,T32,"Im, Sungjae",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+3007,2021-01-28 07:48,6430,+4452,2021-01-26 08:14,T10,"Scott, Adam",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+3283,2021-01-28 07:48,25919,+4216,2021-01-26 08:14,WD,"Wolff, Matthew",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+3547,2021-01-28 07:48,16243,+3823,2021-01-26 08:14,CUT,"Koepka, Brooks",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+3560,2021-01-28 07:48,7820,+3354,2021-01-26 08:14,T2,"Palmer, Ryan",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+3833,2021-01-28 07:48,18417,+3608,2021-01-26 08:14,CUT,"Scheffler, Scottie",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+3922,2021-01-28 07:48,7649,+4774,2021-01-26 08:14,T18,"Leishman, Marc",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+4149,2021-01-28 07:48,14609,+3907,2021-01-26 08:14,CUT,"Kim, Si Woo",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+4231,2021-01-28 07:48,9771,+3986,2021-01-26 08:14,CUT,"Day, Jason",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+4572,2021-01-28 07:48,7672,+4305,2021-01-26 08:14,T29,"Oosthuizen, Louis",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+4746,2021-01-28 07:48,7334,+4473,2021-01-26 08:14,CUT,"Watson, Bubba",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+4922,2021-01-28 07:48,17576,+4633,2021-01-26 08:14,T37,"Conners, Corey",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+5151,2021-01-28 07:48,11276,+5703,2021-01-26 08:14,CUT,"Horschel, Billy",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+5437,2021-01-28 07:48,15856,+5120,2021-01-26 08:14,CUT,"Smith, Cameron",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+5770,2021-01-28 07:48,18580,+5434,2021-01-26 08:14,T48,"Gooch, Talor",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+5783,2021-01-28 07:48,12577,+7533,2021-01-26 08:14,T48,"Woodland, Gary",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+5798,2021-01-28 07:48,17786,+5462,2021-01-26 08:14,T32,"Davis, Cameron",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+6050,2021-01-28 07:48,19428,+7213,2021-01-26 08:14,T7,"Zalatoris, Will",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+6166,2021-01-28 07:48,12965,+8645,2021-01-26 08:14,T53,"Fowler, Rickie",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+6190,2021-01-28 07:48,12337,+5830,2021-01-26 08:14,T29,"Kokrak, Jason",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+6565,2021-01-28 07:48,7655,+9507,2021-01-26 08:14,T10,"Molinari, Francesco",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+6794,2021-01-28 07:48,23542,+8645,2021-01-26 08:14,CUT,"Champ, Cameron",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+6922,2021-01-28 07:48,19483,+6524,2021-01-26 08:14,T18,"Burns, Sam",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+7136,2021-01-28 07:48,6892,+8916,2021-01-26 08:14,CUT,"Howell III, Charles",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+7923,2021-01-28 07:48,5768,+7464,2021-01-26 08:14,WD,"Hoffman, Charley",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+8178,2021-01-28 07:48,12808,+7708,2021-01-26 08:14,CUT,"Grillo, Emiliano",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+8501,2021-01-28 07:48,8480,+8009,2021-01-26 08:14,T37,"Streelman, Kevin",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+8501,2021-01-28 07:48,7489,+8009,2021-01-26 08:14,CUT,"Moore, Ryan",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+8501,2021-01-28 07:48,14509,+8009,2021-01-26 08:14,CUT,"Dahmen, Joel",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+9160,2021-01-28 07:48,14735,+8632,2021-01-26 08:14,T29,"Ortiz, Carlos",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+10091,2021-01-28 07:48,14636,+9507,2021-01-26 08:14,CUT,"Spieth, Jordan",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+10091,2021-01-28 07:48,17511,+9507,2021-01-26 08:14,T32,"Straka, Sepp",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+10207,2021-01-28 07:48,14013,+9618,2021-01-26 08:14,T18,"Tringale, Cameron",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+10974,2021-01-28 07:48,7399,+10342,2021-01-26 08:14,T42,"Glover, Lucas",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+11476,2021-01-28 07:48,15575,+10815,2021-01-26 08:14,CUT,"Hoge, Tom",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+11605,2021-01-28 07:48,6283,+10941,2021-01-26 08:14,T10,"Sabbatini, Rory",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+11824,2021-01-28 07:48,14459,+11142,2021-01-26 08:14,T75,"An, Byeong Hun",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+11824,2021-01-28 07:48,11955,+11142,2021-01-26 08:14,T53,"Frittelli, Dylan",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+12172,2021-01-28 07:48,17538,+11473,2021-01-26 08:14,T18,"Homa, Max",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+12172,2021-01-28 07:48,13831,+11473,2021-01-26 08:14,CUT,"Knox, Russell",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+12631,2021-01-28 07:48,17550,+11907,2021-01-26 08:14,CUT,"Van Rooyen, Erik",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+12958,2021-01-28 07:48,14606,+12214,2021-01-26 08:14,T65,"Huh, John",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+12958,2021-01-28 07:48,8605,+12214,2021-01-26 08:14,T48,"Jones, Matt",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+13301,2021-01-28 07:48,15556,+12538,2021-01-26 08:14,CUT,"Hughes, Mackenzie",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+13301,2021-01-28 07:48,15330,+12538,2021-01-26 08:14,T7,"Griffin, Lanto",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+14882,2021-01-28 07:48,10419,+14027,2021-01-26 08:14,T37,"Noren, Alex",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+19056,2021-01-28 07:48,13965,+17964,2021-01-26 08:14,T18,"Hadwin, Adam",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+19056,2021-01-28 07:48,18634,+17964,2021-01-26 08:14,CUT,"McNealy, Maverick",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+19056,2021-01-28 07:48,8820,+17964,2021-01-26 08:14,T32,"Snedeker, Brandt",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+19056,2021-01-28 07:48,24550,+17964,2021-01-26 08:14,T37,"Ghim, Doug",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+19056,2021-01-28 07:48,1547,+17964,2021-01-26 08:14,T53,"Mickelson, Phil",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4
+0,loss,+19490,2021-01-28 07:48,11374,+18372,2021-01-26 08:14,CUT,"Hahn, James",pinnacle,2021-01-31,Farmers Insurance Open,win,2021,2021,4

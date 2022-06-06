@@ -1,0 +1,61 @@
+bet_outcome_numeric,bet_outcome_text,close_odds,close_time,dg_id,open_odds,open_time,outcome,player_name,book,event_completed,event_name,market,season,year,event_id
+0,loss,+709,2021-02-04 07:39,19195,+702,2021-02-01 18:00,T13,"Rahm, Jon",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+894,2021-02-04 07:39,14139,+862,2021-02-01 18:00,T13,"Thomas, Justin",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+1027,2021-02-04 07:39,19895,+1076,2021-02-01 18:00,T2,"Schauffele, Xander",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+1099,2021-02-04 07:39,10091,+1183,2021-02-01 18:00,T13,"McIlroy, Rory",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+1556,2021-02-04 07:39,11049,+1503,2021-02-01 18:00,T42,"Simpson, Webb",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+1910,2021-02-04 07:39,17606,+2145,2021-02-01 18:00,CUT,"Berger, Daniel",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+2124,2021-02-04 07:39,13562,+2359,2021-02-01 18:00,T42,"Matsuyama, Hideki",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+2770,2021-02-04 07:39,14577,+2679,2021-02-01 18:00,CUT,"English, Harris",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+3319,2021-02-04 07:39,17488,+3214,2021-02-01 18:00,T17,"Im, Sungjae",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+3873,2021-02-04 07:39,7334,+4283,2021-02-01 18:00,T22,"Watson, Bubba",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+4139,2021-02-04 07:39,18417,+4817,2021-02-01 18:00,T7,"Scheffler, Scottie",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+4216,2021-02-04 07:39,12965,+4535,2021-02-01 18:00,CUT,"Fowler, Rickie",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+1,paid in full,+4425,2021-02-04 07:39,16243,+4283,2021-02-01 18:00,1,"Koepka, Brooks",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+4425,2021-02-04 07:39,19428,+4283,2021-02-01 18:00,T17,"Zalatoris, Will",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+4425,2021-02-04 07:39,7820,+4283,2021-02-01 18:00,T42,"Palmer, Ryan",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+4781,2021-02-04 07:39,14578,+6142,2021-02-01 18:00,T30,"Henley, Russell",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+4978,2021-02-04 07:39,7672,+4817,2021-02-01 18:00,T11,"Oosthuizen, Louis",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+5239,2021-02-04 07:39,25919,+5071,2021-02-01 18:00,T36,"Wolff, Matthew",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+5530,2021-02-04 07:39,12577,+5352,2021-02-01 18:00,CUT,"Woodland, Gary",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+5530,2021-02-04 07:39,11276,+5352,2021-02-01 18:00,T53,"Horschel, Billy",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+6080,2021-02-04 07:39,9771,+5886,2021-02-01 18:00,CUT,"Day, Jason",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+6080,2021-02-04 07:39,14609,+5886,2021-02-01 18:00,T50,"Kim, Si Woo",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+7294,2021-02-04 07:39,6169,+7062,2021-02-01 18:00,T42,"Kuchar, Matt",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+7736,2021-02-04 07:39,17538,+7490,2021-02-01 18:00,T42,"Homa, Max",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+7736,2021-02-04 07:39,17576,+7490,2021-02-01 18:00,T17,"Conners, Corey",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+7736,2021-02-04 07:39,19483,+7490,2021-02-01 18:00,T22,"Burns, Sam",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+8252,2021-02-04 07:39,14735,+7989,2021-02-01 18:00,T4,"Ortiz, Carlos",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+8841,2021-02-04 07:39,14459,+8559,2021-02-01 18:00,T53,"An, Byeong Hun",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+8841,2021-02-04 07:39,8825,+8559,2021-02-01 18:00,T36,"Harman, Brian",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+8841,2021-02-04 07:39,12425,+8559,2021-02-01 18:00,T22,"Todd, Brendon",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+8841,2021-02-04 07:39,11019,+8559,2021-02-01 18:00,T30,"Steele, Brendan",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+8841,2021-02-04 07:39,23542,+8559,2021-02-01 18:00,CUT,"Champ, Cameron",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+9944,2021-02-04 07:39,14636,+9628,2021-02-01 18:00,T4,"Spieth, Jordan",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+9944,2021-02-04 07:39,11657,+9628,2021-02-01 18:00,T22,"Norlander, Henrik",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+10288,2021-02-04 07:39,7489,+13369,2021-02-01 18:00,CUT,"Moore, Ryan",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+10466,2021-02-04 07:39,12423,+10134,2021-02-01 18:00,CUT,"Kirk, Chris",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+11047,2021-02-04 07:39,6283,+10697,2021-02-01 18:00,CUT,"Sabbatini, Rory",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+11047,2021-02-04 07:39,18580,+10697,2021-02-01 18:00,CUT,"Gooch, Talor",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+11047,2021-02-04 07:39,20770,+10697,2021-02-01 18:00,CUT,"Munoz, Sebastian",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+11047,2021-02-04 07:39,6986,+10697,2021-02-01 18:00,T42,"Johnson, Zach",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+11047,2021-02-04 07:39,13965,+10697,2021-02-01 18:00,T50,"Hadwin, Adam",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+11047,2021-02-04 07:39,15473,+10697,2021-02-01 18:00,CUT,"Long, Adam",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+11047,2021-02-04 07:39,7960,+10869,2021-02-02 22:53,T30,"List, Luke",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+12151,2021-02-04 07:39,13470,+11766,2021-02-01 18:00,T50,"Kizzire, Patton",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+13805,2021-02-04 07:39,22051,+13369,2021-02-01 18:00,66,"Wise, Aaron",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+13805,2021-02-04 07:39,23604,+13369,2021-02-01 18:00,T36,"Clark, Wyndham",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+13805,2021-02-04 07:39,14013,+13369,2021-02-01 18:00,T17,"Tringale, Cameron",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+13805,2021-02-04 07:39,17511,+13369,2021-02-01 18:00,CUT,"Straka, Sepp",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+13805,2021-02-04 07:39,14606,+13369,2021-02-01 18:00,CUT,"Huh, John",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+13805,2021-02-04 07:39,13831,+13369,2021-02-01 18:00,T53,"Knox, Russell",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+13805,2021-02-04 07:39,12946,+13369,2021-02-01 18:00,CUT,"Thompson, Michael",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+13805,2021-02-04 07:39,12808,+13369,2021-02-01 18:00,T22,"Grillo, Emiliano",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+13805,2021-02-04 07:39,11955,+13369,2021-02-01 18:00,CUT,"Frittelli, Dylan",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+13805,2021-02-04 07:39,8605,+13369,2021-02-01 18:00,T30,"Jones, Matt",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+13805,2021-02-04 07:39,8480,+13369,2021-02-01 18:00,T22,"Streelman, Kevin",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+16565,2021-02-04 07:39,17550,+16042,2021-02-01 18:00,CUT,"Van Rooyen, Erik",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+16565,2021-02-04 07:39,14509,+16042,2021-02-01 18:00,CUT,"Dahmen, Joel",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+16565,2021-02-04 07:39,21554,+16042,2021-02-01 18:00,T11,"Poston, J.T.",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+16565,2021-02-04 07:39,9586,+16042,2021-02-01 18:00,CUT,"Laird, Martin",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3
+0,loss,+16565,2021-02-04 07:39,5768,+16042,2021-02-01 18:00,CUT,"Hoffman, Charley",pinnacle,2021-02-07,Waste Management Phoenix Open,win,2021,2021,3

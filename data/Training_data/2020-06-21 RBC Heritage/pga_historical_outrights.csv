@@ -1,0 +1,60 @@
+bet_outcome_numeric,bet_outcome_text,close_odds,close_time,dg_id,open_odds,open_time,outcome,player_name,book,event_completed,event_name,market,season,year,event_id
+0,loss,+1231,2020-06-17 12:24,10091,+1199,2020-06-16 21:58,T41,"McIlroy, Rory",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+1382,2020-06-17 12:24,19841,+1524,2020-06-16 21:58,T8,"DeChambeau, Bryson",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+1499,2020-06-17 12:24,19195,+1710,2020-06-16 21:58,T33,"Rahm, Jon",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+1563,2020-06-17 12:24,14139,+1524,2020-06-16 21:58,T8,"Thomas, Justin",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+2228,2020-06-17 12:24,19895,+2174,2020-06-16 21:58,T64,"Schauffele, Xander",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+2475,2020-06-17 12:24,22085,+2715,2020-06-16 21:58,T64,"Morikawa, Collin",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+2496,2020-06-17 12:24,13562,+3144,2020-06-16 21:58,CUT,"Matsuyama, Hideki",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+1,paid in full,+2583,2020-06-17 12:24,11049,+2520,2020-06-16 21:58,1,"Simpson, Webb",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+3114,2020-06-17 12:24,14838,+3040,2020-06-16 21:58,CUT,"Reed, Patrick",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+3114,2020-06-17 12:24,17488,+3040,2020-06-16 21:58,CUT,"Im, Sungjae",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+3221,2020-06-17 12:24,6093,+3144,2020-06-16 21:58,T14,"Rose, Justin",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+3494,2020-06-17 12:24,14636,+3411,2020-06-16 21:58,T68,"Spieth, Jordan",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+3777,2020-06-17 12:24,17606,+3687,2020-06-16 21:58,T3,"Berger, Daniel",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+3777,2020-06-17 12:24,12577,+3687,2020-06-16 21:58,T62,"Woodland, Gary",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+3889,2020-06-17 12:24,16243,+3797,2020-06-16 21:58,7,"Koepka, Brooks",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+3889,2020-06-17 12:24,6169,+3797,2020-06-16 21:58,T41,"Kuchar, Matt",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+4020,2020-06-17 12:24,12422,+3925,2020-06-16 21:58,T17,"Johnson, Dustin",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+4938,2020-06-17 12:24,14796,+4822,2020-06-16 21:58,T3,"Hatton, Tyrrell",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+5261,2020-06-17 12:24,11676,+5137,2020-06-16 21:58,T33,"Finau, Tony",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+5554,2020-06-17 12:24,11952,+5422,2020-06-16 21:58,61,"Grace, Branden",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+5554,2020-06-17 12:24,11328,+5422,2020-06-16 21:58,CUT,"Kisner, Kevin",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+5554,2020-06-17 12:24,12965,+5422,2020-06-16 21:58,CUT,"Fowler, Rickie",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+6107,2020-06-17 12:24,17646,+5963,2020-06-16 21:58,T14,"Fitzpatrick, Matthew",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+6372,2020-06-17 12:24,18238,+6223,2020-06-16 21:58,2,"Ancer, Abraham",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+7326,2020-06-17 12:24,1435,+7155,2020-06-16 21:58,T14,"Poulter, Ian",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+7326,2020-06-17 12:24,21554,+7155,2020-06-16 21:58,T8,"Poston, J.T.",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+7326,2020-06-17 12:24,12337,+7155,2020-06-16 21:58,CUT,"Kokrak, Jason",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+7326,2020-06-17 12:24,18841,+7155,2020-06-16 21:58,T21,"Hovland, Viktor",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+7326,2020-06-17 12:24,7334,+7155,2020-06-16 21:58,T52,"Watson, Bubba",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+7771,2020-06-17 12:24,9771,+7588,2020-06-16 21:58,CUT,"Day, Jason",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+7771,2020-06-17 12:24,13900,+7588,2020-06-16 21:58,CUT,"Lowry, Shane",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+8287,2020-06-17 12:24,14509,+8093,2020-06-16 21:58,T48,"Dahmen, Joel",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+8287,2020-06-17 12:24,11276,+8093,2020-06-16 21:58,CUT,"Horschel, Billy",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+8878,2020-06-17 12:24,7672,+8670,2020-06-16 21:58,CUT,"Oosthuizen, Louis",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+8878,2020-06-17 12:24,8825,+8670,2020-06-16 21:58,T28,"Harman, Brian",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+8878,2020-06-17 12:24,5689,+8670,2020-06-16 21:58,T5,"Garcia, Sergio",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+9986,2020-06-17 12:24,7457,+9753,2020-06-16 21:58,CUT,"Cabrera Bello, Rafa",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+9986,2020-06-17 12:24,14577,+9753,2020-06-16 21:58,T17,"English, Harris",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+9986,2020-06-17 12:24,6283,+9753,2020-06-16 21:58,T21,"Sabbatini, Rory",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+9986,2020-06-17 12:24,8820,+9753,2020-06-16 21:58,CUT,"Snedeker, Brandt",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+9986,2020-06-17 12:24,14459,+9753,2020-06-16 21:58,CUT,"An, Byeong Hun",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+9986,2020-06-17 12:24,17576,+9753,2020-06-16 21:58,T21,"Conners, Corey",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+11097,2020-06-17 12:24,13965,+10837,2020-06-16 21:58,T41,"Hadwin, Adam",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+11097,2020-06-17 12:24,7960,+10837,2020-06-16 21:58,CUT,"List, Luke",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+11097,2020-06-17 12:24,18079,+10837,2020-06-16 21:58,T5,"Niemann, Joaquin",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+11622,2020-06-17 12:24,14502,+11351,2020-06-16 21:58,CUT,"Cauley, Bud",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+12328,2020-06-17 12:24,7399,+12040,2020-06-16 21:58,T21,"Glover, Lucas",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+13866,2020-06-17 12:24,2881,+13543,2020-06-16 21:58,CUT,"Furyk, Jim",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+13866,2020-06-17 12:24,7820,+13543,2020-06-16 21:58,T8,"Palmer, Ryan",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+13866,2020-06-17 12:24,16602,+13543,2020-06-16 21:58,CUT,"Varner III, Harold",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+13866,2020-06-17 12:24,16283,+13543,2020-06-16 21:58,CUT,"Rodgers, Patrick",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+13866,2020-06-17 12:24,17538,+13543,2020-06-16 21:58,T41,"Homa, Max",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+16064,2020-06-17 12:24,18634,+15689,2020-06-16 21:58,T58,"McNealy, Maverick",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+16636,2020-06-17 12:24,6986,+16249,2020-06-16 21:58,CUT,"Johnson, Zach",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+16636,2020-06-17 12:24,7899,+16249,2020-06-16 21:58,CUT,"Piercy, Scott",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+16636,2020-06-17 12:24,15856,+16249,2020-06-16 21:58,CUT,"Smith, Cameron",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+16636,2020-06-17 12:24,10419,+16249,2020-06-16 21:58,T21,"Noren, Alex",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+16636,2020-06-17 12:24,4163,+16249,2020-06-16 21:58,CUT,"Donald, Luke",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12
+0,loss,+16636,2020-06-17 12:24,7548,+16249,2020-06-16 21:58,CUT,"McDowell, Graeme",pinnacle,2020-06-21,RBC Heritage,win,2020,2020,12

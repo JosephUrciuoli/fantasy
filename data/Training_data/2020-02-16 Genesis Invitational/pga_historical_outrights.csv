@@ -1,0 +1,56 @@
+bet_outcome_numeric,bet_outcome_text,close_odds,close_time,dg_id,open_odds,open_time,outcome,player_name,book,event_completed,event_name,market,season,year,event_id
+0,loss,+818,2020-02-12 11:58,10091,+810,2020-02-11 07:53,T5,"McIlroy, Rory",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+1012,2020-02-12 11:58,19195,+1003,2020-02-11 07:53,T17,"Rahm, Jon",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+1012,2020-02-12 11:58,14139,+1003,2020-02-11 07:53,CUT,"Thomas, Justin",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+1203,2020-02-12 11:58,12422,+1192,2020-02-11 07:53,T10,"Johnson, Dustin",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+1791,2020-02-12 11:58,5321,+1775,2020-02-11 07:53,68,"Woods, Tiger",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+1849,2020-02-12 11:58,19895,+2437,2020-02-11 07:53,T23,"Schauffele, Xander",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+2236,2020-02-12 11:58,15466,+2216,2020-02-11 07:53,T17,"Cantlay, Patrick",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+2459,2020-02-12 11:58,16243,+2437,2020-02-11 07:53,T43,"Koepka, Brooks",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+2791,2020-02-12 11:58,11676,+2767,2020-02-11 07:53,T51,"Finau, Tony",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+3125,2020-02-12 11:58,13562,+3098,2020-02-11 07:53,T5,"Matsuyama, Hideki",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+3296,2020-02-12 11:58,6093,+3267,2020-02-11 07:53,T56,"Rose, Justin",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+1,paid in full,+3348,2020-02-12 11:58,6430,+3319,2020-02-11 07:53,1,"Scott, Adam",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+3682,2020-02-12 11:58,9771,+3650,2020-02-11 07:53,CUT,"Day, Jason",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+4460,2020-02-12 11:58,7649,+4422,2020-02-11 07:53,T43,"Leishman, Marc",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+4460,2020-02-12 11:58,14838,+4422,2020-02-11 07:53,T51,"Reed, Patrick",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+5016,2020-02-12 11:58,1547,+4973,2020-02-11 07:53,CUT,"Mickelson, Phil",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+5016,2020-02-12 11:58,14636,+4973,2020-02-11 07:53,T59,"Spieth, Jordan",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+5280,2020-02-12 11:58,7108,+5235,2020-02-11 07:53,T37,"Casey, Paul",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+5280,2020-02-12 11:58,22085,+5235,2020-02-11 07:53,T26,"Morikawa, Collin",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+5573,2020-02-12 11:58,19841,+5525,2020-02-11 07:53,T5,"DeChambeau, Bryson",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+5573,2020-02-12 11:58,6169,+5525,2020-02-11 07:53,T2,"Kuchar, Matt",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+5573,2020-02-12 11:58,17488,+5525,2020-02-11 07:53,CUT,"Im, Sungjae",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+5838,2020-02-12 11:58,5689,+5788,2020-02-11 07:53,T37,"Garcia, Sergio",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+6079,2020-02-12 11:58,18238,+6027,2020-02-11 07:53,T43,"Ancer, Abraham",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+7352,2020-02-12 11:58,7452,+7289,2020-02-11 07:53,CUT,"Na, Kevin",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+7797,2020-02-12 11:58,17646,+7730,2020-02-11 07:53,T30,"Fitzpatrick, Matthew",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+8909,2020-02-12 11:58,18079,+8833,2020-02-11 07:53,CUT,"Niemann, Joaquin",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+8909,2020-02-12 11:58,11952,+8833,2020-02-11 07:53,CUT,"Grace, Branden",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+9432,2020-02-12 11:58,6892,+9352,2020-02-11 07:53,T59,"Howell III, Charles",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+10020,2020-02-12 11:58,17538,+9935,2020-02-11 07:53,T5,"Homa, Max",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+10020,2020-02-12 11:58,10419,+9935,2020-02-11 07:53,T59,"Noren, Alex",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+10020,2020-02-12 11:58,7489,+9935,2020-02-11 07:53,T30,"Moore, Ryan",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+10020,2020-02-12 11:58,18417,+9935,2020-02-11 07:53,T30,"Scheffler, Scottie",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+11134,2020-02-12 11:58,17576,+11039,2020-02-11 07:53,CUT,"Conners, Corey",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+11134,2020-02-12 11:58,23542,+11039,2020-02-11 07:53,CUT,"Champ, Cameron",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+11134,2020-02-12 11:58,13126,+11039,2020-02-11 07:53,CUT,"Taylor, Nick",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+11134,2020-02-12 11:58,12425,+11039,2020-02-11 07:53,T56,"Todd, Brendon",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+11134,2020-02-12 11:58,13965,+11039,2020-02-11 07:53,T26,"Hadwin, Adam",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+11134,2020-02-12 11:58,7820,+11039,2020-02-11 07:53,67,"Palmer, Ryan",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+11134,2020-02-12 11:58,13872,+11039,2020-02-11 07:53,CUT,"Bradley, Keegan",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+11134,2020-02-12 11:58,12337,+11039,2020-02-11 07:53,CUT,"Kokrak, Jason",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+11663,2020-02-12 11:58,17550,+11564,2020-02-11 07:53,CUT,"Van Rooyen, Erik",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+13914,2020-02-12 11:58,15330,+13796,2020-02-11 07:53,T37,"Griffin, Lanto",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+13914,2020-02-12 11:58,7655,+13796,2020-02-11 07:53,CUT,"Molinari, Francesco",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+13914,2020-02-12 11:58,7899,+13796,2020-02-11 07:53,T17,"Piercy, Scott",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+13914,2020-02-12 11:58,25919,+13796,2020-02-11 07:53,CUT,"Wolff, Matthew",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+13914,2020-02-12 11:58,13831,+13796,2020-02-11 07:53,CUT,"Knox, Russell",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+14651,2020-02-12 11:58,7961,+14527,2020-02-11 07:53,T10,"Reavie, Chez",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+16694,2020-02-12 11:58,2881,+16553,2020-02-11 07:53,CUT,"Furyk, Jim",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+16694,2020-02-12 11:58,8825,+16553,2020-02-11 07:53,T47,"Harman, Brian",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+16694,2020-02-12 11:58,8605,+16553,2020-02-11 07:53,CUT,"Jones, Matt",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+16694,2020-02-12 11:58,14502,+16553,2020-02-11 07:53,T51,"Cauley, Bud",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+16694,2020-02-12 11:58,14704,+16553,2020-02-11 07:53,CUT,"Putnam, Andrew",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+18027,2020-02-12 11:58,16283,+17874,2020-02-11 07:53,T30,"Rodgers, Patrick",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7
+0,loss,+19475,2020-02-12 11:58,6930,+19310,2020-02-11 07:53,T13,"Taylor, Vaughn",pinnacle,2020-02-16,The Genesis Invitational,win,2020,2020,7

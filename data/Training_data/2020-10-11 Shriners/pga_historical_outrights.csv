@@ -1,0 +1,60 @@
+bet_outcome_numeric,bet_outcome_text,close_odds,close_time,dg_id,open_odds,open_time,outcome,player_name,book,event_completed,event_name,market,season,year,event_id
+0,loss,+807,2020-10-07 16:21,19841,+776,2020-10-06 10:21,T8,"DeChambeau, Bryson",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+1144,2020-10-07 16:21,11049,+1105,2020-10-06 10:21,T13,"Simpson, Webb",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+1715,2020-10-07 16:21,22085,+2020,2020-10-06 10:21,CUT,"Morikawa, Collin",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+1740,2020-10-07 16:21,13562,+2201,2020-10-06 10:21,CUT,"Matsuyama, Hideki",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+1825,2020-10-07 16:21,15466,+1762,2020-10-06 10:21,T8,"Cantlay, Patrick",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+2212,2020-10-07 16:21,25919,+2748,2020-10-06 10:21,T2,"Wolff, Matthew",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+2573,2020-10-07 16:21,18417,+3076,2020-10-06 10:21,CUT,"Scheffler, Scottie",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+2845,2020-10-07 16:21,14577,+2748,2020-10-06 10:21,CUT,"English, Harris",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+3548,2020-10-07 16:21,12965,+3624,2020-10-06 10:21,CUT,"Fowler, Rickie",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+3750,2020-10-07 16:21,9771,+3624,2020-10-06 10:21,CUT,"Day, Jason",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+3750,2020-10-07 16:21,17488,+3624,2020-10-06 10:21,T13,"Im, Sungjae",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+3750,2020-10-07 16:21,7108,+3624,2020-10-06 10:21,CUT,"Casey, Paul",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+3861,2020-10-07 16:21,5689,+3731,2020-10-06 10:21,T43,"Garcia, Sergio",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+3977,2020-10-07 16:21,7672,+3843,2020-10-06 10:21,T19,"Oosthuizen, Louis",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+4544,2020-10-07 16:21,12337,+4391,2020-10-06 10:21,CUT,"Kokrak, Jason",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+5020,2020-10-07 16:21,18079,+5487,2020-10-06 10:21,T13,"Niemann, Joaquin",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+5377,2020-10-07 16:21,14578,+5198,2020-10-06 10:21,T27,"Henley, Russell",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+5679,2020-10-07 16:21,18238,+5487,2020-10-06 10:21,4,"Ancer, Abraham",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+5679,2020-10-07 16:21,6986,+5487,2020-10-06 10:21,T19,"Johnson, Zach",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+5863,2020-10-07 16:21,19428,+6297,2020-10-06 10:21,T5,"Zalatoris, Will",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+6243,2020-10-07 16:21,17786,+6035,2020-10-06 10:21,T52,"Davis, Cameron",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+7487,2020-10-07 16:21,20770,+7239,2020-10-06 10:21,T27,"Munoz, Sebastian",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+7487,2020-10-07 16:21,7452,+7239,2020-10-06 10:21,T43,"Na, Kevin",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+7487,2020-10-07 16:21,8825,+7239,2020-10-06 10:21,T13,"Harman, Brian",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+7709,2020-10-07 16:21,15856,+7452,2020-10-06 10:21,T24,"Smith, Cameron",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+7942,2020-10-07 16:21,19483,+7677,2020-10-06 10:21,T34,"Burns, Sam",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+7942,2020-10-07 16:21,14609,+7677,2020-10-06 10:21,T8,"Kim, Si Woo",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+7942,2020-10-07 16:21,24481,+7677,2020-10-06 10:21,CUT,"Redman, Doc",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+8034,2020-10-07 16:21,15651,+8773,2020-10-06 10:21,CUT,"Ventura, Kristoffer",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+8142,2020-10-07 16:21,22051,+8773,2020-10-06 10:21,CUT,"Wise, Aaron",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+8207,2020-10-07 16:21,13872,+7934,2020-10-06 10:21,CUT,"Bradley, Keegan",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+8207,2020-10-07 16:21,21554,+7934,2020-10-06 10:21,T27,"Poston, J.T.",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+8207,2020-10-07 16:21,5768,+7934,2020-10-06 10:21,CUT,"Hoffman, Charley",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+9073,2020-10-07 16:21,19870,+8773,2020-10-06 10:21,57,"McCarthy, Denny",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+9073,2020-10-07 16:21,6169,+8773,2020-10-06 10:21,T34,"Kuchar, Matt",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+9073,2020-10-07 16:21,16602,+8773,2020-10-06 10:21,T13,"Varner III, Harold",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+9073,2020-10-07 16:21,7820,+8773,2020-10-06 10:21,T34,"Palmer, Ryan",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+9073,2020-10-07 16:21,23542,+8773,2020-10-06 10:21,CUT,"Champ, Cameron",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+10206,2020-10-07 16:21,11019,+9868,2020-10-06 10:21,CUT,"Steele, Brendan",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+10206,2020-10-07 16:21,7961,+9868,2020-10-06 10:21,63,"Reavie, Chez",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+11340,2020-10-07 16:21,5665,+10964,2020-10-06 10:21,T64,"Cink, Stewart",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+11340,2020-10-07 16:21,11657,+10964,2020-10-06 10:21,T58,"Norlander, Henrik",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+11340,2020-10-07 16:21,8480,+10964,2020-10-06 10:21,CUT,"Streelman, Kevin",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+11340,2020-10-07 16:21,6762,+10964,2020-10-06 10:21,CUT,"Perez, Pat",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+11340,2020-10-07 16:21,14509,+10964,2020-10-06 10:21,T58,"Dahmen, Joel",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+11340,2020-10-07 16:21,13965,+10964,2020-10-06 10:21,T34,"Hadwin, Adam",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+11340,2020-10-07 16:21,12808,+10964,2020-10-06 10:21,T34,"Grillo, Emiliano",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+11340,2020-10-07 16:21,7960,+10964,2020-10-06 10:21,CUT,"List, Luke",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+11340,2020-10-07 16:21,15330,+10964,2020-10-06 10:21,CUT,"Griffin, Lanto",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+11340,2020-10-07 16:21,8820,+10964,2020-10-06 10:21,T43,"Snedeker, Brandt",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+11476,2020-10-07 16:21,14459,+13702,2020-10-06 10:21,CUT,"An, Byeong Hun",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+12598,2020-10-07 16:21,6892,+12182,2020-10-06 10:21,T34,"Howell III, Charles",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+14172,2020-10-07 16:21,16283,+13702,2020-10-06 10:21,CUT,"Rodgers, Patrick",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+14172,2020-10-07 16:21,11955,+13702,2020-10-06 10:21,T34,"Frittelli, Dylan",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+14172,2020-10-07 16:21,14140,+13702,2020-10-06 10:21,CUT,"Higgs, Harry",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+17003,2020-10-07 16:21,7655,+16441,2020-10-06 10:21,CUT,"Molinari, Francesco",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+17003,2020-10-07 16:21,7398,+16441,2020-10-06 10:21,CUT,"Schwartzel, Charl",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+17003,2020-10-07 16:21,18187,+16441,2020-10-06 10:21,CUT,"Duncan, Tyler",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
+0,loss,+17003,2020-10-07 16:21,15164,+16441,2020-10-06 10:21,T43,"Lewis, Tom",pinnacle,2020-10-11,Shriners Hospitals for Children Open,win,2021,2020,47
