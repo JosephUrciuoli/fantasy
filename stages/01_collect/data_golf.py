@@ -244,14 +244,25 @@ def create_course_history():
         raise Exception("Data Golf fuckery! HTML changed.")
     course_data = json.loads(matches[0])
     # we'll use this as the base by which we'll build the historical dataframe on
-    df = pd.DataFrame(course_data.get("data"))[["course_num", "course_name"]]
+    course_info_df = pd.DataFrame(course_data.get("data"))[
+        ["course_num", "course_name"]
+    ]
+    historical_course_df = pd.DataFrame()
     for course_num, by_year_list in course_data.get("by_years").items():
         print("Working on course: ", course_num)
         course_year_df = pd.DataFrame(by_year_list)
-        course_year_df["course_num"] = course_num
-        df = pd.merge(left=df, right=course_year_df, on="course_num", how="outer")
-    df.to_csv("../../data/data_golf_course_history.csv", index=False)
-    return df
+        course_year_df["course_num"] = int(course_num)
+        course_year_with_info_df = pd.merge(
+            left=course_year_df, right=course_info_df, on="course_num", how="left"
+        )
+        if historical_course_df.empty:
+            historical_course_df = course_year_with_info_df.copy()
+        else:
+            historical_course_df = pd.concat(
+                [historical_course_df, course_year_with_info_df]
+            )
+    historical_course_df.to_csv("../../data/data_golf_course_history.csv", index=False)
+    return historical_course_df
 
 
 # pre_tournament_predictions_archive()
