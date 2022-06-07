@@ -1,0 +1,2 @@
+player_name,sample_size,baseline,age,age_adj,true_sg_adj,timing_adj,sg_category_adj,course_history_adj,driving_dist_adj,driving_acc_adj,fit_other_adj,course_fit_total_adj,final_prediction,std_dev,event_name,course_name
+"Scheffler, Scottie",150,2.102,25,0.022,0.084,-0.059,-0.035,-0.040,-0.105,-0.003,0.037,-0.071,2.004,2.789,"RBC Canadian Open",St. George&
